@@ -1,0 +1,5001 @@
+Date,Country,Weather
+2025-02-10,Iran,Rainy
+2025-02-26,Gambia,Stormy
+2025-01-21,Chad,Sunny
+2024-12-09,Cyprus,Windy
+2025-01-05,Suriname,Cloudy
+2025-02-07,Bolivia,Cloudy
+2025-01-28,Czech Republic,Snowy
+2025-02-15,Croatia,Windy
+2025-02-17,Reunion,Rainy
+2025-03-01,Uzbekistan,Windy
+2025-02-23,Solomon Islands,Cloudy
+2025-02-26,Maldives,Windy
+2025-01-07,Togo,Snowy
+2025-01-21,Cote d'Ivoire,Cloudy
+2024-12-25,El Salvador,Cloudy
+2025-02-23,French Polynesia,Sunny
+2025-02-04,Philippines,Cloudy
+2025-02-24,Anguilla,Windy
+2025-01-21,Tuvalu,Stormy
+2025-02-26,Lithuania,Rainy
+2024-12-29,Central African Republic,Rainy
+2025-02-13,Cuba,Windy
+2024-12-07,Saint Lucia,Rainy
+2025-02-05,Kenya,Snowy
+2025-03-01,Austria,Stormy
+2025-01-10,Guinea-Bissau,Cloudy
+2025-02-09,Guadeloupe,Windy
+2025-02-03,Western Sahara,Rainy
+2025-03-01,Japan,Rainy
+2025-02-14,Ukraine,Stormy
+2025-01-21,Monaco,Rainy
+2024-12-19,Heard Island and McDonald Islands,Windy
+2025-01-01,Iraq,Sunny
+2024-12-22,Tunisia,Cloudy
+2024-12-25,Portugal,Snowy
+2025-02-07,Lesotho,Windy
+2024-12-04,Belize,Cloudy
+2025-01-02,Sudan,Rainy
+2024-12-20,Dominica,Stormy
+2025-02-11,Lesotho,Sunny
+2025-01-06,Romania,Windy
+2025-01-14,American Samoa,Windy
+2025-02-17,Bosnia and Herzegovina,Rainy
+2025-02-28,Kenya,Rainy
+2025-01-28,Singapore,Rainy
+2024-12-13,Bhutan,Stormy
+2025-02-26,Korea,Cloudy
+2025-02-08,Belize,Rainy
+2025-01-06,Japan,Cloudy
+2025-01-23,India,Windy
+2024-12-27,Paraguay,Sunny
+2025-01-07,Libyan Arab Jamahiriya,Windy
+2025-01-01,Algeria,Stormy
+2025-02-14,Tanzania,Sunny
+2025-01-24,Guyana,Stormy
+2025-03-01,Austria,Stormy
+2025-03-01,Iraq,Rainy
+2025-02-26,Sri Lanka,Stormy
+2025-01-17,Greenland,Cloudy
+2024-12-17,Portugal,Rainy
+2025-02-26,Switzerland,Cloudy
+2024-12-26,South Africa,Snowy
+2025-02-16,Guatemala,Cloudy
+2024-12-06,Western Sahara,Snowy
+2025-01-22,Faroe Islands,Rainy
+2025-01-09,Cambodia,Windy
+2024-12-26,Saint Barthelemy,Rainy
+2024-12-07,Thailand,Stormy
+2024-12-02,Comoros,Stormy
+2025-02-02,Saint Martin,Snowy
+2025-01-12,Japan,Sunny
+2024-12-07,Maldives,Cloudy
+2025-02-26,Guinea-Bissau,Snowy
+2024-12-17,Montserrat,Sunny
+2025-01-18,Sri Lanka,Stormy
+2025-01-23,Peru,Rainy
+2025-02-09,Sao Tome and Principe,Cloudy
+2025-01-25,Ghana,Rainy
+2024-12-29,Uzbekistan,Sunny
+2024-12-24,Saint Lucia,Rainy
+2025-01-21,Senegal,Cloudy
+2025-01-09,Slovakia (Slovak Republic),Rainy
+2024-12-23,Slovakia (Slovak Republic),Cloudy
+2025-01-03,Mozambique,Windy
+2025-01-29,Tajikistan,Stormy
+2024-12-24,Jersey,Windy
+2025-03-01,Lebanon,Snowy
+2025-01-14,Korea,Sunny
+2025-01-07,South Africa,Rainy
+2025-01-13,Niger,Rainy
+2025-02-22,Guinea,Windy
+2025-01-16,Guinea,Cloudy
+2025-01-18,Saint Pierre and Miquelon,Stormy
+2024-12-25,Malawi,Rainy
+2024-12-31,Suriname,Windy
+2025-02-09,Estonia,Rainy
+2025-02-12,Tajikistan,Sunny
+2025-02-06,Marshall Islands,Rainy
+2024-12-17,Latvia,Rainy
+2025-02-13,Latvia,Windy
+2025-02-21,Ghana,Cloudy
+2025-01-31,Guam,Sunny
+2025-02-05,Seychelles,Windy
+2024-12-13,Guyana,Sunny
+2024-12-24,Cyprus,Snowy
+2024-12-17,United States of America,Stormy
+2025-02-25,Cuba,Rainy
+2025-02-13,American Samoa,Stormy
+2025-01-14,Slovenia,Sunny
+2025-01-01,Kenya,Windy
+2025-01-06,Namibia,Cloudy
+2025-02-01,Mozambique,Stormy
+2025-01-08,Cape Verde,Windy
+2024-12-27,Japan,Cloudy
+2024-12-03,Argentina,Snowy
+2025-01-18,Madagascar,Cloudy
+2025-02-12,Kazakhstan,Windy
+2025-02-22,Iraq,Cloudy
+2025-01-20,Sweden,Snowy
+2025-02-27,Kazakhstan,Cloudy
+2025-01-14,Armenia,Windy
+2024-12-11,Malaysia,Snowy
+2025-01-24,Thailand,Rainy
+2024-12-26,Papua New Guinea,Cloudy
+2025-02-06,Saint Martin,Windy
+2024-12-07,Saudi Arabia,Windy
+2025-02-14,Guinea-Bissau,Windy
+2025-02-11,Hungary,Windy
+2025-01-26,Palestinian Territory,Stormy
+2025-02-18,Afghanistan,Rainy
+2025-02-13,Kenya,Snowy
+2024-12-02,Colombia,Cloudy
+2025-01-15,Brazil,Snowy
+2025-02-23,Turkmenistan,Sunny
+2025-02-06,Kyrgyz Republic,Cloudy
+2025-01-15,Guatemala,Windy
+2025-02-11,South Georgia and the South Sandwich Islands,Windy
+2025-02-08,Norway,Windy
+2024-12-25,Bulgaria,Snowy
+2024-12-15,Palau,Cloudy
+2024-12-21,Romania,Rainy
+2024-12-24,Belize,Sunny
+2025-01-28,Armenia,Stormy
+2025-01-22,Jersey,Snowy
+2025-01-13,Jordan,Stormy
+2024-12-04,Japan,Windy
+2024-12-18,Bermuda,Sunny
+2025-02-26,Switzerland,Rainy
+2024-12-05,Norfolk Island,Snowy
+2025-01-06,Saint Martin,Stormy
+2025-02-11,Lithuania,Stormy
+2025-02-02,Albania,Snowy
+2025-02-13,Djibouti,Cloudy
+2024-12-10,Germany,Windy
+2025-01-21,South Africa,Cloudy
+2024-12-26,Pakistan,Snowy
+2024-12-12,Cameroon,Stormy
+2024-12-25,Haiti,Windy
+2025-03-01,Brazil,Sunny
+2024-12-19,Micronesia,Snowy
+2025-02-27,Barbados,Rainy
+2025-02-24,Belarus,Stormy
+2024-12-10,Afghanistan,Rainy
+2024-12-04,Sao Tome and Principe,Stormy
+2024-12-17,Panama,Sunny
+2024-12-12,Turks and Caicos Islands,Cloudy
+2025-01-14,Macao,Rainy
+2025-02-12,Tuvalu,Snowy
+2025-02-10,Paraguay,Stormy
+2025-02-16,Australia,Stormy
+2025-01-27,Nepal,Windy
+2024-12-29,Libyan Arab Jamahiriya,Cloudy
+2025-02-28,Mauritania,Stormy
+2024-12-09,Bhutan,Stormy
+2025-01-31,Anguilla,Rainy
+2025-02-25,Bosnia and Herzegovina,Snowy
+2025-02-05,Grenada,Sunny
+2024-12-09,Egypt,Windy
+2025-02-24,India,Snowy
+2025-01-03,Greece,Stormy
+2024-12-22,French Guiana,Sunny
+2025-02-21,Solomon Islands,Snowy
+2025-02-18,Guinea,Sunny
+2024-12-11,Martinique,Sunny
+2025-01-23,Congo,Windy
+2025-01-06,Togo,Cloudy
+2025-02-20,Finland,Snowy
+2025-01-11,Svalbard & Jan Mayen Islands,Stormy
+2025-02-16,Samoa,Stormy
+2025-02-10,Equatorial Guinea,Windy
+2025-02-23,Peru,Stormy
+2025-01-23,Cyprus,Cloudy
+2025-02-04,Mauritius,Rainy
+2024-12-10,Jersey,Windy
+2024-12-19,Eritrea,Stormy
+2025-02-19,Lebanon,Rainy
+2024-12-09,Cape Verde,Cloudy
+2025-01-19,Mayotte,Windy
+2024-12-03,Montenegro,Sunny
+2025-01-06,Dominican Republic,Sunny
+2024-12-21,Qatar,Cloudy
+2024-12-19,Kazakhstan,Stormy
+2025-02-24,Denmark,Rainy
+2024-12-14,Chile,Sunny
+2024-12-15,Italy,Windy
+2025-02-16,Tokelau,Windy
+2025-02-23,Chad,Snowy
+2025-02-27,Palestinian Territory,Sunny
+2025-02-10,Saint Helena,Cloudy
+2024-12-27,Moldova,Cloudy
+2025-01-05,Argentina,Cloudy
+2024-12-12,Bahrain,Snowy
+2024-12-10,Wallis and Futuna,Cloudy
+2025-01-21,Ecuador,Rainy
+2025-02-05,Saint Lucia,Rainy
+2025-01-07,Germany,Sunny
+2025-01-29,Saint Helena,Rainy
+2025-02-12,Thailand,Snowy
+2024-12-25,Panama,Cloudy
+2025-02-06,British Virgin Islands,Sunny
+2025-01-09,Macao,Rainy
+2024-12-28,Zambia,Cloudy
+2025-02-22,Cyprus,Snowy
+2025-01-08,Cuba,Sunny
+2024-12-12,Wallis and Futuna,Rainy
+2025-01-17,Mexico,Rainy
+2025-02-17,Spain,Sunny
+2024-12-28,Netherlands,Rainy
+2024-12-08,Saudi Arabia,Snowy
+2024-12-04,Singapore,Rainy
+2025-02-20,Oman,Sunny
+2025-01-01,Solomon Islands,Windy
+2024-12-16,Croatia,Windy
+2025-02-11,Iraq,Rainy
+2024-12-11,Saint Lucia,Stormy
+2024-12-05,Nauru,Snowy
+2024-12-05,Belize,Stormy
+2025-01-31,Mali,Stormy
+2025-02-20,Martinique,Snowy
+2024-12-22,Guernsey,Sunny
+2025-02-22,Gabon,Snowy
+2025-02-23,Guadeloupe,Windy
+2024-12-16,Egypt,Cloudy
+2024-12-24,Benin,Snowy
+2024-12-24,Svalbard & Jan Mayen Islands,Cloudy
+2025-01-22,Niue,Stormy
+2025-02-09,Philippines,Stormy
+2025-02-06,Bouvet Island (Bouvetoya),Windy
+2025-02-08,Romania,Stormy
+2025-01-27,United Kingdom,Cloudy
+2024-12-02,Costa Rica,Rainy
+2024-12-17,India,Cloudy
+2024-12-03,Mali,Sunny
+2024-12-14,Tunisia,Snowy
+2024-12-31,Liberia,Windy
+2025-01-09,Antarctica (the territory South of 60 deg S),Sunny
+2025-01-16,Mayotte,Cloudy
+2024-12-02,Libyan Arab Jamahiriya,Sunny
+2025-02-20,Azerbaijan,Cloudy
+2025-02-22,Bahamas,Cloudy
+2025-01-16,Libyan Arab Jamahiriya,Windy
+2025-01-27,Kyrgyz Republic,Snowy
+2025-02-10,Malawi,Windy
+2024-12-19,Chile,Sunny
+2025-02-12,Dominica,Cloudy
+2025-02-11,Palestinian Territory,Stormy
+2025-02-28,Cayman Islands,Rainy
+2025-01-04,Angola,Windy
+2025-02-15,India,Snowy
+2025-01-04,Ireland,Stormy
+2025-02-28,Chad,Snowy
+2025-01-23,Zimbabwe,Windy
+2024-12-22,San Marino,Stormy
+2025-02-12,Solomon Islands,Sunny
+2025-02-13,Mozambique,Snowy
+2025-01-28,New Caledonia,Rainy
+2024-12-20,French Polynesia,Cloudy
+2025-01-17,Barbados,Cloudy
+2024-12-29,Venezuela,Stormy
+2025-01-02,Faroe Islands,Rainy
+2024-12-14,Ecuador,Rainy
+2025-02-19,Fiji,Snowy
+2025-01-01,Christmas Island,Rainy
+2024-12-16,Dominican Republic,Stormy
+2025-02-13,Israel,Windy
+2024-12-30,Gambia,Windy
+2025-02-11,Romania,Cloudy
+2025-01-13,Haiti,Rainy
+2025-02-23,Isle of Man,Rainy
+2025-03-01,Saudi Arabia,Sunny
+2025-01-18,United States of America,Sunny
+2025-01-10,Guatemala,Windy
+2025-02-26,United States of America,Sunny
+2024-12-22,Equatorial Guinea,Rainy
+2025-01-02,Benin,Stormy
+2025-02-04,Barbados,Snowy
+2025-01-13,Senegal,Windy
+2024-12-12,Belize,Rainy
+2025-01-25,Morocco,Snowy
+2025-02-02,Western Sahara,Sunny
+2024-12-24,China,Snowy
+2025-01-06,Ethiopia,Sunny
+2025-02-07,Cayman Islands,Stormy
+2024-12-08,Tokelau,Cloudy
+2025-02-04,Algeria,Cloudy
+2025-01-18,Saint Helena,Stormy
+2025-02-23,Senegal,Windy
+2024-12-09,Zambia,Stormy
+2025-01-31,United States Minor Outlying Islands,Stormy
+2024-12-23,Pakistan,Snowy
+2024-12-23,Saint Helena,Sunny
+2024-12-08,El Salvador,Snowy
+2025-01-26,Namibia,Sunny
+2025-01-10,Finland,Windy
+2025-02-27,Bhutan,Cloudy
+2025-01-20,Netherlands,Cloudy
+2025-01-03,New Caledonia,Rainy
+2025-01-02,Lao People's Democratic Republic,Windy
+2025-02-25,Madagascar,Stormy
+2025-02-12,Australia,Windy
+2025-01-06,Lesotho,Windy
+2025-01-20,Egypt,Stormy
+2024-12-06,Latvia,Sunny
+2025-01-08,Sudan,Stormy
+2025-01-01,Samoa,Sunny
+2024-12-29,Luxembourg,Stormy
+2025-02-19,Korea,Cloudy
+2025-01-25,Singapore,Stormy
+2024-12-16,Tunisia,Rainy
+2024-12-08,Greece,Stormy
+2025-01-24,Morocco,Stormy
+2025-03-01,Cape Verde,Sunny
+2025-02-23,Ethiopia,Rainy
+2024-12-18,Armenia,Windy
+2025-02-27,Egypt,Snowy
+2025-02-25,Cote d'Ivoire,Sunny
+2024-12-10,Japan,Rainy
+2025-01-26,United States Minor Outlying Islands,Snowy
+2024-12-21,Burundi,Windy
+2024-12-31,Indonesia,Windy
+2025-01-16,Montserrat,Stormy
+2025-01-31,United Arab Emirates,Stormy
+2025-01-28,Uruguay,Rainy
+2025-01-02,Uganda,Rainy
+2024-12-25,Russian Federation,Sunny
+2025-02-17,Colombia,Sunny
+2024-12-28,Isle of Man,Rainy
+2024-12-09,Antarctica (the territory South of 60 deg S),Cloudy
+2024-12-22,Georgia,Snowy
+2025-02-08,Sri Lanka,Snowy
+2024-12-21,Belarus,Sunny
+2025-01-12,Costa Rica,Stormy
+2024-12-13,Congo,Snowy
+2025-01-19,Fiji,Sunny
+2025-02-03,Niue,Cloudy
+2024-12-20,Israel,Sunny
+2025-01-07,Niger,Cloudy
+2025-02-14,Cape Verde,Cloudy
+2025-01-25,Christmas Island,Stormy
+2024-12-30,Bhutan,Sunny
+2025-02-20,Hong Kong,Cloudy
+2024-12-04,Switzerland,Sunny
+2025-02-09,Cook Islands,Cloudy
+2025-01-16,Korea,Stormy
+2024-12-25,New Zealand,Rainy
+2025-02-01,Czech Republic,Rainy
+2024-12-02,Antigua and Barbuda,Rainy
+2025-01-21,Congo,Rainy
+2024-12-06,Hong Kong,Windy
+2025-02-10,Turks and Caicos Islands,Sunny
+2025-02-03,Nicaragua,Rainy
+2025-01-23,Japan,Cloudy
+2025-02-03,Lesotho,Cloudy
+2025-02-25,Palestinian Territory,Stormy
+2025-01-15,Netherlands,Cloudy
+2025-02-25,Oman,Stormy
+2025-01-05,Lesotho,Sunny
+2024-12-17,Philippines,Rainy
+2025-02-14,Bouvet Island (Bouvetoya),Sunny
+2025-01-11,Turkmenistan,Cloudy
+2025-01-01,Czech Republic,Sunny
+2025-02-05,Nigeria,Cloudy
+2025-01-24,Hong Kong,Rainy
+2024-12-30,North Macedonia,Sunny
+2025-02-04,Macao,Windy
+2025-02-14,Oman,Cloudy
+2024-12-18,Togo,Windy
+2025-02-03,Palau,Stormy
+2025-03-01,Luxembourg,Stormy
+2025-01-04,Ukraine,Rainy
+2025-02-26,Antigua and Barbuda,Stormy
+2024-12-27,Senegal,Cloudy
+2024-12-13,Saint Pierre and Miquelon,Cloudy
+2025-01-27,Central African Republic,Sunny
+2024-12-14,Brunei Darussalam,Windy
+2025-01-24,Timor-Leste,Sunny
+2025-01-08,Tonga,Snowy
+2025-02-12,Puerto Rico,Windy
+2024-12-13,Lithuania,Rainy
+2025-02-09,Sri Lanka,Windy
+2025-02-02,Mozambique,Snowy
+2024-12-06,Monaco,Stormy
+2024-12-17,Slovenia,Snowy
+2025-02-16,Somalia,Snowy
+2025-02-25,Norway,Snowy
+2025-02-19,Vanuatu,Sunny
+2025-01-13,Jordan,Windy
+2024-12-09,Sweden,Snowy
+2025-02-13,Lebanon,Stormy
+2025-02-07,Korea,Cloudy
+2024-12-29,Cook Islands,Windy
+2025-01-13,Ukraine,Snowy
+2025-03-01,Western Sahara,Windy
+2024-12-13,Honduras,Windy
+2025-01-30,Yemen,Cloudy
+2025-02-25,Bulgaria,Sunny
+2025-01-23,Turkey,Stormy
+2024-12-26,Palestinian Territory,Rainy
+2025-02-09,Argentina,Sunny
+2024-12-30,Iceland,Snowy
+2025-01-20,Namibia,Rainy
+2025-01-26,Pitcairn Islands,Sunny
+2024-12-19,Maldives,Cloudy
+2024-12-07,Morocco,Windy
+2025-02-16,Costa Rica,Windy
+2024-12-27,Oman,Snowy
+2025-01-05,Equatorial Guinea,Sunny
+2024-12-24,Grenada,Stormy
+2024-12-24,Brazil,Stormy
+2024-12-21,Dominican Republic,Snowy
+2024-12-28,Iran,Cloudy
+2025-02-27,Albania,Stormy
+2024-12-22,Iran,Snowy
+2025-02-28,Eritrea,Sunny
+2025-01-12,United States of America,Snowy
+2025-02-17,Turkey,Snowy
+2025-01-21,Haiti,Stormy
+2024-12-05,France,Windy
+2025-01-24,Timor-Leste,Rainy
+2025-02-26,Uzbekistan,Rainy
+2024-12-17,Austria,Sunny
+2024-12-27,British Indian Ocean Territory (Chagos Archipelago),Sunny
+2024-12-13,Nauru,Windy
+2025-02-05,Aruba,Rainy
+2025-01-02,Japan,Snowy
+2025-01-25,Sierra Leone,Windy
+2025-02-11,Australia,Windy
+2025-01-12,Switzerland,Stormy
+2025-01-24,Brunei Darussalam,Sunny
+2024-12-26,Faroe Islands,Sunny
+2024-12-30,Guinea,Stormy
+2024-12-02,Bosnia and Herzegovina,Stormy
+2025-01-04,Afghanistan,Cloudy
+2025-01-20,Sri Lanka,Windy
+2024-12-17,Peru,Cloudy
+2025-02-05,Estonia,Cloudy
+2024-12-12,Greenland,Cloudy
+2025-02-06,Gambia,Snowy
+2025-02-17,Saint Lucia,Stormy
+2024-12-13,Nigeria,Rainy
+2025-01-22,Slovakia (Slovak Republic),Snowy
+2025-02-17,United States Minor Outlying Islands,Stormy
+2025-01-28,Moldova,Sunny
+2025-01-17,San Marino,Stormy
+2024-12-11,Saint Pierre and Miquelon,Windy
+2025-03-01,Latvia,Sunny
+2025-02-20,Greenland,Windy
+2025-02-04,Lesotho,Snowy
+2025-02-21,Saint Martin,Sunny
+2025-02-07,Wallis and Futuna,Snowy
+2024-12-28,Falkland Islands (Malvinas),Stormy
+2025-01-28,Dominican Republic,Rainy
+2025-01-24,Ireland,Windy
+2024-12-03,Paraguay,Snowy
+2025-02-01,Saudi Arabia,Windy
+2024-12-25,Madagascar,Sunny
+2025-01-03,Taiwan,Sunny
+2025-01-14,Philippines,Snowy
+2025-01-31,Western Sahara,Sunny
+2025-02-28,Portugal,Sunny
+2024-12-07,Hungary,Stormy
+2025-02-21,Yemen,Cloudy
+2024-12-22,Brunei Darussalam,Cloudy
+2024-12-06,Iceland,Snowy
+2024-12-05,Madagascar,Stormy
+2024-12-30,Saudi Arabia,Cloudy
+2024-12-24,American Samoa,Sunny
+2025-03-01,Faroe Islands,Windy
+2025-01-16,Monaco,Snowy
+2025-02-23,Kyrgyz Republic,Windy
+2025-02-11,Lithuania,Sunny
+2025-02-28,Algeria,Cloudy
+2025-01-02,Zimbabwe,Sunny
+2024-12-02,Canada,Rainy
+2024-12-13,Hong Kong,Windy
+2025-01-06,Christmas Island,Sunny
+2025-02-03,Kyrgyz Republic,Windy
+2024-12-23,Cyprus,Rainy
+2025-02-19,Mali,Cloudy
+2024-12-30,Palestinian Territory,Windy
+2025-01-02,Azerbaijan,Rainy
+2024-12-25,Western Sahara,Sunny
+2025-02-22,Russian Federation,Stormy
+2025-02-14,Netherlands,Windy
+2024-12-20,Sweden,Sunny
+2025-01-01,Barbados,Windy
+2024-12-14,Kazakhstan,Sunny
+2025-02-05,Northern Mariana Islands,Stormy
+2024-12-28,Macao,Rainy
+2025-02-23,Heard Island and McDonald Islands,Stormy
+2025-01-31,Madagascar,Rainy
+2024-12-06,Costa Rica,Sunny
+2025-02-25,Gambia,Snowy
+2024-12-09,Kenya,Stormy
+2024-12-12,Palestinian Territory,Stormy
+2024-12-06,Jersey,Rainy
+2025-01-15,Dominica,Snowy
+2025-01-04,Somalia,Cloudy
+2024-12-06,South Georgia and the South Sandwich Islands,Rainy
+2024-12-08,Cayman Islands,Stormy
+2025-01-21,Malta,Windy
+2025-02-06,Lebanon,Sunny
+2025-01-31,Slovenia,Snowy
+2025-01-10,United Kingdom,Snowy
+2024-12-26,Grenada,Rainy
+2025-02-26,Martinique,Cloudy
+2025-02-15,Qatar,Stormy
+2024-12-05,Syrian Arab Republic,Sunny
+2024-12-18,Bolivia,Windy
+2025-02-22,South Africa,Rainy
+2024-12-05,Azerbaijan,Cloudy
+2025-02-06,Niger,Stormy
+2025-01-01,Denmark,Cloudy
+2024-12-27,Central African Republic,Sunny
+2025-01-09,Central African Republic,Sunny
+2025-01-19,Samoa,Stormy
+2025-01-29,Slovenia,Windy
+2025-01-27,Qatar,Cloudy
+2024-12-26,Cape Verde,Snowy
+2025-02-15,Egypt,Cloudy
+2025-01-12,Bhutan,Cloudy
+2025-01-10,Saint Helena,Snowy
+2025-02-03,Martinique,Windy
+2024-12-18,Saint Kitts and Nevis,Cloudy
+2025-02-12,Iceland,Windy
+2025-01-11,Andorra,Sunny
+2024-12-25,North Macedonia,Snowy
+2025-01-12,Palau,Sunny
+2025-02-23,Cameroon,Snowy
+2025-01-07,Swaziland,Windy
+2024-12-30,Congo,Cloudy
+2024-12-27,Reunion,Windy
+2025-01-17,Estonia,Windy
+2025-01-27,Seychelles,Rainy
+2025-01-05,Gabon,Stormy
+2025-02-06,San Marino,Windy
+2025-01-28,Gambia,Stormy
+2025-01-21,Moldova,Sunny
+2025-01-03,Timor-Leste,Sunny
+2025-01-04,Djibouti,Snowy
+2025-02-02,Saint Kitts and Nevis,Cloudy
+2024-12-26,Suriname,Windy
+2025-02-18,Mexico,Windy
+2025-01-25,Bahamas,Rainy
+2025-02-26,Pakistan,Cloudy
+2025-02-14,Morocco,Windy
+2025-01-26,Greenland,Snowy
+2025-02-20,Mauritius,Rainy
+2025-01-18,Slovenia,Windy
+2025-01-09,Dominican Republic,Snowy
+2024-12-03,Central African Republic,Sunny
+2025-01-30,Cote d'Ivoire,Snowy
+2025-01-18,Slovenia,Windy
+2025-01-18,Guadeloupe,Sunny
+2025-01-06,Niue,Windy
+2024-12-14,Kenya,Stormy
+2025-02-22,Barbados,Snowy
+2025-02-11,Suriname,Cloudy
+2025-02-22,Peru,Sunny
+2024-12-18,Moldova,Rainy
+2025-01-09,Kuwait,Cloudy
+2025-02-12,Georgia,Sunny
+2025-01-08,Cayman Islands,Snowy
+2025-02-23,Guam,Rainy
+2025-02-04,Syrian Arab Republic,Sunny
+2025-02-26,Pitcairn Islands,Stormy
+2024-12-30,Bulgaria,Rainy
+2024-12-22,Liberia,Cloudy
+2025-02-16,Gibraltar,Stormy
+2025-01-31,Timor-Leste,Stormy
+2024-12-22,Netherlands Antilles,Cloudy
+2024-12-16,Iceland,Snowy
+2025-02-16,Northern Mariana Islands,Cloudy
+2025-01-26,Wallis and Futuna,Rainy
+2024-12-03,Malawi,Rainy
+2024-12-16,Uzbekistan,Windy
+2024-12-18,Costa Rica,Snowy
+2024-12-20,Taiwan,Stormy
+2025-02-14,Germany,Rainy
+2025-01-30,Reunion,Windy
+2025-02-15,Chad,Snowy
+2025-01-29,Romania,Rainy
+2024-12-09,Lebanon,Snowy
+2025-01-13,Congo,Rainy
+2025-01-20,Solomon Islands,Rainy
+2025-02-16,Bouvet Island (Bouvetoya),Snowy
+2025-01-15,Trinidad and Tobago,Stormy
+2025-02-21,North Macedonia,Cloudy
+2025-01-24,Switzerland,Rainy
+2025-01-23,Israel,Stormy
+2025-01-13,South Georgia and the South Sandwich Islands,Windy
+2024-12-14,Papua New Guinea,Windy
+2025-01-19,Australia,Cloudy
+2025-02-14,Bosnia and Herzegovina,Windy
+2024-12-05,Gambia,Windy
+2025-02-25,Italy,Cloudy
+2024-12-09,Benin,Snowy
+2024-12-16,Ecuador,Stormy
+2024-12-11,Chad,Windy
+2025-01-31,Montenegro,Stormy
+2025-01-10,Mauritania,Windy
+2024-12-06,Isle of Man,Stormy
+2025-01-26,Iran,Cloudy
+2025-02-06,Belgium,Cloudy
+2025-01-27,Falkland Islands (Malvinas),Sunny
+2025-02-09,United States Minor Outlying Islands,Stormy
+2024-12-06,Bouvet Island (Bouvetoya),Stormy
+2024-12-23,American Samoa,Snowy
+2025-01-16,Costa Rica,Cloudy
+2025-01-14,Denmark,Stormy
+2024-12-31,Barbados,Windy
+2025-02-07,Montserrat,Snowy
+2024-12-30,Montenegro,Windy
+2025-01-20,Jamaica,Windy
+2024-12-22,Germany,Sunny
+2025-02-23,Tajikistan,Stormy
+2025-02-01,Jamaica,Windy
+2025-01-08,British Indian Ocean Territory (Chagos Archipelago),Sunny
+2025-01-23,Central African Republic,Windy
+2025-02-25,Guernsey,Stormy
+2024-12-03,Uganda,Stormy
+2024-12-02,Barbados,Snowy
+2024-12-27,Iran,Stormy
+2025-02-16,Ukraine,Rainy
+2025-01-08,Morocco,Cloudy
+2025-01-02,Guadeloupe,Sunny
+2025-02-10,Albania,Windy
+2025-01-11,British Indian Ocean Territory (Chagos Archipelago),Snowy
+2025-01-31,Madagascar,Rainy
+2024-12-15,Georgia,Cloudy
+2025-02-25,Guam,Stormy
+2025-02-15,Papua New Guinea,Stormy
+2025-01-26,Philippines,Sunny
+2024-12-28,Latvia,Snowy
+2025-02-14,Kenya,Snowy
+2024-12-28,Monaco,Windy
+2024-12-15,Tajikistan,Windy
+2024-12-18,Hungary,Rainy
+2025-01-06,Solomon Islands,Snowy
+2024-12-28,Montserrat,Snowy
+2024-12-31,Uruguay,Snowy
+2025-02-18,Iraq,Windy
+2024-12-30,Hong Kong,Stormy
+2025-02-10,Lao People's Democratic Republic,Windy
+2024-12-27,Senegal,Snowy
+2024-12-23,Norway,Cloudy
+2025-01-25,Mozambique,Snowy
+2025-01-13,India,Stormy
+2025-02-12,Antarctica (the territory South of 60 deg S),Sunny
+2024-12-18,Western Sahara,Snowy
+2024-12-16,Ireland,Sunny
+2025-02-07,Kuwait,Sunny
+2024-12-20,Singapore,Windy
+2024-12-30,Cayman Islands,Snowy
+2025-02-05,Bulgaria,Snowy
+2025-01-24,Haiti,Rainy
+2025-01-03,Luxembourg,Sunny
+2025-01-28,Samoa,Cloudy
+2025-01-29,Argentina,Stormy
+2025-01-02,Australia,Windy
+2025-01-04,Oman,Snowy
+2024-12-24,Christmas Island,Windy
+2025-01-23,Belgium,Windy
+2024-12-11,Swaziland,Rainy
+2025-02-02,Panama,Sunny
+2025-01-20,Zimbabwe,Sunny
+2024-12-10,Saint Martin,Sunny
+2024-12-26,Anguilla,Windy
+2024-12-10,North Macedonia,Sunny
+2025-02-20,Botswana,Snowy
+2025-01-19,New Zealand,Sunny
+2025-02-16,Togo,Sunny
+2024-12-14,Malta,Windy
+2024-12-16,Germany,Windy
+2025-02-26,Venezuela,Sunny
+2024-12-16,Bolivia,Windy
+2025-01-09,Bulgaria,Sunny
+2025-01-27,Uruguay,Sunny
+2025-01-18,Niger,Sunny
+2025-02-26,Montenegro,Windy
+2025-02-17,Turks and Caicos Islands,Cloudy
+2024-12-14,Wallis and Futuna,Sunny
+2025-01-06,Mongolia,Rainy
+2025-02-07,Afghanistan,Windy
+2024-12-08,Mauritius,Rainy
+2024-12-24,Monaco,Rainy
+2025-02-01,New Zealand,Cloudy
+2025-01-01,Chad,Stormy
+2025-01-23,Chile,Rainy
+2025-01-28,Western Sahara,Windy
+2024-12-08,Iceland,Windy
+2025-01-04,Chile,Sunny
+2024-12-15,Honduras,Snowy
+2024-12-17,Switzerland,Stormy
+2025-01-28,Comoros,Cloudy
+2025-02-22,Brazil,Snowy
+2025-02-02,Philippines,Windy
+2025-02-16,Jersey,Windy
+2025-01-11,Western Sahara,Stormy
+2024-12-26,Kuwait,Sunny
+2025-02-03,Peru,Cloudy
+2024-12-07,India,Cloudy
+2025-02-27,Turkey,Snowy
+2025-02-28,Marshall Islands,Cloudy
+2024-12-28,Tonga,Rainy
+2025-02-26,Togo,Windy
+2024-12-17,South Africa,Windy
+2025-02-26,Reunion,Stormy
+2025-02-26,Namibia,Stormy
+2024-12-18,Trinidad and Tobago,Rainy
+2024-12-07,Iceland,Snowy
+2025-02-12,Jersey,Stormy
+2025-02-12,Rwanda,Rainy
+2025-02-14,Equatorial Guinea,Snowy
+2025-02-06,Cote d'Ivoire,Snowy
+2025-01-09,Morocco,Stormy
+2024-12-31,American Samoa,Snowy
+2024-12-26,Congo,Cloudy
+2024-12-26,Somalia,Snowy
+2024-12-26,Burkina Faso,Stormy
+2024-12-28,Belarus,Stormy
+2025-02-24,Liberia,Snowy
+2025-01-04,Saint Helena,Windy
+2025-02-19,Equatorial Guinea,Stormy
+2025-03-01,Greece,Stormy
+2025-01-13,Switzerland,Stormy
+2025-01-20,New Zealand,Windy
+2024-12-18,Lesotho,Windy
+2025-01-13,Pitcairn Islands,Sunny
+2025-02-11,Seychelles,Stormy
+2024-12-08,Comoros,Snowy
+2024-12-07,Philippines,Windy
+2025-02-23,Georgia,Rainy
+2024-12-20,Guinea,Windy
+2024-12-24,Mongolia,Rainy
+2025-01-30,Uganda,Snowy
+2024-12-22,Bangladesh,Snowy
+2025-02-08,Georgia,Stormy
+2025-02-03,Vietnam,Windy
+2025-01-12,Swaziland,Windy
+2025-01-15,Mali,Rainy
+2025-01-19,Montserrat,Windy
+2025-01-26,Samoa,Cloudy
+2025-01-23,Libyan Arab Jamahiriya,Sunny
+2025-01-13,Peru,Windy
+2024-12-26,Namibia,Windy
+2025-01-26,Saint Martin,Stormy
+2025-02-07,Switzerland,Windy
+2024-12-21,Estonia,Rainy
+2025-02-19,Poland,Sunny
+2025-01-13,Bahamas,Stormy
+2025-02-21,Hungary,Rainy
+2025-01-14,Romania,Windy
+2024-12-14,Qatar,Windy
+2025-02-16,Germany,Snowy
+2025-02-08,Guinea-Bissau,Rainy
+2025-01-16,Taiwan,Snowy
+2025-01-05,French Southern Territories,Windy
+2024-12-03,New Zealand,Rainy
+2025-01-23,Botswana,Rainy
+2025-02-23,Vietnam,Snowy
+2025-02-28,Afghanistan,Snowy
+2025-02-03,Sri Lanka,Snowy
+2024-12-16,Bosnia and Herzegovina,Stormy
+2024-12-09,Serbia,Windy
+2024-12-02,Haiti,Cloudy
+2024-12-30,Costa Rica,Cloudy
+2024-12-21,Honduras,Snowy
+2025-02-09,China,Rainy
+2024-12-11,Slovenia,Windy
+2025-01-04,Spain,Sunny
+2025-02-04,Ethiopia,Sunny
+2025-01-02,Equatorial Guinea,Sunny
+2024-12-26,Dominica,Stormy
+2025-01-05,Slovakia (Slovak Republic),Stormy
+2025-01-28,Slovenia,Rainy
+2024-12-16,Finland,Snowy
+2025-01-10,Western Sahara,Windy
+2024-12-05,Qatar,Windy
+2025-02-18,Albania,Stormy
+2024-12-16,Togo,Stormy
+2025-02-15,Bosnia and Herzegovina,Snowy
+2025-02-24,Bahrain,Snowy
+2025-02-11,Bosnia and Herzegovina,Cloudy
+2025-01-14,Saint Kitts and Nevis,Cloudy
+2025-02-03,Cuba,Windy
+2025-01-13,British Indian Ocean Territory (Chagos Archipelago),Rainy
+2024-12-17,Pakistan,Rainy
+2024-12-31,Solomon Islands,Snowy
+2024-12-07,Djibouti,Windy
+2024-12-03,Suriname,Snowy
+2025-01-16,Uruguay,Rainy
+2024-12-19,Marshall Islands,Cloudy
+2024-12-13,Benin,Sunny
+2024-12-05,Chile,Windy
+2025-01-07,Ireland,Rainy
+2024-12-07,Saudi Arabia,Rainy
+2024-12-23,United States Minor Outlying Islands,Snowy
+2024-12-28,Lithuania,Cloudy
+2024-12-16,Bahamas,Sunny
+2024-12-19,Argentina,Windy
+2025-01-19,Palestinian Territory,Rainy
+2024-12-16,Malawi,Stormy
+2024-12-27,Netherlands,Rainy
+2025-01-26,Sao Tome and Principe,Stormy
+2025-01-30,Faroe Islands,Stormy
+2025-01-02,Dominican Republic,Windy
+2025-02-05,Saint Helena,Rainy
+2025-02-07,Dominica,Rainy
+2025-01-24,Slovenia,Snowy
+2025-02-14,Pakistan,Stormy
+2025-01-10,Guatemala,Stormy
+2024-12-28,India,Rainy
+2025-02-10,Saint Martin,Sunny
+2024-12-17,Dominican Republic,Snowy
+2024-12-12,Malaysia,Sunny
+2025-02-04,Congo,Stormy
+2025-01-07,Ukraine,Rainy
+2024-12-12,Samoa,Windy
+2025-01-21,Fiji,Snowy
+2024-12-02,Anguilla,Rainy
+2025-01-11,Kenya,Sunny
+2025-02-10,Paraguay,Stormy
+2024-12-03,Venezuela,Rainy
+2025-01-28,Reunion,Snowy
+2025-01-25,Jordan,Sunny
+2025-01-13,Mauritius,Rainy
+2025-01-25,Cook Islands,Sunny
+2024-12-04,Sao Tome and Principe,Snowy
+2024-12-24,Jamaica,Sunny
+2024-12-22,Saint Martin,Sunny
+2025-02-11,New Zealand,Windy
+2025-02-06,Tunisia,Snowy
+2025-02-10,Antarctica (the territory South of 60 deg S),Windy
+2025-03-01,Kiribati,Sunny
+2025-01-11,Western Sahara,Cloudy
+2025-02-13,Benin,Rainy
+2024-12-31,Sri Lanka,Stormy
+2025-02-19,Czech Republic,Rainy
+2025-02-09,Luxembourg,Snowy
+2025-03-01,Serbia,Sunny
+2025-01-23,Netherlands Antilles,Windy
+2024-12-15,Cayman Islands,Snowy
+2025-02-19,Tonga,Snowy
+2025-02-17,Slovakia (Slovak Republic),Stormy
+2024-12-30,Libyan Arab Jamahiriya,Cloudy
+2025-01-24,Italy,Stormy
+2024-12-30,Ghana,Windy
+2024-12-21,Micronesia,Sunny
+2025-02-03,Brunei Darussalam,Sunny
+2025-01-18,Malta,Snowy
+2025-01-24,Togo,Stormy
+2025-02-13,Ghana,Sunny
+2024-12-31,Mongolia,Snowy
+2025-02-23,Cote d'Ivoire,Snowy
+2025-01-26,Syrian Arab Republic,Rainy
+2025-01-05,Hong Kong,Rainy
+2024-12-28,Niger,Rainy
+2025-02-14,Denmark,Sunny
+2025-02-24,Guadeloupe,Rainy
+2024-12-10,Romania,Snowy
+2024-12-18,South Georgia and the South Sandwich Islands,Cloudy
+2025-01-07,Guernsey,Stormy
+2025-02-21,Sri Lanka,Sunny
+2024-12-02,Iran,Rainy
+2024-12-17,Turkmenistan,Rainy
+2024-12-26,South Africa,Rainy
+2025-01-15,New Zealand,Rainy
+2025-01-30,Guinea,Stormy
+2025-01-21,Uzbekistan,Snowy
+2025-02-20,Turks and Caicos Islands,Windy
+2024-12-21,Philippines,Stormy
+2024-12-02,Cook Islands,Sunny
+2025-02-17,Norfolk Island,Cloudy
+2025-02-23,Switzerland,Stormy
+2025-01-13,North Macedonia,Stormy
+2025-02-09,Bangladesh,Sunny
+2025-01-10,Ecuador,Windy
+2025-02-03,Lesotho,Cloudy
+2025-01-08,Reunion,Windy
+2025-02-18,Canada,Windy
+2025-02-23,Malaysia,Stormy
+2025-01-11,Peru,Cloudy
+2025-02-07,South Georgia and the South Sandwich Islands,Snowy
+2025-01-11,Japan,Cloudy
+2025-01-07,Guam,Sunny
+2025-01-24,Finland,Cloudy
+2025-02-08,Palestinian Territory,Snowy
+2024-12-30,Uzbekistan,Rainy
+2025-01-24,Portugal,Sunny
+2025-02-04,Kazakhstan,Stormy
+2025-01-12,Algeria,Windy
+2025-01-21,Martinique,Cloudy
+2025-01-02,Venezuela,Cloudy
+2024-12-10,Ukraine,Cloudy
+2025-01-08,Greenland,Rainy
+2025-02-05,Tajikistan,Windy
+2025-01-13,Turks and Caicos Islands,Cloudy
+2025-02-17,Suriname,Rainy
+2024-12-19,Isle of Man,Windy
+2024-12-23,Sierra Leone,Cloudy
+2025-02-14,Russian Federation,Stormy
+2024-12-03,British Virgin Islands,Cloudy
+2024-12-14,Montserrat,Snowy
+2025-01-05,Australia,Cloudy
+2025-01-25,New Caledonia,Sunny
+2025-01-02,Papua New Guinea,Windy
+2025-02-21,Tajikistan,Stormy
+2025-01-18,Peru,Rainy
+2024-12-26,Macao,Sunny
+2025-01-05,Slovakia (Slovak Republic),Cloudy
+2025-02-23,Wallis and Futuna,Windy
+2024-12-29,Burundi,Sunny
+2025-01-19,Cocos (Keeling) Islands,Stormy
+2025-01-01,Lithuania,Sunny
+2025-01-29,Afghanistan,Windy
+2025-02-12,Honduras,Cloudy
+2024-12-11,Romania,Stormy
+2025-02-09,United Arab Emirates,Cloudy
+2025-02-18,Somalia,Sunny
+2025-02-04,British Indian Ocean Territory (Chagos Archipelago),Stormy
+2025-02-24,Bulgaria,Rainy
+2025-01-26,Belarus,Cloudy
+2024-12-19,Burkina Faso,Cloudy
+2025-01-11,American Samoa,Stormy
+2025-02-04,Nepal,Snowy
+2025-01-18,Algeria,Windy
+2025-02-04,Dominica,Snowy
+2025-02-07,India,Windy
+2025-01-01,Monaco,Snowy
+2025-01-03,Cote d'Ivoire,Windy
+2025-02-09,Ghana,Snowy
+2024-12-24,British Indian Ocean Territory (Chagos Archipelago),Stormy
+2025-01-29,Congo,Cloudy
+2025-02-19,Kyrgyz Republic,Windy
+2025-01-27,Yemen,Cloudy
+2024-12-26,Angola,Windy
+2024-12-12,British Virgin Islands,Windy
+2024-12-30,Central African Republic,Windy
+2024-12-20,Netherlands,Cloudy
+2025-01-19,Kenya,Rainy
+2025-01-06,Faroe Islands,Rainy
+2024-12-07,Belgium,Rainy
+2025-02-14,Mayotte,Cloudy
+2025-01-14,Gambia,Rainy
+2025-01-10,Guam,Cloudy
+2025-01-19,Tuvalu,Rainy
+2025-01-13,Burkina Faso,Rainy
+2024-12-10,Bosnia and Herzegovina,Rainy
+2025-02-15,Tunisia,Sunny
+2024-12-13,Wallis and Futuna,Windy
+2025-01-15,Italy,Sunny
+2025-02-28,Niger,Sunny
+2025-01-02,Jamaica,Windy
+2025-02-05,Vietnam,Cloudy
+2025-02-06,Haiti,Rainy
+2024-12-13,Congo,Sunny
+2025-01-23,Tanzania,Rainy
+2025-02-09,France,Stormy
+2025-01-11,India,Cloudy
+2025-02-18,Suriname,Sunny
+2025-01-24,Paraguay,Rainy
+2024-12-25,Anguilla,Stormy
+2025-02-28,Malta,Rainy
+2024-12-06,France,Windy
+2024-12-28,Saint Kitts and Nevis,Windy
+2025-01-31,Madagascar,Windy
+2024-12-06,Hong Kong,Sunny
+2025-01-02,Bangladesh,Stormy
+2025-01-05,Grenada,Snowy
+2024-12-10,Jordan,Sunny
+2025-02-05,Finland,Rainy
+2025-01-28,Cambodia,Sunny
+2025-02-20,Myanmar,Windy
+2025-02-10,Singapore,Stormy
+2025-02-12,Tunisia,Cloudy
+2025-02-21,Nicaragua,Windy
+2025-02-05,United Kingdom,Snowy
+2024-12-17,Angola,Stormy
+2024-12-22,Yemen,Cloudy
+2024-12-16,Guinea,Snowy
+2024-12-14,Saint Barthelemy,Snowy
+2024-12-11,Bouvet Island (Bouvetoya),Snowy
+2025-01-12,Cuba,Cloudy
+2025-01-31,Ethiopia,Cloudy
+2025-02-13,Central African Republic,Sunny
+2025-01-08,Egypt,Stormy
+2025-01-30,Latvia,Snowy
+2025-02-19,Mauritius,Rainy
+2024-12-12,Sao Tome and Principe,Windy
+2024-12-18,India,Stormy
+2024-12-31,Kuwait,Rainy
+2025-01-27,Bangladesh,Snowy
+2025-03-01,Oman,Rainy
+2025-01-03,Chad,Stormy
+2024-12-26,Malta,Windy
+2024-12-19,Gibraltar,Cloudy
+2024-12-11,Nauru,Cloudy
+2025-03-01,Malaysia,Rainy
+2025-02-08,Gabon,Rainy
+2024-12-16,Moldova,Cloudy
+2025-01-24,Nauru,Windy
+2025-01-23,El Salvador,Windy
+2024-12-19,Portugal,Stormy
+2025-02-23,Finland,Cloudy
+2025-01-16,Guatemala,Stormy
+2025-01-17,Lesotho,Stormy
+2024-12-21,Paraguay,Snowy
+2024-12-14,Barbados,Sunny
+2025-02-21,Japan,Windy
+2025-02-02,Iran,Snowy
+2025-02-19,Christmas Island,Cloudy
+2024-12-07,Cocos (Keeling) Islands,Windy
+2025-01-31,Lebanon,Cloudy
+2025-01-22,Zambia,Cloudy
+2025-02-23,Belize,Sunny
+2025-01-11,Montenegro,Snowy
+2025-02-07,Greece,Stormy
+2024-12-04,Mauritania,Sunny
+2025-01-01,Venezuela,Rainy
+2024-12-26,Holy See (Vatican City State),Windy
+2025-01-31,Saint Helena,Windy
+2025-01-13,Argentina,Sunny
+2024-12-05,San Marino,Stormy
+2025-02-02,Hungary,Cloudy
+2025-01-07,Christmas Island,Sunny
+2025-02-19,French Guiana,Snowy
+2025-02-20,Eritrea,Rainy
+2025-02-16,Liechtenstein,Cloudy
+2025-02-25,Turkmenistan,Cloudy
+2025-01-17,Antarctica (the territory South of 60 deg S),Sunny
+2025-02-16,Ukraine,Cloudy
+2025-02-10,Rwanda,Sunny
+2025-01-23,Uzbekistan,Sunny
+2025-02-10,Kiribati,Stormy
+2025-01-01,Cote d'Ivoire,Cloudy
+2025-01-10,Belize,Stormy
+2024-12-15,Saint Pierre and Miquelon,Sunny
+2025-01-08,Cayman Islands,Stormy
+2024-12-26,Syrian Arab Republic,Stormy
+2024-12-03,Vanuatu,Sunny
+2025-01-18,Haiti,Stormy
+2025-01-06,Bolivia,Sunny
+2025-02-18,Guyana,Sunny
+2025-01-18,Portugal,Sunny
+2025-01-10,Puerto Rico,Windy
+2025-01-17,Ghana,Cloudy
+2024-12-21,Antigua and Barbuda,Sunny
+2025-01-24,Nepal,Cloudy
+2025-02-05,Martinique,Windy
+2024-12-04,Belgium,Rainy
+2025-01-18,Lesotho,Cloudy
+2024-12-03,Azerbaijan,Snowy
+2024-12-07,Dominican Republic,Stormy
+2024-12-03,Nauru,Cloudy
+2025-01-05,Turkmenistan,Stormy
+2025-02-02,Serbia,Sunny
+2025-02-11,Mongolia,Rainy
+2024-12-10,Latvia,Windy
+2025-02-10,Iraq,Windy
+2025-02-04,Switzerland,Snowy
+2025-01-26,Romania,Stormy
+2025-02-28,Chad,Windy
+2024-12-30,Chad,Cloudy
+2025-02-15,Christmas Island,Snowy
+2025-02-20,Saint Lucia,Snowy
+2025-02-18,Estonia,Cloudy
+2025-01-30,Mongolia,Rainy
+2025-02-28,Albania,Windy
+2025-01-20,Barbados,Stormy
+2025-01-06,Gambia,Windy
+2025-01-28,Ukraine,Windy
+2024-12-28,Ireland,Windy
+2025-01-04,Congo,Windy
+2025-02-21,Tonga,Windy
+2025-01-09,Lesotho,Rainy
+2025-02-19,Liechtenstein,Stormy
+2025-02-02,Burundi,Cloudy
+2025-02-27,Mongolia,Windy
+2024-12-27,Western Sahara,Windy
+2025-02-17,Lao People's Democratic Republic,Rainy
+2025-02-02,Hungary,Windy
+2025-01-27,Bhutan,Windy
+2024-12-04,France,Cloudy
+2024-12-28,Iceland,Rainy
+2025-01-06,Palestinian Territory,Windy
+2024-12-26,Somalia,Windy
+2025-01-17,Vanuatu,Sunny
+2024-12-13,American Samoa,Rainy
+2024-12-29,Canada,Sunny
+2025-01-04,Solomon Islands,Stormy
+2025-02-04,France,Windy
+2025-02-28,Somalia,Stormy
+2024-12-09,Saint Pierre and Miquelon,Rainy
+2024-12-18,Tonga,Rainy
+2025-01-26,Mozambique,Stormy
+2024-12-28,Saudi Arabia,Windy
+2025-03-01,American Samoa,Stormy
+2024-12-16,Benin,Sunny
+2025-01-10,Palestinian Territory,Stormy
+2025-02-25,Korea,Snowy
+2024-12-11,Slovenia,Cloudy
+2025-02-28,Lao People's Democratic Republic,Snowy
+2025-02-26,Vietnam,Snowy
+2025-02-04,Burundi,Windy
+2025-01-10,Nepal,Windy
+2025-01-21,Mauritania,Windy
+2025-01-17,British Virgin Islands,Cloudy
+2025-01-11,Kuwait,Rainy
+2024-12-07,Iraq,Sunny
+2025-01-11,Sri Lanka,Rainy
+2025-02-18,Congo,Stormy
+2025-01-17,United States of America,Windy
+2025-02-28,Tuvalu,Rainy
+2025-01-25,Central African Republic,Sunny
+2025-01-14,Hong Kong,Rainy
+2025-02-26,Cocos (Keeling) Islands,Sunny
+2025-02-27,Tanzania,Snowy
+2024-12-03,San Marino,Snowy
+2025-02-17,Fiji,Stormy
+2025-02-21,Bahamas,Rainy
+2024-12-25,Luxembourg,Rainy
+2025-01-26,Jersey,Sunny
+2025-01-26,Turks and Caicos Islands,Cloudy
+2025-01-11,Brazil,Cloudy
+2024-12-28,Timor-Leste,Windy
+2025-02-03,Cape Verde,Rainy
+2024-12-11,Botswana,Stormy
+2025-02-15,Guam,Snowy
+2025-01-16,Liberia,Cloudy
+2024-12-28,Saint Kitts and Nevis,Rainy
+2024-12-18,Samoa,Cloudy
+2025-02-12,Mayotte,Stormy
+2025-02-06,Guernsey,Snowy
+2025-02-13,South Africa,Sunny
+2024-12-16,Georgia,Rainy
+2024-12-23,Slovenia,Snowy
+2025-01-16,United States Minor Outlying Islands,Rainy
+2025-01-28,Panama,Rainy
+2025-01-19,Lebanon,Windy
+2024-12-17,Equatorial Guinea,Sunny
+2025-01-14,Svalbard & Jan Mayen Islands,Windy
+2024-12-03,Tanzania,Cloudy
+2025-01-16,Oman,Rainy
+2024-12-03,Cape Verde,Windy
+2025-02-24,Bangladesh,Rainy
+2025-02-05,France,Sunny
+2024-12-14,Guyana,Cloudy
+2025-01-28,Denmark,Snowy
+2025-01-27,Cocos (Keeling) Islands,Stormy
+2024-12-23,Andorra,Cloudy
+2024-12-15,Belize,Stormy
+2025-01-15,Cambodia,Rainy
+2024-12-28,Timor-Leste,Windy
+2024-12-27,Svalbard & Jan Mayen Islands,Cloudy
+2025-02-21,Egypt,Sunny
+2024-12-04,Ukraine,Snowy
+2025-02-02,Seychelles,Sunny
+2025-02-09,Mauritius,Stormy
+2025-01-31,Georgia,Snowy
+2024-12-17,Cote d'Ivoire,Rainy
+2025-01-11,Martinique,Stormy
+2024-12-15,Lithuania,Cloudy
+2025-02-16,Congo,Sunny
+2024-12-12,Namibia,Windy
+2024-12-16,Norfolk Island,Snowy
+2024-12-24,Jordan,Sunny
+2024-12-04,Jamaica,Sunny
+2025-02-24,Netherlands,Cloudy
+2025-02-24,Kazakhstan,Windy
+2025-02-11,Belize,Snowy
+2024-12-28,Sao Tome and Principe,Snowy
+2024-12-20,Germany,Windy
+2025-02-15,Saint Lucia,Sunny
+2024-12-10,Saint Barthelemy,Cloudy
+2025-01-18,Italy,Rainy
+2024-12-24,Holy See (Vatican City State),Stormy
+2025-02-08,New Caledonia,Snowy
+2025-01-28,Egypt,Stormy
+2024-12-14,Paraguay,Snowy
+2025-01-28,Heard Island and McDonald Islands,Windy
+2024-12-31,Togo,Stormy
+2025-01-30,Afghanistan,Stormy
+2024-12-06,American Samoa,Rainy
+2025-02-28,Saint Helena,Snowy
+2024-12-22,Haiti,Snowy
+2025-01-11,France,Stormy
+2025-01-19,Honduras,Windy
+2025-02-15,Tanzania,Snowy
+2025-01-08,Marshall Islands,Snowy
+2025-01-26,New Caledonia,Sunny
+2024-12-03,Japan,Snowy
+2025-02-22,British Indian Ocean Territory (Chagos Archipelago),Sunny
+2024-12-08,Slovakia (Slovak Republic),Stormy
+2025-02-20,United States of America,Cloudy
+2025-01-21,Isle of Man,Rainy
+2024-12-31,Andorra,Windy
+2025-02-02,Qatar,Snowy
+2025-01-08,Rwanda,Snowy
+2025-02-07,Sao Tome and Principe,Cloudy
+2024-12-07,Vanuatu,Stormy
+2025-02-08,Fiji,Stormy
+2024-12-07,Switzerland,Snowy
+2024-12-08,Norway,Windy
+2025-02-09,Syrian Arab Republic,Cloudy
+2025-01-16,Botswana,Windy
+2025-01-16,Barbados,Snowy
+2025-01-18,Turkmenistan,Sunny
+2024-12-19,Chile,Cloudy
+2025-02-19,Congo,Stormy
+2025-02-25,Croatia,Windy
+2024-12-17,Venezuela,Rainy
+2025-02-08,Botswana,Rainy
+2025-01-06,Singapore,Rainy
+2025-02-20,Norway,Sunny
+2025-02-24,Svalbard & Jan Mayen Islands,Cloudy
+2025-02-14,Guinea,Cloudy
+2025-01-07,Antigua and Barbuda,Snowy
+2025-01-22,Saint Helena,Stormy
+2025-01-11,Puerto Rico,Snowy
+2025-01-05,Somalia,Snowy
+2024-12-13,Bulgaria,Cloudy
+2025-02-21,South Africa,Windy
+2025-02-27,Thailand,Windy
+2024-12-21,Iceland,Cloudy
+2025-01-09,Haiti,Sunny
+2025-02-25,Thailand,Windy
+2025-01-05,Australia,Windy
+2025-02-05,Liberia,Cloudy
+2024-12-28,Ukraine,Cloudy
+2025-02-12,Chad,Stormy
+2024-12-29,Oman,Snowy
+2025-02-24,Montserrat,Cloudy
+2025-01-30,Guatemala,Snowy
+2025-02-19,Japan,Snowy
+2025-01-24,United Arab Emirates,Sunny
+2025-01-11,Mongolia,Windy
+2025-02-11,Kazakhstan,Snowy
+2024-12-21,Angola,Cloudy
+2025-01-10,Cyprus,Windy
+2024-12-18,Guinea,Stormy
+2025-02-28,Cambodia,Sunny
+2024-12-07,Puerto Rico,Rainy
+2025-02-27,Monaco,Stormy
+2025-02-02,Guinea,Stormy
+2025-02-15,United States Virgin Islands,Windy
+2025-03-01,Turkey,Windy
+2025-01-08,Costa Rica,Windy
+2025-01-31,Saint Pierre and Miquelon,Stormy
+2025-01-15,Guatemala,Cloudy
+2024-12-23,Swaziland,Stormy
+2025-02-04,Bosnia and Herzegovina,Windy
+2025-02-21,Kuwait,Windy
+2024-12-27,Belgium,Sunny
+2024-12-20,Ireland,Snowy
+2025-01-22,Netherlands,Snowy
+2025-01-18,Burkina Faso,Sunny
+2024-12-21,Mayotte,Windy
+2025-01-31,Tuvalu,Cloudy
+2024-12-26,Estonia,Sunny
+2025-02-10,Holy See (Vatican City State),Windy
+2025-01-16,Romania,Stormy
+2025-02-25,Australia,Windy
+2024-12-13,Guinea-Bissau,Sunny
+2024-12-12,Timor-Leste,Sunny
+2025-01-28,Samoa,Sunny
+2025-02-14,Jamaica,Sunny
+2024-12-05,Tonga,Snowy
+2024-12-08,China,Sunny
+2025-01-22,Macao,Cloudy
+2024-12-11,French Polynesia,Windy
+2025-01-18,El Salvador,Windy
+2025-02-11,Falkland Islands (Malvinas),Windy
+2025-02-25,Norfolk Island,Sunny
+2025-01-08,United Arab Emirates,Sunny
+2025-02-17,Djibouti,Sunny
+2025-01-14,Senegal,Cloudy
+2025-01-09,Mayotte,Cloudy
+2024-12-05,Bahrain,Snowy
+2025-01-14,Saint Lucia,Snowy
+2025-01-30,Egypt,Rainy
+2024-12-19,Turkmenistan,Cloudy
+2025-01-19,American Samoa,Cloudy
+2025-01-17,Benin,Sunny
+2025-02-23,Lao People's Democratic Republic,Windy
+2024-12-03,Cuba,Rainy
+2025-03-01,Guyana,Sunny
+2025-01-31,Serbia,Snowy
+2024-12-07,Barbados,Stormy
+2024-12-21,Croatia,Rainy
+2025-02-27,Liberia,Snowy
+2025-02-13,Singapore,Snowy
+2024-12-28,Switzerland,Stormy
+2024-12-24,Vanuatu,Stormy
+2025-01-04,Aruba,Rainy
+2024-12-28,Iraq,Windy
+2024-12-09,Wallis and Futuna,Sunny
+2025-01-05,Anguilla,Snowy
+2024-12-13,Saint Martin,Stormy
+2024-12-21,Central African Republic,Rainy
+2024-12-26,Austria,Stormy
+2024-12-16,Portugal,Cloudy
+2025-01-28,Korea,Sunny
+2025-01-31,China,Stormy
+2025-02-20,San Marino,Rainy
+2024-12-23,Cuba,Cloudy
+2024-12-03,Barbados,Sunny
+2024-12-10,Spain,Windy
+2024-12-25,Singapore,Snowy
+2024-12-26,Wallis and Futuna,Snowy
+2025-01-18,American Samoa,Windy
+2025-01-07,Jamaica,Stormy
+2024-12-07,Netherlands Antilles,Cloudy
+2025-01-28,Portugal,Windy
+2025-01-29,Estonia,Snowy
+2024-12-23,Georgia,Cloudy
+2025-01-18,Nicaragua,Windy
+2025-02-07,Puerto Rico,Cloudy
+2024-12-30,Costa Rica,Stormy
+2024-12-16,United Arab Emirates,Snowy
+2025-02-13,Bahamas,Snowy
+2025-01-26,Trinidad and Tobago,Windy
+2025-01-16,Sri Lanka,Rainy
+2024-12-29,Japan,Sunny
+2024-12-26,Micronesia,Cloudy
+2025-02-24,Kuwait,Sunny
+2025-01-17,French Polynesia,Cloudy
+2025-01-29,Equatorial Guinea,Sunny
+2024-12-08,Brazil,Windy
+2025-02-10,Suriname,Rainy
+2025-02-25,Japan,Rainy
+2024-12-25,Poland,Windy
+2025-01-15,Malaysia,Snowy
+2025-01-16,Mauritius,Stormy
+2024-12-07,Cameroon,Cloudy
+2025-02-17,Liechtenstein,Rainy
+2025-02-18,Mongolia,Sunny
+2025-02-16,Liechtenstein,Snowy
+2024-12-13,Bolivia,Windy
+2025-03-01,Namibia,Stormy
+2025-02-26,Oman,Windy
+2024-12-09,Suriname,Cloudy
+2025-02-12,New Caledonia,Windy
+2024-12-31,Morocco,Snowy
+2025-02-27,Liechtenstein,Windy
+2025-01-25,Mayotte,Windy
+2025-01-21,Philippines,Cloudy
+2025-02-27,South Africa,Windy
+2025-01-07,Lebanon,Cloudy
+2025-01-23,Trinidad and Tobago,Rainy
+2025-02-22,Armenia,Snowy
+2025-02-23,Bolivia,Cloudy
+2025-01-22,Sudan,Stormy
+2025-01-24,Jersey,Windy
+2024-12-02,Tajikistan,Stormy
+2025-02-27,Australia,Rainy
+2025-01-22,Mongolia,Sunny
+2025-02-24,French Southern Territories,Snowy
+2024-12-23,Svalbard & Jan Mayen Islands,Cloudy
+2024-12-13,Algeria,Rainy
+2024-12-14,Sao Tome and Principe,Stormy
+2024-12-02,India,Rainy
+2025-01-17,Panama,Cloudy
+2025-01-04,Hungary,Windy
+2024-12-07,New Caledonia,Snowy
+2025-01-03,Bulgaria,Windy
+2024-12-25,Congo,Stormy
+2025-02-03,Syrian Arab Republic,Cloudy
+2024-12-03,Martinique,Rainy
+2025-01-05,Madagascar,Stormy
+2024-12-22,Fiji,Rainy
+2025-02-05,Kazakhstan,Snowy
+2025-01-28,Nicaragua,Snowy
+2025-02-22,Guadeloupe,Windy
+2025-01-11,Chile,Rainy
+2025-02-09,Samoa,Sunny
+2025-02-21,Djibouti,Rainy
+2025-01-25,United States Minor Outlying Islands,Sunny
+2024-12-19,New Zealand,Stormy
+2025-01-09,Norway,Stormy
+2024-12-14,Kuwait,Snowy
+2025-02-20,Bosnia and Herzegovina,Windy
+2025-01-25,Lesotho,Windy
+2025-02-10,Trinidad and Tobago,Windy
+2025-01-26,United States Minor Outlying Islands,Sunny
+2024-12-22,Micronesia,Cloudy
+2025-01-10,Tajikistan,Rainy
+2025-02-21,Egypt,Snowy
+2024-12-19,Lithuania,Stormy
+2025-01-01,Netherlands Antilles,Stormy
+2024-12-30,Macao,Sunny
+2024-12-19,Holy See (Vatican City State),Cloudy
+2025-02-08,Andorra,Stormy
+2025-02-07,Qatar,Cloudy
+2025-01-18,Luxembourg,Sunny
+2024-12-11,Cape Verde,Windy
+2025-02-14,Bolivia,Stormy
+2025-01-27,Austria,Sunny
+2025-01-16,Sri Lanka,Rainy
+2025-02-02,Norway,Snowy
+2025-02-25,Montserrat,Rainy
+2025-01-19,Russian Federation,Snowy
+2025-02-28,Peru,Cloudy
+2025-01-13,United Arab Emirates,Snowy
+2025-01-12,Grenada,Cloudy
+2024-12-29,Ghana,Windy
+2025-02-27,Eritrea,Cloudy
+2025-01-30,Kuwait,Rainy
+2025-01-22,Venezuela,Stormy
+2024-12-08,United Kingdom,Rainy
+2024-12-11,Myanmar,Windy
+2025-02-20,South Georgia and the South Sandwich Islands,Windy
+2025-01-23,Bahrain,Snowy
+2025-01-07,Gabon,Windy
+2025-01-12,Guernsey,Sunny
+2024-12-02,Micronesia,Snowy
+2025-01-29,Western Sahara,Rainy
+2025-02-03,Angola,Snowy
+2025-02-27,United States of America,Windy
+2025-01-04,Azerbaijan,Windy
+2025-02-25,Colombia,Windy
+2025-02-03,San Marino,Windy
+2024-12-12,Indonesia,Cloudy
+2025-01-13,New Zealand,Cloudy
+2024-12-26,American Samoa,Snowy
+2024-12-15,Norfolk Island,Stormy
+2024-12-13,Bolivia,Rainy
+2025-02-11,Tunisia,Rainy
+2024-12-10,Mongolia,Rainy
+2024-12-23,Faroe Islands,Sunny
+2025-01-23,Mali,Cloudy
+2025-02-04,Niue,Rainy
+2024-12-11,Bolivia,Rainy
+2024-12-25,Philippines,Stormy
+2025-02-25,Saint Helena,Stormy
+2024-12-28,Korea,Sunny
+2025-02-07,Seychelles,Sunny
+2025-02-02,Holy See (Vatican City State),Snowy
+2025-01-08,Pakistan,Stormy
+2025-03-01,American Samoa,Windy
+2024-12-25,Singapore,Stormy
+2025-01-05,Bolivia,Windy
+2025-01-22,Saint Kitts and Nevis,Rainy
+2025-03-01,Tonga,Stormy
+2024-12-16,Jersey,Stormy
+2025-01-25,Senegal,Snowy
+2025-01-07,Jamaica,Snowy
+2025-02-08,New Zealand,Rainy
+2024-12-03,Sao Tome and Principe,Cloudy
+2025-01-16,Bolivia,Cloudy
+2025-02-05,Sudan,Windy
+2025-02-15,Saint Kitts and Nevis,Cloudy
+2025-01-24,Aruba,Snowy
+2025-01-22,Philippines,Sunny
+2025-02-07,Switzerland,Snowy
+2024-12-07,Eritrea,Cloudy
+2024-12-18,Sierra Leone,Windy
+2024-12-23,Mexico,Cloudy
+2024-12-29,Israel,Windy
+2024-12-02,Bosnia and Herzegovina,Stormy
+2025-01-25,Martinique,Sunny
+2025-01-03,Togo,Cloudy
+2025-01-05,Libyan Arab Jamahiriya,Stormy
+2024-12-27,Montenegro,Stormy
+2025-01-18,Venezuela,Snowy
+2024-12-20,Namibia,Sunny
+2025-02-15,Cook Islands,Stormy
+2024-12-26,Bahamas,Windy
+2025-01-02,Liberia,Cloudy
+2024-12-03,Heard Island and McDonald Islands,Windy
+2025-02-20,Saint Kitts and Nevis,Sunny
+2024-12-04,Palau,Cloudy
+2024-12-13,Niue,Cloudy
+2024-12-13,Saint Martin,Rainy
+2024-12-25,Gibraltar,Snowy
+2025-01-05,Chile,Snowy
+2025-01-27,Comoros,Stormy
+2024-12-31,Heard Island and McDonald Islands,Snowy
+2024-12-10,Burkina Faso,Rainy
+2025-02-24,Luxembourg,Stormy
+2025-01-12,Qatar,Snowy
+2025-01-03,North Macedonia,Snowy
+2025-01-11,United States of America,Stormy
+2024-12-10,Philippines,Rainy
+2024-12-27,Antigua and Barbuda,Stormy
+2024-12-25,Micronesia,Windy
+2025-02-23,Brazil,Windy
+2025-02-07,Moldova,Cloudy
+2024-12-23,New Zealand,Cloudy
+2025-01-04,Spain,Stormy
+2025-01-08,Croatia,Stormy
+2025-01-23,Panama,Snowy
+2025-02-13,Libyan Arab Jamahiriya,Windy
+2025-02-11,Cambodia,Rainy
+2024-12-26,Solomon Islands,Cloudy
+2024-12-18,Haiti,Windy
+2024-12-26,Mauritius,Snowy
+2025-02-10,Liechtenstein,Snowy
+2025-01-16,Syrian Arab Republic,Stormy
+2024-12-20,Lao People's Democratic Republic,Stormy
+2024-12-07,Zambia,Cloudy
+2025-01-26,Turks and Caicos Islands,Windy
+2025-02-13,French Guiana,Snowy
+2025-02-02,Jamaica,Windy
+2025-01-20,Costa Rica,Cloudy
+2025-02-13,Puerto Rico,Stormy
+2024-12-24,Argentina,Windy
+2025-01-09,Syrian Arab Republic,Sunny
+2025-02-26,Mongolia,Cloudy
+2025-02-08,Argentina,Cloudy
+2025-01-27,Togo,Cloudy
+2025-01-22,Luxembourg,Sunny
+2024-12-13,Syrian Arab Republic,Stormy
+2024-12-26,Japan,Windy
+2024-12-27,Montserrat,Sunny
+2025-01-28,Guernsey,Snowy
+2025-02-01,Romania,Cloudy
+2025-02-01,Maldives,Stormy
+2025-02-14,Isle of Man,Stormy
+2025-02-28,Togo,Sunny
+2024-12-19,Guam,Sunny
+2024-12-11,Honduras,Snowy
+2025-02-15,Germany,Stormy
+2025-02-13,North Macedonia,Sunny
+2025-02-25,Reunion,Cloudy
+2025-01-17,Iceland,Rainy
+2025-01-04,Albania,Cloudy
+2024-12-15,Niger,Cloudy
+2025-02-02,Djibouti,Stormy
+2025-02-18,Belgium,Stormy
+2025-01-07,Algeria,Windy
+2024-12-24,Japan,Sunny
+2024-12-24,Malta,Cloudy
+2025-01-25,Malawi,Snowy
+2025-01-24,Falkland Islands (Malvinas),Stormy
+2025-01-05,Monaco,Rainy
+2025-01-26,Zambia,Snowy
+2024-12-03,Guadeloupe,Windy
+2025-01-02,India,Sunny
+2025-01-20,Peru,Stormy
+2025-02-17,Saint Martin,Sunny
+2025-01-14,Mauritius,Stormy
+2024-12-03,Ethiopia,Cloudy
+2024-12-11,Finland,Cloudy
+2024-12-15,Cocos (Keeling) Islands,Windy
+2024-12-12,Pitcairn Islands,Stormy
+2025-02-11,Antigua and Barbuda,Snowy
+2024-12-28,Albania,Rainy
+2024-12-05,Italy,Rainy
+2024-12-02,Jamaica,Cloudy
+2024-12-02,Kazakhstan,Snowy
+2024-12-16,Samoa,Rainy
+2025-02-28,Marshall Islands,Stormy
+2025-02-12,United States Virgin Islands,Snowy
+2025-01-14,Uganda,Stormy
+2025-02-01,New Caledonia,Cloudy
+2025-01-28,Malta,Snowy
+2025-01-25,Martinique,Snowy
+2024-12-23,Finland,Windy
+2025-01-23,Serbia,Windy
+2025-02-03,Australia,Snowy
+2025-01-31,Australia,Sunny
+2024-12-27,Libyan Arab Jamahiriya,Rainy
+2025-01-04,Jordan,Cloudy
+2025-01-26,Cape Verde,Stormy
+2025-01-16,Luxembourg,Stormy
+2024-12-27,Uruguay,Cloudy
+2025-02-01,French Polynesia,Snowy
+2025-02-22,Serbia,Cloudy
+2025-01-22,India,Sunny
+2024-12-18,Ethiopia,Rainy
+2024-12-09,Jamaica,Stormy
+2025-02-22,Sri Lanka,Sunny
+2025-01-22,Ethiopia,Snowy
+2025-01-04,Austria,Rainy
+2025-01-15,Croatia,Windy
+2025-01-25,Myanmar,Sunny
+2024-12-23,Jersey,Windy
+2025-01-20,El Salvador,Windy
+2024-12-03,Jordan,Snowy
+2025-02-28,India,Windy
+2024-12-21,Lao People's Democratic Republic,Snowy
+2024-12-15,Paraguay,Windy
+2024-12-16,Lithuania,Sunny
+2025-02-28,Austria,Cloudy
+2025-02-24,Luxembourg,Sunny
+2024-12-31,Norway,Cloudy
+2024-12-13,Japan,Cloudy
+2025-01-02,Equatorial Guinea,Stormy
+2024-12-21,Georgia,Snowy
+2025-02-14,Palestinian Territory,Snowy
+2025-01-13,Guadeloupe,Rainy
+2025-01-30,Liechtenstein,Sunny
+2025-01-09,Puerto Rico,Sunny
+2025-02-06,Bermuda,Cloudy
+2025-02-22,Namibia,Windy
+2025-01-07,Mayotte,Stormy
+2025-03-01,Zimbabwe,Windy
+2025-01-20,Cyprus,Snowy
+2025-01-12,Niger,Sunny
+2024-12-07,Romania,Cloudy
+2025-01-30,Uganda,Stormy
+2025-02-12,Cameroon,Cloudy
+2025-02-10,Latvia,Cloudy
+2024-12-29,Cyprus,Windy
+2025-01-09,Bolivia,Snowy
+2025-01-08,Mauritius,Rainy
+2025-01-30,Brazil,Stormy
+2025-01-27,Faroe Islands,Sunny
+2024-12-12,Brunei Darussalam,Rainy
+2024-12-14,Papua New Guinea,Cloudy
+2025-01-19,Switzerland,Stormy
+2024-12-20,New Caledonia,Sunny
+2025-01-01,Ethiopia,Stormy
+2024-12-15,United States Minor Outlying Islands,Sunny
+2025-02-28,Saint Martin,Rainy
+2025-01-10,Austria,Snowy
+2025-02-20,Austria,Windy
+2024-12-17,Greece,Snowy
+2025-02-02,Niue,Rainy
+2025-02-13,Guinea,Rainy
+2025-01-21,Liberia,Windy
+2025-01-06,Mayotte,Cloudy
+2024-12-11,Canada,Stormy
+2025-02-13,Azerbaijan,Sunny
+2025-01-22,Greenland,Rainy
+2025-02-15,British Indian Ocean Territory (Chagos Archipelago),Snowy
+2025-01-10,Liberia,Rainy
+2024-12-26,Paraguay,Snowy
+2025-01-20,Liberia,Snowy
+2025-01-17,Netherlands Antilles,Sunny
+2025-02-23,Paraguay,Stormy
+2025-01-04,Central African Republic,Snowy
+2025-01-03,Montenegro,Snowy
+2025-02-24,Argentina,Windy
+2025-01-01,Bermuda,Rainy
+2024-12-21,Botswana,Snowy
+2024-12-15,Andorra,Cloudy
+2025-01-04,Hungary,Cloudy
+2024-12-29,El Salvador,Sunny
+2024-12-22,Martinique,Snowy
+2024-12-24,Pitcairn Islands,Cloudy
+2025-01-26,Hungary,Snowy
+2024-12-10,Malawi,Cloudy
+2025-02-05,Guatemala,Sunny
+2024-12-09,South Georgia and the South Sandwich Islands,Rainy
+2024-12-05,Svalbard & Jan Mayen Islands,Cloudy
+2025-01-08,Central African Republic,Windy
+2025-02-07,Bulgaria,Rainy
+2025-01-14,Kuwait,Stormy
+2025-01-03,Sudan,Rainy
+2025-01-31,Reunion,Snowy
+2025-01-06,France,Stormy
+2024-12-11,Argentina,Cloudy
+2024-12-06,Myanmar,Sunny
+2025-02-28,Trinidad and Tobago,Rainy
+2024-12-07,Ukraine,Snowy
+2025-02-12,South Africa,Windy
+2024-12-14,Mauritius,Sunny
+2025-01-03,Mali,Rainy
+2024-12-14,Estonia,Windy
+2025-02-20,Malaysia,Snowy
+2025-02-19,Norfolk Island,Sunny
+2024-12-31,Seychelles,Rainy
+2025-01-12,Belgium,Cloudy
+2025-01-01,Macao,Sunny
+2025-01-03,Swaziland,Stormy
+2025-02-03,Brunei Darussalam,Cloudy
+2025-01-03,Nauru,Snowy
+2024-12-24,Ireland,Cloudy
+2025-02-08,Botswana,Snowy
+2025-02-19,Bulgaria,Rainy
+2025-01-18,Papua New Guinea,Cloudy
+2024-12-17,Lao People's Democratic Republic,Windy
+2025-01-03,Saint Lucia,Sunny
+2025-01-17,Antarctica (the territory South of 60 deg S),Cloudy
+2025-01-19,Dominican Republic,Sunny
+2024-12-07,Christmas Island,Snowy
+2024-12-25,British Indian Ocean Territory (Chagos Archipelago),Rainy
+2025-02-24,Bahamas,Cloudy
+2025-02-24,Korea,Windy
+2024-12-03,Iran,Snowy
+2025-02-02,Cyprus,Rainy
+2024-12-31,Palestinian Territory,Cloudy
+2025-01-04,Cook Islands,Rainy
+2024-12-11,Saint Helena,Snowy
+2024-12-27,Vietnam,Stormy
+2025-01-29,Albania,Sunny
+2025-01-29,Holy See (Vatican City State),Sunny
+2024-12-11,Liberia,Windy
+2025-01-17,Solomon Islands,Cloudy
+2024-12-30,Kazakhstan,Stormy
+2025-01-30,Philippines,Stormy
+2025-02-13,Georgia,Rainy
+2024-12-17,Marshall Islands,Stormy
+2024-12-29,Andorra,Stormy
+2025-02-01,Croatia,Cloudy
+2025-01-29,Australia,Sunny
+2025-02-28,Namibia,Rainy
+2024-12-04,Grenada,Cloudy
+2025-02-18,Christmas Island,Cloudy
+2025-02-06,Ethiopia,Sunny
+2024-12-16,Belarus,Windy
+2025-01-04,Armenia,Snowy
+2025-03-01,Madagascar,Cloudy
+2025-01-21,Venezuela,Stormy
+2025-01-03,Sao Tome and Principe,Snowy
+2024-12-17,New Zealand,Stormy
+2025-01-09,Serbia,Stormy
+2024-12-13,Tokelau,Windy
+2025-02-18,Uruguay,Snowy
+2024-12-27,Venezuela,Stormy
+2025-01-30,Palau,Cloudy
+2025-01-08,Hungary,Sunny
+2024-12-21,South Georgia and the South Sandwich Islands,Sunny
+2024-12-04,Uruguay,Sunny
+2025-02-03,Ireland,Sunny
+2025-02-01,Venezuela,Rainy
+2025-02-04,Pakistan,Sunny
+2024-12-20,Haiti,Windy
+2025-02-07,Mayotte,Rainy
+2024-12-16,Libyan Arab Jamahiriya,Snowy
+2024-12-06,Guinea,Snowy
+2025-01-26,Nigeria,Snowy
+2025-01-26,Saint Barthelemy,Snowy
+2025-02-26,Martinique,Stormy
+2024-12-11,United Kingdom,Stormy
+2024-12-18,Pakistan,Sunny
+2025-01-18,Angola,Snowy
+2024-12-17,Guam,Snowy
+2025-01-23,Morocco,Cloudy
+2025-02-07,Eritrea,Snowy
+2024-12-15,Lithuania,Sunny
+2025-02-19,Papua New Guinea,Snowy
+2025-02-26,Sweden,Sunny
+2025-02-26,French Polynesia,Stormy
+2025-01-03,Singapore,Sunny
+2025-02-24,Kyrgyz Republic,Sunny
+2025-02-06,Sao Tome and Principe,Rainy
+2025-01-01,Mongolia,Rainy
+2024-12-29,United States Virgin Islands,Snowy
+2025-01-12,Fiji,Stormy
+2025-01-14,United Kingdom,Stormy
+2025-02-18,Aruba,Windy
+2025-01-02,Cambodia,Snowy
+2025-02-19,United Kingdom,Windy
+2024-12-07,Latvia,Cloudy
+2025-01-31,French Guiana,Windy
+2025-02-13,Kuwait,Sunny
+2024-12-24,Eritrea,Rainy
+2024-12-27,Austria,Sunny
+2024-12-16,Tonga,Stormy
+2025-01-17,Oman,Windy
+2025-02-17,Cote d'Ivoire,Snowy
+2025-02-01,Austria,Cloudy
+2025-01-20,Nicaragua,Windy
+2025-02-02,South Africa,Rainy
+2024-12-31,Yemen,Rainy
+2025-02-20,Guam,Rainy
+2025-01-06,Morocco,Cloudy
+2025-02-12,Belarus,Snowy
+2025-02-21,Poland,Stormy
+2025-02-01,Turks and Caicos Islands,Cloudy
+2024-12-18,United States of America,Snowy
+2025-01-22,French Polynesia,Cloudy
+2025-02-10,Suriname,Sunny
+2025-01-20,Eritrea,Sunny
+2025-02-01,Kenya,Sunny
+2025-01-06,American Samoa,Sunny
+2024-12-06,Sao Tome and Principe,Sunny
+2025-01-23,Korea,Snowy
+2025-01-30,Montenegro,Snowy
+2025-02-05,Namibia,Rainy
+2024-12-12,Montenegro,Snowy
+2024-12-02,Belarus,Stormy
+2025-01-16,Falkland Islands (Malvinas),Sunny
+2024-12-08,Uruguay,Snowy
+2024-12-13,Kuwait,Sunny
+2025-01-19,Malta,Windy
+2025-02-24,Mozambique,Cloudy
+2025-02-23,Svalbard & Jan Mayen Islands,Windy
+2024-12-25,Finland,Rainy
+2024-12-11,Zambia,Cloudy
+2024-12-18,Swaziland,Rainy
+2024-12-06,Botswana,Stormy
+2025-02-15,Korea,Snowy
+2024-12-13,Cuba,Rainy
+2024-12-31,Korea,Stormy
+2024-12-05,Gabon,Cloudy
+2025-02-21,United States of America,Rainy
+2024-12-02,South Africa,Stormy
+2024-12-07,Slovakia (Slovak Republic),Cloudy
+2024-12-25,Yemen,Cloudy
+2024-12-15,North Macedonia,Rainy
+2024-12-22,Heard Island and McDonald Islands,Sunny
+2025-01-06,Argentina,Rainy
+2025-01-18,Czech Republic,Rainy
+2024-12-12,Cameroon,Windy
+2024-12-24,Ethiopia,Rainy
+2024-12-28,Algeria,Stormy
+2025-02-13,Malta,Windy
+2025-01-08,Qatar,Windy
+2025-01-27,Eritrea,Windy
+2024-12-24,Bermuda,Stormy
+2024-12-18,Senegal,Rainy
+2025-01-27,Turks and Caicos Islands,Snowy
+2025-02-12,Kyrgyz Republic,Windy
+2025-02-28,Saint Kitts and Nevis,Windy
+2025-01-04,Pakistan,Stormy
+2024-12-21,Peru,Stormy
+2025-02-03,Tajikistan,Cloudy
+2025-01-17,Suriname,Rainy
+2025-02-23,Indonesia,Stormy
+2025-02-28,Slovakia (Slovak Republic),Snowy
+2025-02-13,Lithuania,Snowy
+2025-01-28,Solomon Islands,Cloudy
+2025-01-29,Turkmenistan,Windy
+2024-12-10,Saint Martin,Stormy
+2025-01-11,Panama,Windy
+2025-03-01,Saint Kitts and Nevis,Sunny
+2025-02-10,Equatorial Guinea,Cloudy
+2025-02-28,Malta,Snowy
+2024-12-26,Bahrain,Cloudy
+2025-02-11,Bahrain,Sunny
+2025-01-26,Turkey,Cloudy
+2024-12-07,Afghanistan,Sunny
+2025-02-12,Palestinian Territory,Windy
+2025-02-14,Reunion,Stormy
+2024-12-20,Saint Martin,Snowy
+2025-02-11,New Caledonia,Rainy
+2025-01-27,Papua New Guinea,Cloudy
+2025-02-14,Nicaragua,Snowy
+2025-02-15,Chile,Windy
+2025-01-22,Zimbabwe,Windy
+2025-02-28,Saint Pierre and Miquelon,Sunny
+2025-02-08,Peru,Stormy
+2024-12-19,Faroe Islands,Snowy
+2025-01-21,Saint Vincent and the Grenadines,Snowy
+2024-12-29,British Indian Ocean Territory (Chagos Archipelago),Windy
+2025-01-27,British Indian Ocean Territory (Chagos Archipelago),Windy
+2024-12-31,Panama,Rainy
+2024-12-16,Anguilla,Windy
+2025-01-06,Montserrat,Rainy
+2025-02-10,Christmas Island,Cloudy
+2025-02-22,Sao Tome and Principe,Windy
+2025-01-26,Tanzania,Stormy
+2025-01-06,Mexico,Cloudy
+2025-02-25,Senegal,Snowy
+2025-02-18,Mongolia,Cloudy
+2025-01-24,Turkmenistan,Snowy
+2025-01-25,Syrian Arab Republic,Stormy
+2025-02-24,Turks and Caicos Islands,Windy
+2024-12-12,Iran,Windy
+2025-01-23,Colombia,Stormy
+2025-02-23,Greece,Windy
+2025-01-31,Liechtenstein,Stormy
+2025-01-25,China,Snowy
+2025-02-08,Norfolk Island,Windy
+2025-02-04,Wallis and Futuna,Rainy
+2025-03-01,Finland,Snowy
+2024-12-08,Isle of Man,Stormy
+2024-12-29,Norway,Windy
+2025-01-31,Malawi,Cloudy
+2024-12-29,Oman,Sunny
+2024-12-29,Belize,Sunny
+2025-01-15,Estonia,Cloudy
+2025-01-21,Haiti,Windy
+2025-02-15,Chile,Cloudy
+2025-01-22,Trinidad and Tobago,Stormy
+2024-12-07,Ethiopia,Cloudy
+2025-01-03,Belize,Stormy
+2024-12-14,Grenada,Cloudy
+2025-01-23,Tajikistan,Stormy
+2025-01-27,Guam,Sunny
+2024-12-22,Egypt,Cloudy
+2025-02-05,Saudi Arabia,Cloudy
+2024-12-13,Russian Federation,Cloudy
+2025-01-08,Estonia,Rainy
+2024-12-24,Christmas Island,Sunny
+2025-01-18,Lithuania,Cloudy
+2025-02-05,Slovakia (Slovak Republic),Windy
+2025-02-26,Mexico,Rainy
+2025-01-09,Monaco,Cloudy
+2025-02-25,Cocos (Keeling) Islands,Stormy
+2024-12-31,Croatia,Snowy
+2025-02-24,Zambia,Cloudy
+2024-12-15,United Kingdom,Cloudy
+2025-02-26,Nigeria,Stormy
+2025-02-20,Kazakhstan,Windy
+2024-12-07,Armenia,Cloudy
+2024-12-04,Korea,Cloudy
+2025-02-04,Slovakia (Slovak Republic),Sunny
+2024-12-29,Nigeria,Snowy
+2024-12-03,British Virgin Islands,Sunny
+2025-02-02,Puerto Rico,Windy
+2025-01-05,Costa Rica,Stormy
+2025-02-14,Italy,Snowy
+2025-02-13,Samoa,Rainy
+2024-12-29,Ireland,Sunny
+2024-12-15,Anguilla,Snowy
+2024-12-06,Vietnam,Snowy
+2024-12-27,Cuba,Rainy
+2024-12-05,Morocco,Stormy
+2025-01-16,Bulgaria,Snowy
+2024-12-18,Cyprus,Sunny
+2025-02-11,Tokelau,Windy
+2025-02-26,Micronesia,Stormy
+2024-12-15,Australia,Cloudy
+2025-01-28,Colombia,Sunny
+2025-02-21,Guinea-Bissau,Stormy
+2025-02-28,Swaziland,Sunny
+2025-02-21,Croatia,Stormy
+2025-01-17,British Virgin Islands,Windy
+2024-12-26,Colombia,Snowy
+2025-01-15,South Africa,Sunny
+2025-01-13,Bermuda,Stormy
+2025-02-22,Romania,Sunny
+2025-01-18,Cook Islands,Stormy
+2025-01-27,Uzbekistan,Rainy
+2024-12-14,Namibia,Snowy
+2025-01-20,Mauritius,Windy
+2025-02-15,Syrian Arab Republic,Stormy
+2025-01-24,Dominican Republic,Windy
+2025-01-11,Brazil,Rainy
+2025-01-04,Iceland,Cloudy
+2024-12-04,Slovenia,Rainy
+2025-02-27,Benin,Sunny
+2025-01-10,Uganda,Stormy
+2025-02-06,Cuba,Sunny
+2024-12-10,Mali,Rainy
+2025-03-01,Rwanda,Cloudy
+2025-01-03,Swaziland,Sunny
+2025-01-28,Puerto Rico,Sunny
+2025-01-17,South Georgia and the South Sandwich Islands,Windy
+2025-02-13,Denmark,Windy
+2024-12-21,Niue,Stormy
+2024-12-12,Cayman Islands,Sunny
+2024-12-05,Jamaica,Stormy
+2024-12-09,Cocos (Keeling) Islands,Sunny
+2025-01-07,Marshall Islands,Sunny
+2024-12-15,Tajikistan,Rainy
+2025-02-26,Kazakhstan,Rainy
+2025-01-11,Algeria,Rainy
+2025-01-23,French Polynesia,Snowy
+2025-02-04,Montserrat,Stormy
+2024-12-15,Oman,Windy
+2025-02-27,Serbia,Windy
+2024-12-26,Sierra Leone,Snowy
+2024-12-22,Cambodia,Stormy
+2025-02-09,United States Virgin Islands,Sunny
+2025-02-26,Senegal,Sunny
+2025-02-26,Haiti,Stormy
+2024-12-14,French Guiana,Sunny
+2024-12-17,Wallis and Futuna,Rainy
+2025-01-28,Christmas Island,Cloudy
+2025-02-24,Micronesia,Windy
+2024-12-31,Sweden,Rainy
+2025-02-19,Puerto Rico,Snowy
+2025-01-20,Japan,Snowy
+2025-02-21,Christmas Island,Sunny
+2025-02-10,Algeria,Rainy
+2025-02-05,New Zealand,Windy
+2024-12-16,France,Cloudy
+2025-02-06,Honduras,Windy
+2025-02-27,Israel,Sunny
+2025-02-06,Malaysia,Sunny
+2024-12-14,Netherlands Antilles,Stormy
+2025-01-12,Uganda,Cloudy
+2024-12-31,Kazakhstan,Sunny
+2025-02-25,Faroe Islands,Stormy
+2025-02-28,Puerto Rico,Rainy
+2025-02-25,Fiji,Cloudy
+2025-02-16,Djibouti,Sunny
+2025-02-17,Mauritania,Sunny
+2025-01-16,Estonia,Rainy
+2024-12-28,Congo,Rainy
+2025-02-01,Netherlands,Stormy
+2024-12-16,Micronesia,Cloudy
+2025-01-10,Afghanistan,Sunny
+2025-01-06,Latvia,Sunny
+2024-12-02,Wallis and Futuna,Cloudy
+2025-02-13,Ireland,Rainy
+2025-01-05,Guyana,Snowy
+2024-12-05,El Salvador,Windy
+2024-12-17,Niue,Cloudy
+2025-02-08,Gabon,Sunny
+2024-12-11,Comoros,Sunny
+2025-01-14,Belarus,Cloudy
+2025-01-25,Fiji,Stormy
+2024-12-25,Benin,Cloudy
+2024-12-26,Saint Lucia,Cloudy
+2025-01-20,Indonesia,Cloudy
+2024-12-18,British Indian Ocean Territory (Chagos Archipelago),Sunny
+2025-02-03,Guinea,Stormy
+2025-01-31,Bhutan,Stormy
+2025-01-20,Benin,Snowy
+2024-12-17,Bolivia,Stormy
+2024-12-07,Malta,Windy
+2025-01-29,El Salvador,Sunny
+2025-02-25,Antigua and Barbuda,Stormy
+2025-03-01,Svalbard & Jan Mayen Islands,Snowy
+2024-12-04,Uzbekistan,Snowy
+2024-12-18,Malta,Stormy
+2024-12-11,Bulgaria,Rainy
+2024-12-08,Belgium,Sunny
+2025-01-17,Sri Lanka,Snowy
+2025-02-12,Mozambique,Windy
+2025-01-13,Nicaragua,Rainy
+2025-02-15,Honduras,Sunny
+2025-02-03,Burundi,Sunny
+2024-12-11,Sudan,Stormy
+2025-01-02,Guam,Windy
+2025-02-11,Mexico,Rainy
+2024-12-15,Estonia,Stormy
+2024-12-04,Brunei Darussalam,Snowy
+2025-02-13,Malaysia,Snowy
+2025-01-30,Ecuador,Snowy
+2024-12-23,Monaco,Cloudy
+2025-01-07,Nepal,Sunny
+2024-12-31,Samoa,Stormy
+2024-12-17,Philippines,Stormy
+2025-01-21,China,Stormy
+2025-02-17,Denmark,Rainy
+2025-02-23,Portugal,Snowy
+2024-12-05,Zimbabwe,Rainy
+2025-02-03,Northern Mariana Islands,Rainy
+2025-01-24,Uzbekistan,Windy
+2025-02-25,Liberia,Stormy
+2024-12-05,Costa Rica,Sunny
+2025-01-28,Central African Republic,Windy
+2025-01-01,Canada,Stormy
+2024-12-06,Italy,Stormy
+2025-02-10,Paraguay,Windy
+2025-01-05,Namibia,Rainy
+2025-01-04,Netherlands,Snowy
+2025-01-28,Suriname,Sunny
+2025-01-30,Brunei Darussalam,Snowy
+2025-01-01,United States Minor Outlying Islands,Stormy
+2025-02-22,Uzbekistan,Sunny
+2025-02-26,Togo,Windy
+2024-12-11,Bangladesh,Cloudy
+2025-02-05,Belarus,Sunny
+2024-12-29,Saint Martin,Cloudy
+2024-12-27,Yemen,Windy
+2025-01-17,Greenland,Snowy
+2025-01-04,Norfolk Island,Snowy
+2024-12-24,Ecuador,Snowy
+2025-01-24,Liberia,Stormy
+2025-01-13,South Africa,Snowy
+2025-01-19,Angola,Windy
+2024-12-29,Netherlands,Stormy
+2025-02-16,Anguilla,Snowy
+2025-02-23,Philippines,Windy
+2024-12-17,Ghana,Snowy
+2025-01-11,Kenya,Sunny
+2025-02-27,Uganda,Snowy
+2025-02-13,Chile,Sunny
+2025-01-13,Bahrain,Stormy
+2024-12-23,Luxembourg,Sunny
+2025-01-28,Iran,Rainy
+2024-12-17,Qatar,Windy
+2024-12-27,Uruguay,Stormy
+2025-02-21,Moldova,Snowy
+2025-01-31,Faroe Islands,Snowy
+2025-01-24,Greece,Windy
+2024-12-25,Peru,Stormy
+2025-02-22,Belize,Sunny
+2024-12-28,American Samoa,Rainy
+2025-01-13,Liberia,Snowy
+2025-03-01,Saudi Arabia,Snowy
+2024-12-26,Guinea-Bissau,Windy
+2025-02-10,Algeria,Cloudy
+2025-01-27,Mauritius,Windy
+2025-01-12,Guatemala,Stormy
+2024-12-30,Iraq,Sunny
+2025-01-01,Korea,Windy
+2025-01-07,Holy See (Vatican City State),Stormy
+2025-02-05,Senegal,Stormy
+2024-12-03,Micronesia,Sunny
+2025-01-04,Swaziland,Sunny
+2025-02-22,Timor-Leste,Cloudy
+2025-02-18,French Polynesia,Windy
+2025-01-22,South Georgia and the South Sandwich Islands,Cloudy
+2025-01-14,Kuwait,Sunny
+2024-12-18,Venezuela,Stormy
+2024-12-17,Serbia,Windy
+2024-12-11,Solomon Islands,Rainy
+2024-12-27,Zambia,Snowy
+2024-12-19,Malta,Snowy
+2024-12-07,Romania,Stormy
+2025-01-19,Jordan,Sunny
+2025-01-20,Yemen,Rainy
+2025-01-22,Heard Island and McDonald Islands,Stormy
+2025-01-29,Thailand,Rainy
+2024-12-23,Mauritania,Cloudy
+2024-12-02,Macao,Sunny
+2025-01-07,Nicaragua,Sunny
+2024-12-20,Angola,Stormy
+2025-02-28,Germany,Windy
+2025-02-15,North Macedonia,Windy
+2025-03-01,Cook Islands,Cloudy
+2025-02-23,Iceland,Windy
+2025-02-07,Cambodia,Rainy
+2025-01-23,French Guiana,Cloudy
+2024-12-29,Bangladesh,Cloudy
+2025-02-16,South Africa,Windy
+2025-02-06,New Zealand,Cloudy
+2024-12-22,Peru,Windy
+2024-12-31,Marshall Islands,Snowy
+2025-02-26,Monaco,Rainy
+2025-01-06,Russian Federation,Stormy
+2024-12-08,Saint Helena,Stormy
+2025-01-16,Chile,Snowy
+2025-01-25,Brazil,Cloudy
+2024-12-21,Isle of Man,Stormy
+2025-01-18,Costa Rica,Stormy
+2024-12-22,Indonesia,Rainy
+2024-12-09,Ukraine,Rainy
+2024-12-29,Belize,Rainy
+2025-02-04,Martinique,Cloudy
+2025-01-08,Myanmar,Rainy
+2024-12-08,Falkland Islands (Malvinas),Rainy
+2025-01-23,Saint Pierre and Miquelon,Stormy
+2024-12-15,Botswana,Snowy
+2025-01-16,United Kingdom,Rainy
+2024-12-16,Congo,Stormy
+2025-02-04,French Polynesia,Rainy
+2024-12-17,Central African Republic,Sunny
+2024-12-23,France,Snowy
+2025-01-31,Russian Federation,Cloudy
+2024-12-26,Cuba,Cloudy
+2025-01-22,Netherlands Antilles,Cloudy
+2024-12-18,Palau,Windy
+2025-02-08,Turkmenistan,Windy
+2024-12-20,Seychelles,Sunny
+2025-02-08,Guinea-Bissau,Cloudy
+2025-01-15,Bermuda,Cloudy
+2025-01-05,Cuba,Stormy
+2024-12-15,Saint Barthelemy,Stormy
+2025-02-16,Niger,Cloudy
+2024-12-15,Algeria,Stormy
+2024-12-17,Comoros,Sunny
+2025-01-15,North Macedonia,Sunny
+2025-02-27,Greenland,Sunny
+2025-02-14,Papua New Guinea,Cloudy
+2025-01-20,Mayotte,Windy
+2024-12-20,Saudi Arabia,Windy
+2025-02-16,Korea,Sunny
+2025-02-07,Guadeloupe,Sunny
+2025-02-26,Sao Tome and Principe,Windy
+2025-01-22,Rwanda,Snowy
+2025-02-09,Liechtenstein,Rainy
+2025-02-12,Mozambique,Sunny
+2025-02-24,Bulgaria,Stormy
+2025-02-09,Senegal,Snowy
+2024-12-28,Niue,Snowy
+2024-12-10,Netherlands,Snowy
+2024-12-14,Rwanda,Rainy
+2024-12-21,Burundi,Snowy
+2025-01-14,Antarctica (the territory South of 60 deg S),Cloudy
+2025-01-10,American Samoa,Windy
+2024-12-21,Tuvalu,Sunny
+2025-01-02,Slovenia,Sunny
+2024-12-06,Mali,Stormy
+2024-12-25,Jamaica,Rainy
+2024-12-03,Guinea-Bissau,Windy
+2025-02-15,Saint Kitts and Nevis,Windy
+2025-02-18,Korea,Sunny
+2025-02-05,Slovenia,Windy
+2025-01-25,Bahamas,Stormy
+2024-12-14,Gibraltar,Stormy
+2024-12-03,Bhutan,Rainy
+2024-12-29,Belgium,Windy
+2024-12-03,Cape Verde,Sunny
+2025-02-01,Burkina Faso,Cloudy
+2025-01-15,Belgium,Cloudy
+2024-12-13,Tajikistan,Windy
+2025-02-01,Tunisia,Stormy
+2025-01-19,Greece,Stormy
+2025-01-07,Cayman Islands,Windy
+2025-01-16,Azerbaijan,Windy
+2025-02-20,Montserrat,Snowy
+2025-01-20,Romania,Rainy
+2025-02-08,Namibia,Rainy
+2025-01-17,Portugal,Stormy
+2025-01-22,South Africa,Cloudy
+2025-02-21,Liberia,Sunny
+2025-02-28,Palestinian Territory,Sunny
+2025-02-06,Algeria,Cloudy
+2025-01-08,Pakistan,Rainy
+2025-02-23,Belize,Cloudy
+2025-02-08,Uganda,Stormy
+2025-02-18,Saint Lucia,Rainy
+2025-01-09,Brazil,Sunny
+2025-02-06,British Indian Ocean Territory (Chagos Archipelago),Windy
+2024-12-10,Iceland,Cloudy
+2025-01-15,Lebanon,Rainy
+2024-12-12,Mayotte,Rainy
+2024-12-30,New Zealand,Stormy
+2024-12-23,Tunisia,Cloudy
+2024-12-20,Chile,Cloudy
+2024-12-18,Iceland,Snowy
+2024-12-24,Mexico,Snowy
+2024-12-13,Bhutan,Snowy
+2024-12-08,Isle of Man,Sunny
+2024-12-10,Yemen,Windy
+2025-01-05,Zimbabwe,Cloudy
+2025-02-01,Iran,Stormy
+2025-02-01,Christmas Island,Cloudy
+2025-01-08,Saint Lucia,Sunny
+2025-02-09,Burkina Faso,Rainy
+2024-12-22,Timor-Leste,Cloudy
+2025-02-02,Bosnia and Herzegovina,Stormy
+2025-02-26,Lao People's Democratic Republic,Stormy
+2024-12-11,Cuba,Rainy
+2024-12-03,Mongolia,Rainy
+2024-12-27,Bahamas,Rainy
+2025-01-05,Swaziland,Cloudy
+2025-02-28,Norway,Rainy
+2024-12-12,Oman,Windy
+2025-02-15,Bulgaria,Rainy
+2025-01-05,Nauru,Sunny
+2024-12-26,Cambodia,Snowy
+2025-02-26,Burundi,Snowy
+2025-01-08,Korea,Snowy
+2025-01-04,Bhutan,Stormy
+2025-01-12,Marshall Islands,Snowy
+2025-01-16,Jersey,Rainy
+2024-12-14,Falkland Islands (Malvinas),Rainy
+2025-01-19,Finland,Windy
+2025-02-12,Liberia,Cloudy
+2025-01-08,Korea,Cloudy
+2025-01-23,Tonga,Windy
+2025-01-02,Dominican Republic,Sunny
+2025-03-01,Rwanda,Sunny
+2024-12-23,Indonesia,Snowy
+2025-01-15,Russian Federation,Snowy
+2024-12-12,Georgia,Sunny
+2025-02-10,Nauru,Stormy
+2024-12-31,Philippines,Sunny
+2025-02-27,Bulgaria,Cloudy
+2025-02-07,Western Sahara,Windy
+2025-01-14,Belarus,Stormy
+2025-02-22,Bahrain,Stormy
+2025-01-24,Czech Republic,Stormy
+2025-01-14,Armenia,Snowy
+2024-12-21,South Africa,Snowy
+2025-02-09,Turkmenistan,Stormy
+2024-12-14,Timor-Leste,Sunny
+2024-12-23,Iceland,Cloudy
+2025-01-01,Wallis and Futuna,Stormy
+2025-02-15,Finland,Cloudy
+2025-01-31,Tonga,Windy
+2024-12-05,Korea,Windy
+2025-01-21,Tonga,Cloudy
+2025-01-15,Solomon Islands,Stormy
+2025-01-25,Zimbabwe,Sunny
+2025-02-18,Lesotho,Stormy
+2025-01-26,Central African Republic,Sunny
+2025-01-27,Jersey,Stormy
+2024-12-19,Greece,Stormy
+2025-02-16,Greenland,Cloudy
+2025-02-02,Chile,Cloudy
+2025-01-27,Lao People's Democratic Republic,Snowy
+2024-12-05,Belarus,Stormy
+2025-01-01,China,Sunny
+2025-02-21,Tunisia,Windy
+2025-02-03,Cyprus,Rainy
+2024-12-25,Vietnam,Stormy
+2024-12-21,Latvia,Rainy
+2025-01-21,Faroe Islands,Stormy
+2024-12-13,Kuwait,Cloudy
+2025-02-09,Cote d'Ivoire,Cloudy
+2025-02-09,Christmas Island,Snowy
+2024-12-29,Cook Islands,Rainy
+2024-12-02,Liechtenstein,Snowy
+2025-01-11,Kiribati,Cloudy
+2024-12-24,Azerbaijan,Windy
+2025-02-18,Saint Pierre and Miquelon,Windy
+2024-12-31,Burkina Faso,Cloudy
+2025-01-15,Tuvalu,Sunny
+2025-01-18,Uganda,Windy
+2025-01-15,Nepal,Windy
+2025-01-02,Norway,Cloudy
+2025-02-17,Egypt,Sunny
+2025-01-02,Belize,Rainy
+2025-02-19,Pakistan,Rainy
+2025-01-27,Turkmenistan,Rainy
+2025-01-25,Armenia,Sunny
+2024-12-24,Jersey,Rainy
+2024-12-08,Palestinian Territory,Cloudy
+2024-12-18,Saint Helena,Rainy
+2024-12-26,Puerto Rico,Stormy
+2025-01-03,Morocco,Sunny
+2025-02-05,New Zealand,Rainy
+2025-01-26,Iran,Sunny
+2024-12-23,Saint Barthelemy,Stormy
+2025-01-13,Sao Tome and Principe,Stormy
+2025-02-11,Macao,Windy
+2024-12-18,Moldova,Snowy
+2025-01-26,Mauritania,Windy
+2024-12-31,Saint Barthelemy,Stormy
+2025-01-12,Saint Martin,Sunny
+2024-12-27,Cote d'Ivoire,Snowy
+2025-01-21,Turks and Caicos Islands,Sunny
+2025-02-04,Benin,Snowy
+2025-02-22,Cuba,Cloudy
+2025-02-07,Gambia,Rainy
+2024-12-03,Turkmenistan,Stormy
+2025-02-01,Lao People's Democratic Republic,Cloudy
+2024-12-20,Malta,Snowy
+2024-12-17,Micronesia,Windy
+2024-12-29,Barbados,Stormy
+2025-01-05,Croatia,Cloudy
+2024-12-20,Qatar,Snowy
+2025-02-17,Niue,Snowy
+2025-02-10,Solomon Islands,Rainy
+2025-02-26,Aruba,Snowy
+2025-02-25,Martinique,Sunny
+2024-12-23,Uganda,Windy
+2024-12-22,Saint Barthelemy,Rainy
+2024-12-26,Monaco,Stormy
+2025-02-10,Cambodia,Cloudy
+2024-12-02,Guinea,Cloudy
+2025-02-12,Kuwait,Stormy
+2025-01-16,Bosnia and Herzegovina,Sunny
+2024-12-21,Thailand,Sunny
+2025-01-18,Jersey,Sunny
+2025-03-01,Gambia,Cloudy
+2024-12-19,Bahamas,Rainy
+2025-01-13,Djibouti,Cloudy
+2024-12-10,Syrian Arab Republic,Sunny
+2025-02-26,Angola,Stormy
+2025-01-02,Hungary,Windy
+2025-02-08,Northern Mariana Islands,Sunny
+2025-02-22,Guatemala,Windy
+2025-02-19,Burundi,Snowy
+2024-12-27,Madagascar,Rainy
+2025-01-30,Yemen,Stormy
+2025-02-06,Saint Pierre and Miquelon,Windy
+2024-12-24,Holy See (Vatican City State),Sunny
+2025-02-27,Korea,Cloudy
+2025-02-22,France,Windy
+2024-12-21,Andorra,Sunny
+2025-01-11,Austria,Rainy
+2024-12-05,Fiji,Snowy
+2025-01-19,Comoros,Cloudy
+2024-12-05,Jordan,Sunny
+2024-12-23,Saint Barthelemy,Snowy
+2025-02-04,Philippines,Sunny
+2024-12-12,Micronesia,Snowy
+2025-02-05,Costa Rica,Windy
+2025-01-18,Montserrat,Cloudy
+2024-12-08,Guyana,Snowy
+2025-02-25,Marshall Islands,Sunny
+2024-12-27,Ecuador,Windy
+2025-01-07,Sudan,Cloudy
+2024-12-15,Solomon Islands,Stormy
+2025-02-05,American Samoa,Cloudy
+2025-01-17,Portugal,Sunny
+2025-01-16,Czech Republic,Windy
+2025-01-06,Bangladesh,Cloudy
+2025-01-13,Myanmar,Sunny
+2025-01-25,Saint Pierre and Miquelon,Sunny
+2024-12-10,Zimbabwe,Rainy
+2024-12-31,Croatia,Windy
+2024-12-04,Tokelau,Rainy
+2025-01-05,Rwanda,Sunny
+2025-01-28,Monaco,Rainy
+2025-02-14,Spain,Stormy
+2025-02-06,Cape Verde,Stormy
+2024-12-05,Sudan,Cloudy
+2024-12-25,Burkina Faso,Stormy
+2024-12-03,Burundi,Cloudy
+2025-02-03,Vietnam,Rainy
+2025-01-29,Guatemala,Windy
+2025-01-10,Egypt,Sunny
+2025-02-27,Bermuda,Stormy
+2025-01-14,Luxembourg,Rainy
+2024-12-10,Brunei Darussalam,Sunny
+2025-02-24,Congo,Cloudy
+2025-01-06,United States Minor Outlying Islands,Cloudy
+2024-12-24,Cayman Islands,Rainy
+2024-12-02,French Southern Territories,Sunny
+2025-01-12,Western Sahara,Rainy
+2025-02-11,Gambia,Windy
+2025-01-15,Qatar,Snowy
+2025-02-18,Saint Helena,Rainy
+2025-02-18,Bahrain,Sunny
+2025-01-17,Syrian Arab Republic,Rainy
+2024-12-02,Papua New Guinea,Windy
+2024-12-27,Marshall Islands,Snowy
+2025-01-16,American Samoa,Rainy
+2024-12-15,Puerto Rico,Snowy
+2025-01-22,Cyprus,Rainy
+2025-02-02,Saint Pierre and Miquelon,Stormy
+2025-01-21,Pakistan,Windy
+2025-02-15,Bermuda,Stormy
+2025-02-19,Kiribati,Rainy
+2025-02-18,Ethiopia,Rainy
+2024-12-17,Liberia,Sunny
+2025-01-01,El Salvador,Rainy
+2024-12-09,Nicaragua,Snowy
+2024-12-23,British Indian Ocean Territory (Chagos Archipelago),Snowy
+2025-01-12,Korea,Windy
+2025-02-19,Swaziland,Snowy
+2025-02-10,Mali,Stormy
+2025-01-25,Venezuela,Windy
+2025-02-25,Norway,Sunny
+2024-12-04,Turkmenistan,Sunny
+2025-01-06,Albania,Cloudy
+2025-01-11,Lesotho,Cloudy
+2025-01-18,Falkland Islands (Malvinas),Rainy
+2025-02-03,Monaco,Stormy
+2025-02-19,Kiribati,Sunny
+2024-12-28,Australia,Snowy
+2024-12-16,Monaco,Snowy
+2025-02-13,Italy,Sunny
+2024-12-15,Monaco,Snowy
+2025-01-01,Isle of Man,Sunny
+2025-01-22,Faroe Islands,Snowy
+2025-01-21,Turkey,Sunny
+2025-01-10,Austria,Cloudy
+2025-01-11,Liechtenstein,Windy
+2025-01-01,Luxembourg,Windy
+2025-02-09,Cuba,Windy
+2025-01-30,Saint Barthelemy,Snowy
+2025-02-11,Montenegro,Sunny
+2024-12-17,Guam,Sunny
+2025-01-30,Tokelau,Rainy
+2025-02-17,Reunion,Sunny
+2025-01-07,Malaysia,Windy
+2025-02-19,Congo,Snowy
+2024-12-03,Romania,Windy
+2024-12-14,Svalbard & Jan Mayen Islands,Stormy
+2025-02-12,Lebanon,Snowy
+2024-12-11,Nepal,Sunny
+2024-12-14,French Southern Territories,Stormy
+2024-12-20,Guatemala,Sunny
+2025-02-11,Tuvalu,Cloudy
+2025-01-17,Costa Rica,Sunny
+2025-02-11,Christmas Island,Snowy
+2025-02-24,Mauritania,Sunny
+2025-02-22,Ireland,Stormy
+2025-01-01,Azerbaijan,Sunny
+2025-01-05,Dominican Republic,Cloudy
+2024-12-27,Libyan Arab Jamahiriya,Sunny
+2025-01-14,Afghanistan,Stormy
+2025-01-26,Saint Kitts and Nevis,Stormy
+2024-12-26,Libyan Arab Jamahiriya,Windy
+2025-02-20,Martinique,Rainy
+2025-02-09,Saint Lucia,Windy
+2025-02-16,Kuwait,Rainy
+2024-12-31,South Africa,Stormy
+2025-02-04,Australia,Sunny
+2025-02-20,Tonga,Windy
+2024-12-30,Armenia,Sunny
+2025-02-03,Lebanon,Stormy
+2024-12-03,Netherlands Antilles,Sunny
+2024-12-26,Syrian Arab Republic,Stormy
+2025-01-11,Canada,Sunny
+2024-12-29,Mali,Sunny
+2025-02-17,Philippines,Cloudy
+2025-01-26,Turkmenistan,Sunny
+2025-01-09,Ecuador,Sunny
+2025-01-12,Senegal,Sunny
+2025-02-19,Philippines,Rainy
+2025-01-28,Guadeloupe,Windy
+2025-02-01,Cambodia,Stormy
+2025-01-27,Madagascar,Windy
+2025-03-01,Bangladesh,Sunny
+2024-12-18,Lesotho,Cloudy
+2025-02-09,Venezuela,Sunny
+2025-02-08,Uzbekistan,Rainy
+2024-12-10,Holy See (Vatican City State),Rainy
+2025-02-10,Guernsey,Stormy
+2024-12-22,El Salvador,Cloudy
+2025-02-28,Switzerland,Sunny
+2025-01-20,Kyrgyz Republic,Sunny
+2025-01-04,Brazil,Sunny
+2025-01-06,Eritrea,Stormy
+2024-12-06,Bouvet Island (Bouvetoya),Snowy
+2025-01-12,Tuvalu,Snowy
+2024-12-04,Greece,Sunny
+2025-02-26,Cote d'Ivoire,Windy
+2024-12-05,Romania,Sunny
+2024-12-31,Saudi Arabia,Sunny
+2024-12-28,Yemen,Cloudy
+2025-02-26,Cameroon,Stormy
+2024-12-04,Montserrat,Windy
+2025-01-29,Mauritius,Stormy
+2025-02-25,Timor-Leste,Rainy
+2025-02-15,Bermuda,Windy
+2024-12-12,Belarus,Stormy
+2025-01-31,South Georgia and the South Sandwich Islands,Windy
+2025-02-22,Afghanistan,Rainy
+2024-12-25,Tajikistan,Sunny
+2025-02-07,Switzerland,Cloudy
+2025-02-06,Sweden,Cloudy
+2024-12-03,Lithuania,Snowy
+2024-12-05,India,Sunny
+2025-01-07,Antarctica (the territory South of 60 deg S),Stormy
+2025-01-30,Sierra Leone,Snowy
+2024-12-04,Kuwait,Rainy
+2024-12-31,Dominican Republic,Rainy
+2025-02-09,Netherlands Antilles,Rainy
+2025-01-31,Saint Martin,Stormy
+2024-12-10,Barbados,Rainy
+2025-02-16,Lao People's Democratic Republic,Windy
+2024-12-18,Taiwan,Cloudy
+2024-12-02,Saint Martin,Windy
+2024-12-23,Austria,Stormy
+2025-02-24,Ecuador,Sunny
+2024-12-28,Armenia,Stormy
+2025-01-27,Jordan,Rainy
+2024-12-17,Iran,Windy
+2024-12-30,Germany,Cloudy
+2024-12-14,Korea,Windy
+2024-12-04,Slovenia,Windy
+2025-02-07,Armenia,Windy
+2025-01-15,Bouvet Island (Bouvetoya),Sunny
+2025-01-09,South Georgia and the South Sandwich Islands,Stormy
+2025-02-11,Zimbabwe,Snowy
+2025-02-07,Eritrea,Windy
+2025-01-01,Yemen,Sunny
+2025-01-31,New Caledonia,Snowy
+2025-02-06,Slovenia,Stormy
+2025-02-16,Sao Tome and Principe,Cloudy
+2025-02-01,Monaco,Sunny
+2025-01-16,Venezuela,Rainy
+2025-02-17,Cocos (Keeling) Islands,Sunny
+2024-12-06,Burundi,Windy
+2025-02-14,Cyprus,Windy
+2024-12-23,Saint Barthelemy,Snowy
+2025-01-19,Liberia,Sunny
+2024-12-14,Angola,Snowy
+2025-02-01,Andorra,Cloudy
+2024-12-07,Guadeloupe,Sunny
+2025-01-29,Algeria,Windy
+2025-02-23,Myanmar,Stormy
+2025-02-08,Guadeloupe,Windy
+2024-12-15,Cuba,Rainy
+2024-12-19,Namibia,Sunny
+2025-01-06,Bulgaria,Cloudy
+2025-02-18,Albania,Windy
+2025-01-30,Lebanon,Sunny
+2025-01-24,Niger,Snowy
+2024-12-02,Ghana,Windy
+2025-01-06,Palestinian Territory,Stormy
+2025-02-17,Vanuatu,Snowy
+2025-02-06,Christmas Island,Stormy
+2025-01-20,Vanuatu,Sunny
+2025-02-02,Georgia,Cloudy
+2025-02-12,Eritrea,Sunny
+2024-12-20,China,Snowy
+2025-01-25,Mongolia,Stormy
+2025-02-26,France,Snowy
+2025-02-25,Marshall Islands,Snowy
+2025-02-24,Romania,Cloudy
+2025-02-11,Cambodia,Rainy
+2024-12-21,Vietnam,Cloudy
+2025-02-11,Malta,Stormy
+2025-01-31,Macao,Cloudy
+2025-02-07,Cook Islands,Snowy
+2024-12-08,Djibouti,Sunny
+2024-12-06,Andorra,Cloudy
+2025-01-28,Tuvalu,Snowy
+2025-01-15,Serbia,Snowy
+2024-12-28,Hong Kong,Windy
+2025-02-13,Panama,Stormy
+2025-02-16,Marshall Islands,Sunny
+2025-01-04,San Marino,Snowy
+2025-01-22,Tanzania,Windy
+2025-01-25,Turkmenistan,Sunny
+2024-12-18,Lebanon,Rainy
+2025-01-19,Burundi,Sunny
+2025-02-13,Finland,Windy
+2024-12-30,Seychelles,Stormy
+2025-02-05,New Caledonia,Cloudy
+2024-12-14,Burundi,Cloudy
+2025-02-11,Malaysia,Stormy
+2025-01-17,Liechtenstein,Rainy
+2024-12-22,Northern Mariana Islands,Rainy
+2025-01-20,Norfolk Island,Cloudy
+2025-01-31,Nigeria,Rainy
+2025-02-10,Andorra,Rainy
+2025-02-24,Bulgaria,Sunny
+2025-01-05,Western Sahara,Stormy
+2025-01-22,Dominica,Stormy
+2024-12-29,Marshall Islands,Snowy
+2025-01-17,Ecuador,Sunny
+2025-02-17,Vietnam,Stormy
+2025-01-30,Bolivia,Windy
+2025-03-01,Venezuela,Windy
+2024-12-19,Botswana,Rainy
+2024-12-15,Pitcairn Islands,Snowy
+2024-12-29,Croatia,Windy
+2025-01-01,Nicaragua,Stormy
+2025-01-14,Mayotte,Cloudy
+2025-02-13,Timor-Leste,Snowy
+2025-01-07,French Guiana,Stormy
+2025-02-23,Lebanon,Stormy
+2025-02-09,Saint Martin,Cloudy
+2024-12-12,Libyan Arab Jamahiriya,Stormy
+2024-12-14,Vanuatu,Cloudy
+2024-12-05,San Marino,Sunny
+2024-12-18,Guernsey,Snowy
+2025-02-04,Malaysia,Snowy
+2024-12-21,Mali,Snowy
+2025-02-23,Congo,Snowy
+2025-01-16,Eritrea,Windy
+2025-01-29,Nauru,Sunny
+2024-12-12,Sweden,Windy
+2025-02-02,Saint Vincent and the Grenadines,Sunny
+2024-12-21,Somalia,Windy
+2025-01-12,Benin,Snowy
+2024-12-10,Qatar,Sunny
+2025-01-02,Mayotte,Rainy
+2025-02-26,Guernsey,Stormy
+2025-01-05,Saint Vincent and the Grenadines,Sunny
+2024-12-18,Suriname,Windy
+2025-02-05,Bermuda,Rainy
+2025-03-01,Isle of Man,Stormy
+2025-02-23,Albania,Stormy
+2025-01-19,Colombia,Rainy
+2025-02-20,Benin,Stormy
+2025-01-31,United Kingdom,Snowy
+2025-02-18,Colombia,Cloudy
+2025-01-10,France,Rainy
+2025-01-19,Bahrain,Sunny
+2025-02-09,Australia,Rainy
+2024-12-09,Cuba,Cloudy
+2024-12-29,Djibouti,Windy
+2025-01-27,Bangladesh,Sunny
+2024-12-06,Guernsey,Cloudy
+2025-01-09,Dominica,Stormy
+2025-02-08,Israel,Cloudy
+2025-02-08,Kenya,Sunny
+2025-01-18,Gabon,Cloudy
+2024-12-25,Portugal,Rainy
+2024-12-23,Gibraltar,Stormy
+2024-12-07,Equatorial Guinea,Sunny
+2025-01-17,Dominican Republic,Windy
+2024-12-25,Ukraine,Snowy
+2024-12-31,Guyana,Cloudy
+2025-02-27,Bangladesh,Rainy
+2025-01-20,Japan,Snowy
+2024-12-07,Korea,Cloudy
+2025-02-08,Armenia,Sunny
+2025-01-25,Burundi,Windy
+2025-02-14,Tunisia,Windy
+2025-01-12,Malta,Stormy
+2024-12-11,Antigua and Barbuda,Stormy
+2025-01-11,British Virgin Islands,Rainy
+2025-01-25,Armenia,Cloudy
+2025-01-22,Brazil,Stormy
+2025-02-25,Yemen,Sunny
+2025-01-07,United States Virgin Islands,Stormy
+2025-02-07,Cuba,Windy
+2025-02-04,Moldova,Stormy
+2025-02-09,San Marino,Stormy
+2025-01-15,Albania,Windy
+2024-12-10,Togo,Windy
+2025-01-08,Greenland,Rainy
+2024-12-22,Benin,Sunny
+2024-12-18,Netherlands,Sunny
+2025-01-11,Nicaragua,Snowy
+2025-01-07,Oman,Stormy
+2025-01-30,Hungary,Stormy
+2024-12-10,Haiti,Rainy
+2025-02-11,Guam,Rainy
+2025-01-04,Sri Lanka,Cloudy
+2025-02-04,India,Stormy
+2025-02-16,Mongolia,Rainy
+2025-01-01,Syrian Arab Republic,Windy
+2024-12-03,Cambodia,Windy
+2025-01-16,Sweden,Sunny
+2025-01-14,Costa Rica,Sunny
+2025-01-03,Belarus,Snowy
+2025-02-20,Benin,Rainy
+2025-01-20,Seychelles,Sunny
+2025-02-23,Saint Kitts and Nevis,Snowy
+2025-01-06,Malawi,Rainy
+2025-02-24,Senegal,Cloudy
+2024-12-16,Marshall Islands,Sunny
+2025-01-31,Myanmar,Snowy
+2024-12-08,Japan,Cloudy
+2025-02-11,Nicaragua,Rainy
+2025-02-17,Rwanda,Cloudy
+2024-12-17,Mayotte,Windy
+2025-03-01,Maldives,Windy
+2025-01-03,Solomon Islands,Windy
+2024-12-19,Botswana,Cloudy
+2024-12-10,French Southern Territories,Rainy
+2025-01-15,Samoa,Rainy
+2024-12-28,Greece,Sunny
+2024-12-07,Ethiopia,Snowy
+2025-01-26,Ukraine,Cloudy
+2024-12-06,Greece,Rainy
+2025-02-21,Oman,Rainy
+2024-12-21,Papua New Guinea,Sunny
+2025-02-25,Albania,Sunny
+2024-12-18,Sao Tome and Principe,Rainy
+2025-01-13,Montserrat,Stormy
+2025-01-03,Bhutan,Rainy
+2024-12-31,French Polynesia,Sunny
+2025-02-06,Ukraine,Snowy
+2025-02-08,Rwanda,Rainy
+2025-02-23,Turks and Caicos Islands,Rainy
+2025-01-01,Gabon,Rainy
+2024-12-27,Benin,Cloudy
+2025-01-18,Lithuania,Sunny
+2025-01-12,Malawi,Cloudy
+2025-02-16,Nauru,Stormy
+2024-12-29,Lesotho,Rainy
+2025-01-13,Iraq,Stormy
+2025-02-14,Pakistan,Sunny
+2024-12-26,Heard Island and McDonald Islands,Cloudy
+2024-12-16,Libyan Arab Jamahiriya,Windy
+2025-02-10,Barbados,Sunny
+2024-12-12,Armenia,Rainy
+2025-02-16,Tonga,Cloudy
+2025-02-18,Cook Islands,Stormy
+2025-02-24,Sao Tome and Principe,Rainy
+2024-12-06,Russian Federation,Stormy
+2024-12-29,Thailand,Sunny
+2025-02-07,Saint Kitts and Nevis,Cloudy
+2024-12-05,Pitcairn Islands,Cloudy
+2024-12-25,Cuba,Stormy
+2025-02-20,Brazil,Windy
+2024-12-02,Norfolk Island,Stormy
+2025-01-06,Turkey,Sunny
+2025-02-27,New Zealand,Stormy
+2025-01-08,Northern Mariana Islands,Snowy
+2024-12-27,Niger,Windy
+2025-02-12,Venezuela,Rainy
+2025-02-28,Martinique,Snowy
+2025-01-23,Israel,Sunny
+2025-02-20,Korea,Stormy
+2025-01-12,Slovenia,Sunny
+2025-01-30,Botswana,Snowy
+2024-12-17,Austria,Snowy
+2024-12-20,Antarctica (the territory South of 60 deg S),Stormy
+2024-12-26,Fiji,Windy
+2025-01-12,Canada,Stormy
+2025-01-18,Comoros,Stormy
+2025-02-23,United Kingdom,Rainy
+2025-02-27,Guam,Cloudy
+2025-02-08,Guyana,Rainy
+2025-02-25,Samoa,Rainy
+2025-02-11,Tajikistan,Rainy
+2025-02-06,Andorra,Rainy
+2025-02-22,Moldova,Windy
+2025-02-16,Slovenia,Windy
+2024-12-10,Saint Kitts and Nevis,Cloudy
+2025-03-01,Cocos (Keeling) Islands,Windy
+2025-01-26,Uganda,Snowy
+2025-02-13,Kazakhstan,Cloudy
+2025-02-15,United Kingdom,Rainy
+2025-02-01,Anguilla,Rainy
+2025-01-07,Trinidad and Tobago,Sunny
+2025-02-12,French Polynesia,Windy
+2025-02-24,United States Minor Outlying Islands,Cloudy
+2025-02-02,Jamaica,Stormy
+2024-12-07,Swaziland,Stormy
+2024-12-28,Spain,Windy
+2025-02-14,New Zealand,Snowy
+2024-12-28,Uganda,Stormy
+2025-01-16,Faroe Islands,Windy
+2025-01-02,Northern Mariana Islands,Snowy
+2024-12-15,Grenada,Windy
+2025-01-06,Zimbabwe,Sunny
+2025-01-04,Iran,Sunny
+2025-02-13,Mayotte,Cloudy
+2024-12-28,Egypt,Stormy
+2025-01-10,Guinea-Bissau,Windy
+2025-01-28,Fiji,Stormy
+2025-01-10,Estonia,Sunny
+2024-12-14,Eritrea,Sunny
+2024-12-19,Azerbaijan,Cloudy
+2024-12-05,Ukraine,Rainy
+2025-02-19,Dominican Republic,Stormy
+2025-01-11,United States of America,Sunny
+2024-12-04,Christmas Island,Rainy
+2024-12-24,Finland,Windy
+2025-02-15,El Salvador,Sunny
+2025-02-19,Turkmenistan,Windy
+2025-01-04,Albania,Sunny
+2025-02-04,Lesotho,Windy
+2024-12-17,Brunei Darussalam,Rainy
+2025-01-14,Antigua and Barbuda,Windy
+2025-02-12,Gambia,Rainy
+2025-01-29,Congo,Cloudy
+2025-02-02,Northern Mariana Islands,Stormy
+2025-02-05,Andorra,Stormy
+2024-12-21,Monaco,Snowy
+2025-01-24,Cook Islands,Sunny
+2024-12-05,Latvia,Windy
+2025-02-16,Jamaica,Snowy
+2025-02-11,Armenia,Sunny
+2025-02-03,Madagascar,Sunny
+2025-01-10,Iran,Windy
+2025-02-21,Chile,Rainy
+2025-02-07,Tajikistan,Stormy
+2024-12-21,Falkland Islands (Malvinas),Cloudy
+2025-02-21,Seychelles,Sunny
+2025-02-10,Falkland Islands (Malvinas),Windy
+2025-02-11,Togo,Stormy
+2025-01-31,Mexico,Snowy
+2025-01-22,Georgia,Cloudy
+2025-02-03,Iceland,Sunny
+2024-12-19,Slovakia (Slovak Republic),Cloudy
+2024-12-22,Greece,Rainy
+2025-02-02,Bulgaria,Sunny
+2024-12-02,Saint Pierre and Miquelon,Stormy
+2024-12-31,Grenada,Snowy
+2025-02-10,Paraguay,Sunny
+2025-01-05,Korea,Stormy
+2025-02-12,Saint Helena,Windy
+2025-02-01,Gambia,Rainy
+2025-01-26,Jordan,Cloudy
+2025-02-27,Greece,Sunny
+2025-02-18,Morocco,Rainy
+2025-02-22,Sri Lanka,Snowy
+2024-12-25,Belarus,Windy
+2025-02-14,Ireland,Sunny
+2025-02-15,Monaco,Cloudy
+2025-01-01,Eritrea,Sunny
+2025-02-10,Japan,Cloudy
+2025-01-04,Angola,Windy
+2025-02-10,Cocos (Keeling) Islands,Rainy
+2025-02-12,Monaco,Rainy
+2025-01-13,Palau,Sunny
+2025-01-10,Gabon,Windy
+2025-02-14,Guyana,Sunny
+2025-01-05,Nicaragua,Rainy
+2025-01-05,Indonesia,Sunny
+2025-02-17,Bolivia,Windy
+2024-12-26,Nepal,Windy
+2024-12-26,Lebanon,Cloudy
+2025-01-16,Thailand,Snowy
+2024-12-13,North Macedonia,Cloudy
+2025-02-27,Jordan,Sunny
+2024-12-16,Rwanda,Snowy
+2025-01-21,Austria,Rainy
+2025-01-11,Libyan Arab Jamahiriya,Snowy
+2024-12-16,Italy,Rainy
+2025-01-05,Argentina,Rainy
+2025-02-12,Peru,Sunny
+2024-12-17,Czech Republic,Rainy
+2025-01-05,Monaco,Windy
+2025-01-10,Gambia,Rainy
+2024-12-29,Japan,Cloudy
+2024-12-19,Greece,Windy
+2024-12-04,Mali,Sunny
+2024-12-07,Seychelles,Cloudy
+2025-01-21,Saint Barthelemy,Rainy
+2025-02-18,Cape Verde,Snowy
+2025-02-18,Sudan,Cloudy
+2025-02-15,Micronesia,Snowy
+2025-01-02,Ireland,Cloudy
+2024-12-06,Azerbaijan,Snowy
+2025-01-06,Maldives,Snowy
+2025-02-26,Czech Republic,Windy
+2025-02-04,Uganda,Snowy
+2025-01-16,Monaco,Snowy
+2025-02-13,Central African Republic,Stormy
+2025-02-12,Belarus,Sunny
+2025-01-24,Cayman Islands,Sunny
+2025-02-24,Serbia,Rainy
+2025-01-24,Tanzania,Windy
+2024-12-25,Latvia,Cloudy
+2025-01-09,French Guiana,Snowy
+2025-01-10,Liechtenstein,Rainy
+2024-12-14,Holy See (Vatican City State),Rainy
+2025-01-09,Mexico,Stormy
+2025-02-12,Montserrat,Snowy
+2025-01-10,Iceland,Rainy
+2025-02-06,French Polynesia,Windy
+2025-01-24,Greece,Stormy
+2025-02-25,Andorra,Windy
+2025-01-12,Serbia,Stormy
+2025-02-21,Brazil,Snowy
+2025-02-02,Morocco,Sunny
+2025-01-30,Burkina Faso,Sunny
+2025-01-23,Korea,Cloudy
+2025-03-01,Marshall Islands,Cloudy
+2025-02-18,Turkmenistan,Windy
+2025-02-12,Gibraltar,Stormy
+2025-01-10,Bolivia,Windy
+2025-01-27,Tanzania,Rainy
+2025-01-06,Mexico,Sunny
+2024-12-13,United States of America,Snowy
+2025-01-19,Falkland Islands (Malvinas),Stormy
+2025-01-30,Kuwait,Rainy
+2025-02-17,Austria,Rainy
+2025-02-24,Bhutan,Rainy
+2025-02-19,New Caledonia,Snowy
+2025-01-24,South Africa,Cloudy
+2025-01-07,Nauru,Snowy
+2024-12-17,Cyprus,Windy
+2025-01-18,Burkina Faso,Cloudy
+2024-12-14,Venezuela,Windy
+2025-01-09,Palestinian Territory,Stormy
+2024-12-18,Mexico,Rainy
+2024-12-13,Korea,Cloudy
+2024-12-02,Dominica,Rainy
+2024-12-13,Anguilla,Cloudy
+2025-01-29,Australia,Cloudy
+2024-12-15,Bouvet Island (Bouvetoya),Snowy
+2025-01-18,South Africa,Snowy
+2025-02-11,Pitcairn Islands,Sunny
+2025-01-24,Korea,Snowy
+2024-12-11,Tokelau,Sunny
+2024-12-04,Germany,Sunny
+2025-02-08,Gambia,Windy
+2025-02-14,Guernsey,Windy
+2024-12-13,Faroe Islands,Snowy
+2024-12-27,Guam,Rainy
+2024-12-13,Mexico,Windy
+2025-02-17,Bhutan,Sunny
+2025-02-25,Christmas Island,Rainy
+2025-02-03,Suriname,Stormy
+2024-12-30,Costa Rica,Cloudy
+2025-02-07,Madagascar,Rainy
+2024-12-21,Reunion,Cloudy
+2024-12-09,Jamaica,Stormy
+2025-01-12,Lebanon,Snowy
+2025-02-24,Togo,Snowy
+2024-12-28,Congo,Cloudy
+2025-02-04,Cameroon,Windy
+2024-12-12,Afghanistan,Windy
+2025-01-29,Marshall Islands,Windy
+2024-12-08,Pitcairn Islands,Rainy
+2025-01-18,Greece,Rainy
+2024-12-16,Iceland,Snowy
+2025-02-22,Bangladesh,Sunny
+2024-12-07,Switzerland,Rainy
+2025-02-09,United States Virgin Islands,Snowy
+2025-02-01,Norway,Cloudy
+2025-01-22,Australia,Snowy
+2024-12-18,Peru,Sunny
+2025-01-10,Togo,Rainy
+2025-01-23,Montenegro,Sunny
+2025-01-07,Yemen,Snowy
+2024-12-10,American Samoa,Windy
+2025-01-31,Mauritius,Sunny
+2025-02-23,Dominica,Sunny
+2025-02-05,Bermuda,Snowy
+2024-12-23,Norfolk Island,Rainy
+2025-01-25,Togo,Rainy
+2025-01-14,Libyan Arab Jamahiriya,Stormy
+2025-01-27,Austria,Rainy
+2024-12-19,Venezuela,Snowy
+2025-01-27,Philippines,Sunny
+2025-01-21,Saint Kitts and Nevis,Rainy
+2024-12-12,Indonesia,Windy
+2025-01-07,Svalbard & Jan Mayen Islands,Stormy
+2024-12-30,Estonia,Windy
+2024-12-31,Macao,Windy
+2025-03-01,Cape Verde,Snowy
+2024-12-30,Libyan Arab Jamahiriya,Cloudy
+2025-01-19,Colombia,Rainy
+2025-01-24,Afghanistan,Windy
+2024-12-07,Saint Pierre and Miquelon,Rainy
+2024-12-05,United Arab Emirates,Stormy
+2025-02-22,Tokelau,Cloudy
+2024-12-15,Pitcairn Islands,Stormy
+2025-01-26,Chad,Windy
+2025-01-21,Ireland,Sunny
+2025-02-24,Tunisia,Cloudy
+2025-02-05,Australia,Rainy
+2025-02-17,Niue,Windy
+2025-01-30,Afghanistan,Cloudy
+2024-12-21,United Arab Emirates,Cloudy
+2024-12-05,Suriname,Stormy
+2025-02-15,Syrian Arab Republic,Sunny
+2025-02-22,Antigua and Barbuda,Windy
+2024-12-22,Solomon Islands,Sunny
+2025-01-17,Dominican Republic,Cloudy
+2025-01-19,Croatia,Rainy
+2025-02-06,Aruba,Cloudy
+2025-03-01,Turkey,Cloudy
+2024-12-21,Lithuania,Sunny
+2025-01-29,South Georgia and the South Sandwich Islands,Windy
+2025-01-23,Jamaica,Rainy
+2025-02-09,Pitcairn Islands,Rainy
+2025-01-15,Anguilla,Sunny
+2025-01-21,Dominican Republic,Sunny
+2025-03-01,Senegal,Stormy
+2025-02-03,Liechtenstein,Stormy
+2025-02-26,Somalia,Windy
+2024-12-09,Uruguay,Snowy
+2025-02-20,Namibia,Sunny
+2025-02-10,Mayotte,Snowy
+2025-01-05,Samoa,Stormy
+2025-02-10,Saint Pierre and Miquelon,Snowy
+2024-12-06,Lithuania,Sunny
+2024-12-22,American Samoa,Sunny
+2025-01-26,Malta,Windy
+2025-01-16,Seychelles,Sunny
+2025-02-03,Jordan,Sunny
+2024-12-09,El Salvador,Stormy
+2025-02-09,Germany,Windy
+2025-01-05,Burkina Faso,Rainy
+2025-01-03,Bahrain,Snowy
+2025-02-16,Mexico,Sunny
+2025-01-08,Marshall Islands,Stormy
+2025-02-12,Botswana,Windy
+2025-02-11,Austria,Sunny
+2024-12-08,Micronesia,Sunny
+2025-01-14,Martinique,Sunny
+2025-02-14,Cote d'Ivoire,Windy
+2025-01-27,Slovakia (Slovak Republic),Windy
+2024-12-05,South Africa,Windy
+2025-01-20,Qatar,Windy
+2025-01-31,Luxembourg,Windy
+2025-02-05,Namibia,Sunny
+2025-02-17,Jamaica,Windy
+2025-01-19,Nigeria,Rainy
+2024-12-27,Italy,Sunny
+2024-12-21,Wallis and Futuna,Stormy
+2025-02-18,Central African Republic,Sunny
+2025-01-17,Puerto Rico,Cloudy
+2024-12-04,Finland,Windy
+2024-12-20,Antigua and Barbuda,Sunny
+2025-02-16,Peru,Snowy
+2025-01-17,Macao,Sunny
+2025-02-02,Azerbaijan,Windy
+2025-01-26,Mali,Sunny
+2025-02-03,Andorra,Stormy
+2025-02-23,Antigua and Barbuda,Snowy
+2024-12-13,Zambia,Windy
+2025-01-12,Gabon,Stormy
+2025-02-20,Congo,Sunny
+2024-12-20,Western Sahara,Windy
+2024-12-22,Qatar,Snowy
+2024-12-30,Madagascar,Cloudy
+2024-12-19,Uganda,Sunny
+2025-02-25,Nigeria,Sunny
+2025-01-16,Panama,Rainy
+2025-01-22,South Africa,Stormy
+2024-12-06,Guatemala,Stormy
+2025-02-02,Bulgaria,Stormy
+2025-02-01,Philippines,Windy
+2024-12-24,Slovenia,Rainy
+2025-02-12,Brazil,Stormy
+2025-01-18,Senegal,Cloudy
+2025-01-17,Japan,Rainy
+2025-01-18,Libyan Arab Jamahiriya,Cloudy
+2024-12-02,Egypt,Windy
+2024-12-02,Uruguay,Rainy
+2024-12-12,Israel,Stormy
+2025-02-23,India,Rainy
+2025-01-28,Albania,Snowy
+2024-12-20,Tanzania,Rainy
+2024-12-25,Mongolia,Sunny
+2025-01-16,Slovakia (Slovak Republic),Stormy
+2025-02-26,Serbia,Snowy
+2024-12-27,Togo,Windy
+2025-02-22,Denmark,Rainy
+2024-12-18,Liechtenstein,Windy
+2024-12-02,Monaco,Cloudy
+2025-01-03,Bermuda,Windy
+2024-12-26,Falkland Islands (Malvinas),Rainy
+2025-02-21,Tanzania,Snowy
+2025-01-28,Cyprus,Snowy
+2025-01-02,Burkina Faso,Snowy
+2024-12-17,Colombia,Rainy
+2025-01-21,Uzbekistan,Sunny
+2025-01-03,Uganda,Sunny
+2024-12-10,Maldives,Cloudy
+2024-12-31,Tajikistan,Rainy
+2025-01-27,Wallis and Futuna,Stormy
+2024-12-27,Nigeria,Rainy
+2025-02-07,Yemen,Windy
+2025-02-18,Uganda,Windy
+2025-02-07,Namibia,Cloudy
+2024-12-06,Equatorial Guinea,Windy
+2024-12-17,Panama,Rainy
+2025-02-21,Niue,Rainy
+2025-01-17,Taiwan,Cloudy
+2025-02-06,Romania,Cloudy
+2025-01-11,Ghana,Rainy
+2024-12-25,Saint Kitts and Nevis,Snowy
+2024-12-05,Burundi,Cloudy
+2025-02-20,Niue,Cloudy
+2024-12-29,Cape Verde,Stormy
+2025-01-29,United States Virgin Islands,Snowy
+2025-01-15,Dominica,Stormy
+2025-02-01,Seychelles,Cloudy
+2025-02-15,Mauritius,Stormy
+2025-01-10,South Georgia and the South Sandwich Islands,Sunny
+2025-02-20,Greenland,Rainy
+2024-12-13,Gibraltar,Windy
+2024-12-06,Iran,Sunny
+2025-02-05,Sri Lanka,Windy
+2024-12-21,Solomon Islands,Cloudy
+2025-01-29,Mongolia,Cloudy
+2025-02-03,Mayotte,Cloudy
+2025-01-21,French Polynesia,Rainy
+2025-01-23,Reunion,Cloudy
+2024-12-12,Russian Federation,Sunny
+2025-02-09,Tuvalu,Windy
+2025-01-16,Kenya,Cloudy
+2024-12-31,Georgia,Snowy
+2025-02-20,Tunisia,Sunny
+2025-01-30,Oman,Cloudy
+2024-12-18,India,Snowy
+2025-01-02,Benin,Windy
+2025-01-05,Pitcairn Islands,Rainy
+2024-12-03,Nauru,Snowy
+2025-02-05,Malaysia,Cloudy
+2025-02-20,Lebanon,Rainy
+2025-01-14,Ukraine,Windy
+2025-01-03,Jamaica,Snowy
+2025-02-25,Namibia,Rainy
+2025-01-09,Hong Kong,Rainy
+2025-02-25,Reunion,Cloudy
+2025-02-05,Angola,Windy
+2025-02-19,Netherlands,Snowy
+2025-02-04,Slovenia,Cloudy
+2025-01-04,Syrian Arab Republic,Sunny
+2025-01-27,Bouvet Island (Bouvetoya),Sunny
+2024-12-21,Bouvet Island (Bouvetoya),Windy
+2024-12-08,Samoa,Rainy
+2025-02-14,Saint Martin,Sunny
+2025-02-18,Micronesia,Stormy
+2024-12-04,Cuba,Sunny
+2025-01-02,Jersey,Cloudy
+2025-01-24,Tanzania,Sunny
+2024-12-22,Belarus,Snowy
+2024-12-30,Papua New Guinea,Rainy
+2025-02-02,Cambodia,Cloudy
+2025-01-05,Canada,Snowy
+2024-12-07,Uganda,Cloudy
+2025-01-03,North Macedonia,Sunny
+2025-02-25,United Arab Emirates,Rainy
+2024-12-11,Hungary,Snowy
+2024-12-22,Cayman Islands,Cloudy
+2025-02-19,Zambia,Stormy
+2024-12-16,New Caledonia,Rainy
+2024-12-03,Chile,Windy
+2025-01-25,Malta,Cloudy
+2025-01-22,Korea,Sunny
+2025-02-13,United Arab Emirates,Sunny
+2024-12-28,Saint Helena,Stormy
+2025-01-15,United States of America,Rainy
+2025-02-04,Iceland,Windy
+2024-12-27,Slovakia (Slovak Republic),Cloudy
+2025-02-17,Saint Lucia,Rainy
+2025-03-01,Norway,Cloudy
+2025-01-21,Northern Mariana Islands,Stormy
+2025-01-30,Bhutan,Snowy
+2025-01-11,Dominican Republic,Rainy
+2024-12-04,San Marino,Windy
+2024-12-13,Saudi Arabia,Snowy
+2025-02-22,Svalbard & Jan Mayen Islands,Cloudy
+2024-12-08,Equatorial Guinea,Snowy
+2025-01-10,Jordan,Cloudy
+2025-01-20,South Africa,Stormy
+2024-12-11,Chile,Stormy
+2024-12-17,Slovenia,Cloudy
+2024-12-28,Zambia,Windy
+2025-02-07,Mexico,Rainy
+2025-02-22,Heard Island and McDonald Islands,Cloudy
+2024-12-23,British Indian Ocean Territory (Chagos Archipelago),Rainy
+2025-01-12,Tunisia,Windy
+2024-12-11,North Macedonia,Windy
+2025-01-26,Svalbard & Jan Mayen Islands,Stormy
+2025-02-23,Ghana,Rainy
+2025-01-02,Micronesia,Stormy
+2025-01-30,United States Virgin Islands,Rainy
+2025-02-24,Myanmar,Stormy
+2025-01-30,Tajikistan,Rainy
+2024-12-28,Latvia,Snowy
+2025-02-11,Poland,Sunny
+2025-02-22,Svalbard & Jan Mayen Islands,Stormy
+2025-01-31,Jamaica,Stormy
+2025-01-26,Syrian Arab Republic,Sunny
+2025-02-16,Paraguay,Rainy
+2024-12-05,Senegal,Cloudy
+2025-02-15,Latvia,Snowy
+2025-02-18,Philippines,Stormy
+2025-02-06,Micronesia,Snowy
+2024-12-08,Swaziland,Sunny
+2025-01-21,Samoa,Windy
+2025-01-06,Fiji,Cloudy
+2024-12-18,Namibia,Windy
+2025-02-28,Liberia,Rainy
+2025-02-10,Belize,Stormy
+2025-02-23,Russian Federation,Sunny
+2024-12-11,Mexico,Sunny
+2025-02-14,Burkina Faso,Snowy
+2025-01-17,Israel,Snowy
+2025-01-03,Portugal,Stormy
+2025-02-19,North Macedonia,Rainy
+2025-02-11,Bolivia,Sunny
+2025-02-25,Honduras,Windy
+2024-12-26,Jersey,Stormy
+2024-12-27,Guadeloupe,Snowy
+2024-12-06,Iraq,Cloudy
+2024-12-31,Saint Lucia,Rainy
+2025-01-17,South Africa,Stormy
+2025-01-10,United Arab Emirates,Windy
+2024-12-26,Lao People's Democratic Republic,Snowy
+2025-02-28,Pakistan,Stormy
+2025-02-27,Togo,Stormy
+2024-12-25,Slovakia (Slovak Republic),Cloudy
+2025-01-21,Maldives,Rainy
+2025-03-01,Madagascar,Stormy
+2025-01-17,Oman,Rainy
+2025-01-24,Congo,Cloudy
+2025-02-15,Marshall Islands,Stormy
+2025-01-28,Cote d'Ivoire,Windy
+2024-12-20,Philippines,Snowy
+2025-02-15,Hungary,Cloudy
+2025-02-28,Korea,Windy
+2024-12-18,Niger,Snowy
+2025-01-25,Burundi,Cloudy
+2025-02-14,Nauru,Sunny
+2025-02-02,British Indian Ocean Territory (Chagos Archipelago),Snowy
+2025-01-14,Senegal,Windy
+2025-01-06,Guernsey,Stormy
+2025-01-29,Lesotho,Windy
+2025-02-04,French Guiana,Rainy
+2025-01-27,Cyprus,Windy
+2025-02-27,Uganda,Snowy
+2025-02-08,Bermuda,Windy
+2025-01-02,Gambia,Sunny
+2024-12-15,Iraq,Stormy
+2025-01-20,Macao,Cloudy
+2024-12-11,Indonesia,Snowy
+2024-12-07,Chile,Stormy
+2025-02-18,Germany,Cloudy
+2025-02-26,Antigua and Barbuda,Sunny
+2025-01-30,Georgia,Sunny
+2025-02-28,Azerbaijan,Windy
+2024-12-02,Ghana,Cloudy
+2025-01-17,Lebanon,Stormy
+2025-03-01,Azerbaijan,Rainy
+2025-02-05,Guernsey,Rainy
+2025-01-13,United States Virgin Islands,Snowy
+2025-01-10,Guatemala,Rainy
+2025-01-21,Netherlands,Rainy
+2024-12-25,Netherlands,Snowy
+2024-12-31,Eritrea,Snowy
+2025-01-16,Mauritius,Cloudy
+2024-12-31,Bahamas,Windy
+2025-01-09,Fiji,Sunny
+2024-12-25,Samoa,Cloudy
+2025-01-11,Italy,Cloudy
+2025-01-19,New Caledonia,Windy
+2024-12-29,Canada,Rainy
+2025-02-01,Niue,Rainy
+2025-01-22,Comoros,Stormy
+2025-02-20,Austria,Windy
+2024-12-22,Saint Barthelemy,Cloudy
+2025-01-19,Uruguay,Cloudy
+2025-01-22,Zimbabwe,Cloudy
+2024-12-30,Armenia,Rainy
+2025-02-09,Taiwan,Rainy
+2025-01-20,Canada,Rainy
+2024-12-18,Montserrat,Cloudy
+2024-12-19,Bangladesh,Rainy
+2024-12-13,Sierra Leone,Windy
+2025-02-03,Argentina,Snowy
+2024-12-08,Benin,Rainy
+2025-01-26,Latvia,Snowy
+2024-12-22,Slovakia (Slovak Republic),Windy
+2025-01-20,Swaziland,Windy
+2024-12-09,Cote d'Ivoire,Stormy
+2024-12-10,Burundi,Stormy
+2024-12-22,Bosnia and Herzegovina,Windy
+2025-02-11,United States Virgin Islands,Stormy
+2024-12-19,Heard Island and McDonald Islands,Sunny
+2025-02-01,Ireland,Windy
+2025-01-29,Faroe Islands,Snowy
+2025-02-01,Christmas Island,Windy
+2025-01-11,Turkmenistan,Snowy
+2024-12-24,India,Sunny
+2025-01-01,Qatar,Windy
+2025-02-08,Monaco,Rainy
+2025-02-04,Gibraltar,Snowy
+2025-01-29,Mali,Rainy
+2024-12-17,Hungary,Windy
+2025-01-03,Micronesia,Windy
+2025-01-02,Mongolia,Rainy
+2024-12-16,Nicaragua,Cloudy
+2025-02-05,Mayotte,Sunny
+2025-01-17,Cuba,Windy
+2025-02-15,Reunion,Stormy
+2025-02-03,Anguilla,Snowy
+2024-12-22,Armenia,Windy
+2024-12-22,Christmas Island,Sunny
+2024-12-15,Aruba,Windy
+2025-01-29,Somalia,Cloudy
+2025-02-26,Nauru,Sunny
+2024-12-14,Russian Federation,Stormy
+2025-02-22,Slovakia (Slovak Republic),Rainy
+2025-02-06,Saint Helena,Sunny
+2024-12-13,Tanzania,Snowy
+2024-12-11,American Samoa,Rainy
+2025-01-31,Antarctica (the territory South of 60 deg S),Snowy
+2025-01-04,Honduras,Sunny
+2025-01-12,Lithuania,Snowy
+2025-01-28,Sri Lanka,Windy
+2025-01-08,Russian Federation,Windy
+2024-12-12,Lithuania,Windy
+2025-01-22,Azerbaijan,Sunny
+2024-12-25,British Indian Ocean Territory (Chagos Archipelago),Sunny
+2025-02-05,Chile,Rainy
+2024-12-16,Iran,Stormy
+2025-01-06,Yemen,Windy
+2024-12-14,Guyana,Snowy
+2025-02-02,Liechtenstein,Snowy
+2025-02-09,Ethiopia,Rainy
+2024-12-03,Bahamas,Cloudy
+2025-01-07,Norfolk Island,Windy
+2024-12-05,Congo,Cloudy
+2024-12-19,Montserrat,Stormy
+2025-02-25,United States of America,Snowy
+2025-02-26,Uzbekistan,Sunny
+2025-01-25,Netherlands,Stormy
+2025-03-01,Tuvalu,Windy
+2025-01-27,Lesotho,Sunny
+2025-01-29,Nepal,Snowy
+2025-01-23,French Polynesia,Rainy
+2024-12-12,British Virgin Islands,Sunny
+2025-02-13,Korea,Sunny
+2025-02-24,Congo,Snowy
+2025-02-02,Tunisia,Sunny
+2025-01-16,Belgium,Rainy
+2024-12-02,Lithuania,Cloudy
+2025-02-28,Guam,Windy
+2024-12-18,Gabon,Windy
+2025-01-12,Saint Pierre and Miquelon,Windy
+2024-12-05,Poland,Rainy
+2024-12-04,Australia,Stormy
+2024-12-04,Finland,Rainy
+2025-02-24,Lebanon,Rainy
+2024-12-09,Panama,Sunny
+2025-02-08,Jersey,Stormy
+2024-12-09,Congo,Windy
+2025-01-19,Suriname,Cloudy
+2025-02-16,Greenland,Sunny
+2025-02-06,Tanzania,Snowy
+2025-02-12,Iceland,Rainy
+2024-12-10,Madagascar,Snowy
+2025-02-10,Liechtenstein,Cloudy
+2024-12-14,Sierra Leone,Stormy
+2024-12-07,South Africa,Stormy
+2025-02-08,Swaziland,Cloudy
+2024-12-07,Saint Martin,Stormy
+2025-03-01,Guyana,Snowy
+2024-12-10,Iran,Rainy
+2025-02-25,Gibraltar,Cloudy
+2025-02-22,Guinea,Stormy
+2024-12-08,Pakistan,Rainy
+2025-01-07,Iran,Rainy
+2024-12-22,Cuba,Cloudy
+2025-02-16,Libyan Arab Jamahiriya,Sunny
+2025-01-14,Thailand,Windy
+2025-01-24,Nepal,Rainy
+2024-12-25,British Virgin Islands,Sunny
+2024-12-31,Korea,Cloudy
+2025-01-01,Jordan,Windy
+2024-12-02,Holy See (Vatican City State),Windy
+2025-02-09,Bahrain,Rainy
+2025-01-27,Turkey,Rainy
+2025-02-01,Canada,Windy
+2025-01-18,Heard Island and McDonald Islands,Stormy
+2025-01-09,Puerto Rico,Snowy
+2025-01-15,Christmas Island,Cloudy
+2025-02-16,Peru,Windy
+2025-02-01,Namibia,Stormy
+2025-02-20,Qatar,Sunny
+2025-01-29,French Polynesia,Cloudy
+2025-01-20,Madagascar,Cloudy
+2024-12-14,Togo,Sunny
+2024-12-05,Bouvet Island (Bouvetoya),Stormy
+2025-02-15,Lithuania,Snowy
+2025-02-13,Georgia,Rainy
+2024-12-23,Samoa,Cloudy
+2025-02-04,Tuvalu,Snowy
+2025-02-26,Svalbard & Jan Mayen Islands,Stormy
+2024-12-10,Saint Lucia,Stormy
+2024-12-05,Martinique,Cloudy
+2024-12-16,Turks and Caicos Islands,Rainy
+2025-01-22,Liechtenstein,Windy
+2025-02-21,Cote d'Ivoire,Windy
+2025-01-06,China,Rainy
+2025-01-31,Greenland,Snowy
+2025-01-27,New Zealand,Windy
+2025-02-14,Netherlands Antilles,Rainy
+2024-12-18,Martinique,Snowy
+2025-01-25,Slovenia,Cloudy
+2025-02-05,Nicaragua,Windy
+2025-02-05,Rwanda,Rainy
+2025-02-10,Lesotho,Snowy
+2025-01-01,Bosnia and Herzegovina,Cloudy
+2025-02-23,Tonga,Snowy
+2024-12-24,Paraguay,Cloudy
+2025-02-02,Niger,Stormy
+2025-01-14,Cameroon,Stormy
+2024-12-02,Guinea,Rainy
+2025-02-06,Bahrain,Windy
+2024-12-16,South Georgia and the South Sandwich Islands,Cloudy
+2025-02-13,Iran,Windy
+2025-01-29,Ghana,Stormy
+2025-01-26,Tonga,Rainy
+2025-01-13,Afghanistan,Sunny
+2025-01-09,Central African Republic,Sunny
+2025-01-07,Kenya,Rainy
+2025-01-04,Serbia,Snowy
+2025-02-17,Brazil,Sunny
+2025-02-26,Austria,Cloudy
+2025-02-17,Svalbard & Jan Mayen Islands,Cloudy
+2025-01-08,Tokelau,Snowy
+2024-12-17,Tajikistan,Sunny
+2025-01-02,Marshall Islands,Stormy
+2025-01-27,Aruba,Rainy
+2024-12-30,Bangladesh,Windy
+2025-01-30,Norfolk Island,Cloudy
+2025-02-24,Monaco,Cloudy
+2024-12-14,Bosnia and Herzegovina,Sunny
+2025-02-01,Guadeloupe,Sunny
+2025-01-16,Italy,Snowy
+2025-01-13,Senegal,Stormy
+2024-12-27,Dominica,Rainy
+2025-01-19,Ecuador,Stormy
+2025-02-23,Italy,Stormy
+2025-01-27,Cote d'Ivoire,Snowy
+2025-01-23,Seychelles,Windy
+2025-01-14,Latvia,Cloudy
+2025-02-16,Jamaica,Snowy
+2024-12-10,Israel,Sunny
+2025-02-26,Northern Mariana Islands,Windy
+2025-01-08,Turks and Caicos Islands,Stormy
+2025-02-24,Christmas Island,Cloudy
+2025-02-21,Colombia,Sunny
+2024-12-02,Martinique,Snowy
+2024-12-29,Guatemala,Snowy
+2024-12-14,Gabon,Sunny
+2024-12-06,Sierra Leone,Cloudy
+2025-01-17,Seychelles,Snowy
+2024-12-30,Singapore,Rainy
+2025-02-28,Aruba,Snowy
+2025-01-16,Russian Federation,Windy
+2025-01-13,Peru,Windy
+2024-12-07,Indonesia,Stormy
+2025-02-28,Cape Verde,Sunny
+2025-01-05,Antarctica (the territory South of 60 deg S),Stormy
+2025-01-17,Lao People's Democratic Republic,Stormy
+2025-02-22,Cocos (Keeling) Islands,Rainy
+2025-01-19,Uzbekistan,Stormy
+2025-02-03,Venezuela,Rainy
+2024-12-17,Hungary,Sunny
+2024-12-28,Armenia,Windy
+2024-12-12,Colombia,Cloudy
+2025-02-05,Zimbabwe,Sunny
+2025-01-28,Guernsey,Cloudy
+2025-01-09,Bahrain,Cloudy
+2024-12-13,Japan,Sunny
+2024-12-31,Christmas Island,Windy
+2024-12-02,Israel,Stormy
+2025-02-22,Kyrgyz Republic,Cloudy
+2025-01-24,Kiribati,Windy
+2025-02-23,Albania,Windy
+2024-12-21,Serbia,Rainy
+2025-02-07,Papua New Guinea,Rainy
+2025-01-09,Tanzania,Windy
+2024-12-19,Venezuela,Windy
+2024-12-24,Pakistan,Snowy
+2025-02-15,Bermuda,Cloudy
+2025-02-21,Barbados,Sunny
+2025-01-23,United States of America,Sunny
+2025-01-18,Yemen,Windy
+2025-01-15,North Macedonia,Stormy
+2024-12-17,Zambia,Sunny
+2024-12-24,Cook Islands,Sunny
+2024-12-23,Seychelles,Snowy
+2025-01-27,Iceland,Stormy
+2025-01-21,Moldova,Rainy
+2024-12-18,Belarus,Cloudy
+2025-01-04,Nauru,Stormy
+2024-12-17,Comoros,Rainy
+2025-01-24,Bahrain,Rainy
+2025-01-19,Central African Republic,Sunny
+2024-12-14,Madagascar,Snowy
+2025-01-29,Niger,Snowy
+2025-01-09,Guinea-Bissau,Windy
+2024-12-24,Korea,Sunny
+2025-01-09,Comoros,Rainy
+2025-02-11,Ukraine,Rainy
+2025-01-05,Peru,Windy
+2025-02-23,Saint Helena,Sunny
+2025-02-11,Wallis and Futuna,Snowy
+2025-02-12,Sudan,Sunny
+2025-01-19,Belgium,Cloudy
+2025-01-06,French Polynesia,Windy
+2025-02-10,India,Stormy
+2024-12-07,Guinea-Bissau,Sunny
+2025-01-11,Singapore,Sunny
+2025-02-23,Montserrat,Stormy
+2025-01-10,Jamaica,Snowy
+2024-12-13,Burkina Faso,Stormy
+2024-12-02,Seychelles,Sunny
+2025-02-08,Djibouti,Cloudy
+2024-12-22,Ukraine,Windy
+2025-02-15,Singapore,Rainy
+2025-02-13,Isle of Man,Stormy
+2025-01-18,United States Virgin Islands,Windy
+2025-02-13,Central African Republic,Snowy
+2025-02-19,Thailand,Sunny
+2025-03-01,French Polynesia,Stormy
+2024-12-15,Reunion,Windy
+2025-01-11,New Zealand,Snowy
+2025-01-05,Algeria,Sunny
+2024-12-03,Tuvalu,Cloudy
+2024-12-11,Trinidad and Tobago,Snowy
+2025-01-30,Belize,Windy
+2025-01-05,Turkmenistan,Rainy
+2024-12-25,Ireland,Windy
+2024-12-06,Micronesia,Stormy
+2025-02-22,Niger,Cloudy
+2025-02-26,Sierra Leone,Sunny
+2025-01-18,Tunisia,Rainy
+2025-01-05,Anguilla,Stormy
+2025-01-13,United States of America,Rainy
+2025-02-19,French Guiana,Stormy
+2025-01-28,Uzbekistan,Snowy
+2024-12-13,Denmark,Stormy
+2025-02-25,Slovakia (Slovak Republic),Windy
+2024-12-15,Korea,Cloudy
+2024-12-09,Cyprus,Cloudy
+2025-01-17,Russian Federation,Snowy
+2025-02-09,Latvia,Cloudy
+2025-01-30,Cote d'Ivoire,Stormy
+2025-01-25,Belarus,Cloudy
+2024-12-26,Sri Lanka,Stormy
+2024-12-07,Mongolia,Cloudy
+2025-01-23,Liechtenstein,Cloudy
+2025-01-13,United Arab Emirates,Cloudy
+2025-02-01,Nigeria,Windy
+2025-01-16,Maldives,Windy
+2025-02-28,Palau,Snowy
+2025-01-20,Micronesia,Windy
+2025-02-20,Iraq,Windy
+2025-01-27,Bahamas,Rainy
+2025-01-24,Palestinian Territory,Windy
+2025-02-09,Malaysia,Cloudy
+2025-02-05,Denmark,Snowy
+2025-02-07,Fiji,Rainy
+2025-02-13,Cuba,Sunny
+2024-12-29,Germany,Cloudy
+2025-01-14,Guadeloupe,Snowy
+2024-12-20,Jamaica,Windy
+2025-01-27,Bahamas,Snowy
+2024-12-27,Zambia,Windy
+2024-12-02,Australia,Sunny
+2025-01-30,Barbados,Rainy
+2024-12-17,North Macedonia,Windy
+2025-02-12,New Caledonia,Rainy
+2024-12-06,Thailand,Windy
+2025-01-12,Falkland Islands (Malvinas),Windy
+2024-12-23,Canada,Stormy
+2024-12-15,Kyrgyz Republic,Sunny
+2025-01-31,Jamaica,Sunny
+2025-01-30,Sweden,Snowy
+2025-02-17,Nauru,Sunny
+2025-01-28,Belize,Cloudy
+2025-01-08,Netherlands Antilles,Snowy
+2025-01-17,Cote d'Ivoire,Rainy
+2025-01-28,Bouvet Island (Bouvetoya),Windy
+2025-01-27,Kyrgyz Republic,Cloudy
+2025-01-26,Liberia,Snowy
+2025-01-07,Nigeria,Windy
+2025-02-28,Sierra Leone,Rainy
+2025-02-18,Jersey,Windy
+2025-01-17,Tokelau,Windy
+2025-01-23,Norway,Rainy
+2024-12-25,American Samoa,Cloudy
+2025-01-02,New Zealand,Rainy
+2025-01-29,Tonga,Cloudy
+2025-01-26,Indonesia,Rainy
+2024-12-16,Saudi Arabia,Sunny
+2025-02-26,Solomon Islands,Windy
+2024-12-20,Haiti,Snowy
+2025-02-06,Sierra Leone,Cloudy
+2025-02-19,Marshall Islands,Sunny
+2025-01-06,Guadeloupe,Rainy
+2025-02-02,Western Sahara,Windy
+2025-02-01,Somalia,Sunny
+2025-01-25,Faroe Islands,Sunny
+2025-01-24,Dominica,Snowy
+2025-01-31,Bahrain,Sunny
+2024-12-25,Bouvet Island (Bouvetoya),Snowy
+2025-02-25,Lithuania,Windy
+2025-02-12,Nauru,Rainy
+2024-12-23,Madagascar,Stormy
+2024-12-16,Estonia,Rainy
+2025-01-28,Antigua and Barbuda,Windy
+2025-01-03,South Africa,Sunny
+2025-01-18,Benin,Sunny
+2024-12-03,Lebanon,Sunny
+2025-02-02,Malawi,Cloudy
+2025-01-12,Martinique,Snowy
+2024-12-07,Liechtenstein,Sunny
+2025-02-25,Peru,Stormy
+2024-12-09,Spain,Windy
+2024-12-28,Palau,Sunny
+2025-02-06,Madagascar,Rainy
+2025-02-03,Swaziland,Stormy
+2025-01-05,Hungary,Snowy
+2025-02-11,French Southern Territories,Cloudy
+2025-01-19,Ghana,Cloudy
+2025-01-09,Sierra Leone,Sunny
+2025-01-22,Estonia,Snowy
+2024-12-27,Gabon,Windy
+2025-01-03,North Macedonia,Sunny
+2025-01-23,Antarctica (the territory South of 60 deg S),Snowy
+2025-01-31,Iran,Cloudy
+2024-12-28,Antarctica (the territory South of 60 deg S),Windy
+2025-02-12,Rwanda,Cloudy
+2025-01-31,Micronesia,Windy
+2024-12-16,Yemen,Sunny
+2025-02-15,Saint Kitts and Nevis,Windy
+2025-01-16,Algeria,Cloudy
+2024-12-25,Timor-Leste,Snowy
+2025-01-09,Venezuela,Snowy
+2025-02-11,Saint Martin,Stormy
+2024-12-12,Liechtenstein,Snowy
+2025-02-19,United Arab Emirates,Sunny
+2024-12-06,Cambodia,Stormy
+2024-12-10,Nicaragua,Stormy
+2024-12-26,Cayman Islands,Snowy
+2025-02-09,Bermuda,Stormy
+2025-01-04,Mozambique,Cloudy
+2025-01-20,Heard Island and McDonald Islands,Windy
+2024-12-05,Montenegro,Cloudy
+2025-02-16,Bahrain,Sunny
+2024-12-10,Vietnam,Sunny
+2025-02-04,United States of America,Rainy
+2024-12-30,Thailand,Stormy
+2025-02-07,Saint Vincent and the Grenadines,Sunny
+2025-01-14,Tokelau,Windy
+2025-02-06,Libyan Arab Jamahiriya,Rainy
+2025-01-31,Hong Kong,Windy
+2025-02-22,Jamaica,Stormy
+2025-01-14,Afghanistan,Windy
+2025-01-22,Namibia,Rainy
+2025-01-14,United States Virgin Islands,Rainy
+2024-12-10,British Virgin Islands,Windy
+2025-01-22,Micronesia,Cloudy
+2025-01-13,North Macedonia,Sunny
+2025-02-06,Northern Mariana Islands,Rainy
+2025-02-10,Benin,Windy
+2025-02-27,Brazil,Cloudy
+2024-12-17,Svalbard & Jan Mayen Islands,Rainy
+2024-12-17,Niger,Rainy
+2025-01-13,Kyrgyz Republic,Sunny
+2024-12-31,Liberia,Sunny
+2024-12-10,Bulgaria,Cloudy
+2025-02-18,Botswana,Rainy
+2025-02-28,Burkina Faso,Cloudy
+2025-01-28,Christmas Island,Rainy
+2024-12-15,Pakistan,Stormy
+2024-12-27,Estonia,Cloudy
+2025-01-08,Bangladesh,Windy
+2025-01-31,Czech Republic,Rainy
+2025-02-08,Slovakia (Slovak Republic),Stormy
+2025-02-12,Kiribati,Sunny
+2025-02-14,Indonesia,Cloudy
+2024-12-06,Vietnam,Windy
+2024-12-31,Mozambique,Sunny
+2024-12-20,Zambia,Stormy
+2025-02-05,Mozambique,Stormy
+2025-03-01,Zimbabwe,Rainy
+2024-12-09,Cameroon,Stormy
+2025-02-10,Western Sahara,Windy
+2025-01-04,Czech Republic,Windy
+2024-12-24,Togo,Windy
+2025-02-02,Azerbaijan,Stormy
+2025-02-14,Turks and Caicos Islands,Windy
+2025-01-14,Australia,Windy
+2025-02-03,Marshall Islands,Snowy
+2025-01-22,Saint Helena,Windy
+2025-02-14,Austria,Sunny
+2025-02-14,Congo,Stormy
+2024-12-03,Djibouti,Snowy
+2025-01-23,Saint Vincent and the Grenadines,Cloudy
+2025-01-25,Spain,Cloudy
+2024-12-09,Iran,Sunny
+2024-12-27,Germany,Cloudy
+2025-01-05,Palau,Windy
+2025-02-21,Aruba,Windy
+2025-01-06,Poland,Sunny
+2025-01-05,Tokelau,Sunny
+2025-02-18,Guyana,Cloudy
+2024-12-19,Cyprus,Snowy
+2025-01-20,Argentina,Cloudy
+2025-02-05,Rwanda,Snowy
+2024-12-05,Tanzania,Cloudy
+2025-02-06,Bahrain,Cloudy
+2025-02-14,Somalia,Rainy
+2024-12-10,Guernsey,Cloudy
+2025-02-19,Korea,Stormy
+2025-03-01,Afghanistan,Snowy
+2025-01-25,Guinea,Cloudy
+2025-01-25,Bouvet Island (Bouvetoya),Cloudy
+2025-02-17,Argentina,Windy
+2024-12-14,Romania,Windy
+2025-01-23,Indonesia,Cloudy
+2024-12-19,Martinique,Cloudy
+2025-02-12,Falkland Islands (Malvinas),Rainy
+2025-01-12,Sri Lanka,Windy
+2024-12-06,Saint Martin,Cloudy
+2024-12-06,Tuvalu,Rainy
+2025-02-28,Bolivia,Cloudy
+2024-12-20,Burundi,Stormy
+2024-12-20,Andorra,Stormy
+2025-01-17,Kyrgyz Republic,Snowy
+2025-01-16,Comoros,Sunny
+2025-01-31,Guam,Snowy
+2024-12-31,Pakistan,Rainy
+2024-12-29,Guernsey,Windy
+2025-01-11,Bhutan,Sunny
+2025-02-15,French Polynesia,Windy
+2024-12-02,Cameroon,Snowy
+2025-02-24,Solomon Islands,Rainy
+2025-01-26,Korea,Snowy
+2025-02-10,Guinea,Snowy
+2025-02-20,Romania,Stormy
+2025-02-05,Lebanon,Windy
+2024-12-24,Russian Federation,Sunny
+2024-12-02,Colombia,Windy
+2025-02-05,Thailand,Rainy
+2025-01-04,Belize,Windy
+2025-02-04,Taiwan,Sunny
+2025-02-27,Micronesia,Stormy
+2024-12-20,Maldives,Rainy
+2024-12-17,Jamaica,Cloudy
+2025-01-07,Ukraine,Snowy
+2025-01-07,Luxembourg,Rainy
+2024-12-10,Comoros,Stormy
+2025-01-05,Sierra Leone,Snowy
+2025-02-15,Cameroon,Cloudy
+2024-12-12,Turkmenistan,Cloudy
+2025-01-31,Turkey,Cloudy
+2025-01-31,Libyan Arab Jamahiriya,Snowy
+2024-12-08,Mauritania,Stormy
+2025-02-20,Kazakhstan,Sunny
+2025-01-27,Afghanistan,Snowy
+2025-02-12,Tuvalu,Cloudy
+2025-02-18,Eritrea,Windy
+2025-02-05,North Macedonia,Cloudy
+2024-12-13,Nepal,Windy
+2024-12-12,Samoa,Windy
+2024-12-29,Kuwait,Stormy
+2024-12-11,Nigeria,Rainy
+2025-02-02,Saint Helena,Stormy
+2025-02-11,Serbia,Rainy
+2025-01-01,Mozambique,Rainy
+2025-02-23,United States of America,Snowy
+2025-02-04,Holy See (Vatican City State),Stormy
+2025-02-03,New Caledonia,Cloudy
+2024-12-04,Guinea,Snowy
+2025-02-14,Korea,Rainy
+2025-02-06,Puerto Rico,Snowy
+2025-01-05,Finland,Windy
+2025-02-08,Kuwait,Rainy
+2025-01-14,Belarus,Rainy
+2025-01-09,Reunion,Snowy
+2024-12-17,Vietnam,Windy
+2025-01-30,Russian Federation,Windy
+2024-12-05,Peru,Rainy
+2025-02-09,Guatemala,Stormy
+2025-02-12,Mauritius,Windy
+2025-01-07,Saint Vincent and the Grenadines,Stormy
+2024-12-12,Turkey,Snowy
+2024-12-15,Chad,Cloudy
+2025-01-07,Cook Islands,Stormy
+2025-01-24,Cook Islands,Sunny
+2025-01-22,South Georgia and the South Sandwich Islands,Windy
+2025-02-21,Fiji,Cloudy
+2025-02-25,China,Cloudy
+2025-01-17,Slovakia (Slovak Republic),Windy
+2024-12-15,British Virgin Islands,Windy
+2025-02-15,Central African Republic,Cloudy
+2024-12-05,Australia,Windy
+2025-01-16,Dominican Republic,Sunny
+2024-12-27,Rwanda,Windy
+2024-12-14,Jordan,Sunny
+2025-01-30,Dominica,Sunny
+2024-12-19,Tuvalu,Rainy
+2025-01-06,Greenland,Snowy
+2025-01-10,Grenada,Stormy
+2024-12-30,Vietnam,Stormy
+2025-02-05,Seychelles,Sunny
+2025-01-12,Venezuela,Cloudy
+2025-01-06,Germany,Rainy
+2025-02-04,Moldova,Sunny
+2025-01-26,Solomon Islands,Stormy
+2025-01-30,Solomon Islands,Rainy
+2025-02-17,Morocco,Cloudy
+2025-01-02,Wallis and Futuna,Windy
+2024-12-06,Netherlands Antilles,Sunny
+2025-02-17,Northern Mariana Islands,Stormy
+2025-01-30,Falkland Islands (Malvinas),Cloudy
+2025-03-01,Cocos (Keeling) Islands,Cloudy
+2025-01-30,Madagascar,Sunny
+2024-12-25,Mauritius,Stormy
+2024-12-05,Australia,Cloudy
+2024-12-16,Colombia,Snowy
+2025-02-21,Isle of Man,Rainy
+2024-12-15,Dominican Republic,Rainy
+2025-01-24,Fiji,Windy
+2025-02-05,Bahamas,Sunny
+2025-02-27,United States of America,Cloudy
+2025-01-26,Reunion,Sunny
+2025-02-04,Jordan,Cloudy
+2024-12-12,Fiji,Stormy
+2025-02-15,Vietnam,Rainy
+2025-03-01,Peru,Cloudy
+2025-03-01,Croatia,Snowy
+2025-01-12,Bhutan,Snowy
+2025-01-10,Pitcairn Islands,Stormy
+2024-12-14,Taiwan,Windy
+2024-12-13,Saint Vincent and the Grenadines,Stormy
+2024-12-28,Belgium,Cloudy
+2024-12-25,Dominican Republic,Stormy
+2025-03-01,Anguilla,Windy
+2025-02-07,Belize,Sunny
+2025-02-09,Burkina Faso,Stormy
+2025-02-17,Haiti,Rainy
+2025-01-12,Bahamas,Stormy
+2024-12-12,Oman,Snowy
+2024-12-11,Brunei Darussalam,Snowy
+2025-01-29,Russian Federation,Rainy
+2024-12-20,San Marino,Snowy
+2025-02-27,Korea,Windy
+2025-02-27,Slovenia,Rainy
+2024-12-08,Bahrain,Sunny
+2025-02-24,Cape Verde,Sunny
+2024-12-30,Armenia,Sunny
+2025-02-11,Cyprus,Snowy
+2025-02-09,Nicaragua,Cloudy
+2025-02-22,Czech Republic,Cloudy
+2024-12-03,British Indian Ocean Territory (Chagos Archipelago),Cloudy
+2025-02-17,Uganda,Snowy
+2025-02-09,Serbia,Windy
+2024-12-03,Chile,Cloudy
+2025-01-01,Aruba,Stormy
+2025-01-13,Russian Federation,Windy
+2025-01-17,Saint Pierre and Miquelon,Rainy
+2025-01-23,Congo,Cloudy
+2024-12-24,Kuwait,Windy
+2025-01-15,Dominica,Stormy
+2025-01-21,Rwanda,Stormy
+2024-12-12,Paraguay,Cloudy
+2024-12-07,Malaysia,Windy
+2025-02-14,United Arab Emirates,Rainy
+2025-01-22,Ghana,Sunny
+2024-12-04,Portugal,Sunny
+2025-02-05,Cote d'Ivoire,Stormy
+2024-12-16,Guadeloupe,Windy
+2025-01-26,Peru,Sunny
+2025-02-28,Papua New Guinea,Snowy
+2025-02-05,Comoros,Sunny
+2024-12-09,Albania,Cloudy
+2025-02-28,Taiwan,Cloudy
+2024-12-28,Tuvalu,Snowy
+2025-02-08,Syrian Arab Republic,Windy
+2025-02-20,Mozambique,Stormy
+2025-02-03,Colombia,Sunny
+2024-12-07,Tokelau,Sunny
+2025-02-02,Burkina Faso,Sunny
+2024-12-21,Czech Republic,Sunny
+2024-12-19,Brunei Darussalam,Sunny
+2025-02-05,Spain,Rainy
+2024-12-02,Guatemala,Sunny
+2025-02-25,Lesotho,Stormy
+2025-01-02,Gibraltar,Sunny
+2025-01-05,Montenegro,Snowy
+2024-12-03,Fiji,Windy
+2025-01-10,Seychelles,Snowy
+2025-01-25,Liechtenstein,Snowy
+2025-01-25,Sudan,Stormy
+2025-01-17,United States Virgin Islands,Rainy
+2025-01-20,Comoros,Stormy
+2025-02-07,Northern Mariana Islands,Windy
+2024-12-11,Montserrat,Snowy
+2025-01-02,United States Virgin Islands,Windy
+2024-12-22,Spain,Stormy
+2025-02-13,Madagascar,Snowy
+2025-01-29,Iran,Cloudy
+2025-01-04,Serbia,Windy
+2024-12-20,Colombia,Sunny
+2025-01-25,Martinique,Sunny
+2025-02-21,Greece,Cloudy
+2025-01-29,Monaco,Sunny
+2024-12-07,Guadeloupe,Sunny
+2025-02-11,Timor-Leste,Sunny
+2024-12-07,Dominican Republic,Rainy
+2024-12-27,Botswana,Rainy
+2024-12-04,Luxembourg,Windy
+2025-01-31,Greenland,Snowy
+2025-01-31,Somalia,Cloudy
+2025-02-11,Bahamas,Stormy
+2024-12-26,Costa Rica,Cloudy
+2024-12-23,Japan,Windy
+2025-02-25,South Africa,Rainy
+2025-01-22,Sweden,Windy
+2024-12-30,French Southern Territories,Snowy
+2024-12-29,Botswana,Cloudy
+2024-12-21,Norway,Windy
+2024-12-02,Kuwait,Cloudy
+2024-12-30,Uganda,Cloudy
+2024-12-29,Chad,Sunny
+2025-01-24,Cambodia,Snowy
+2025-01-22,Honduras,Rainy
+2025-01-18,Bangladesh,Cloudy
+2025-01-11,Ireland,Cloudy
+2024-12-19,Sudan,Sunny
+2024-12-04,Switzerland,Cloudy
+2025-01-26,Palau,Stormy
+2024-12-04,Macao,Windy
+2024-12-07,Yemen,Snowy
+2024-12-31,Pakistan,Windy
+2025-01-18,Afghanistan,Windy
+2024-12-07,Malaysia,Windy
+2024-12-27,Namibia,Stormy
+2024-12-03,Tonga,Windy
+2025-01-16,Liberia,Snowy
+2025-01-02,India,Cloudy
+2024-12-06,United States of America,Cloudy
+2025-02-17,Nicaragua,Cloudy
+2025-02-25,Macao,Rainy
+2025-02-22,Greenland,Stormy
+2025-02-04,Oman,Windy
+2025-02-12,Tajikistan,Windy
+2025-01-27,Barbados,Sunny
+2024-12-11,Nigeria,Cloudy
+2024-12-25,Ghana,Stormy
+2025-02-24,Japan,Snowy
+2025-01-11,Saint Martin,Sunny
+2025-01-01,San Marino,Windy
+2025-01-06,Sudan,Stormy
+2025-02-28,Pakistan,Snowy
+2025-01-15,Barbados,Rainy
+2025-02-08,Timor-Leste,Rainy
+2024-12-20,Turkey,Windy
+2024-12-08,Poland,Rainy
+2024-12-12,Sweden,Windy
+2025-02-09,Martinique,Rainy
+2025-01-23,Germany,Windy
+2024-12-07,Botswana,Snowy
+2024-12-30,Malawi,Rainy
+2024-12-20,French Guiana,Sunny
+2025-01-16,French Southern Territories,Windy
+2024-12-31,Djibouti,Rainy
+2025-01-10,Maldives,Cloudy
+2024-12-11,Turks and Caicos Islands,Snowy
+2024-12-16,Congo,Windy
+2025-02-13,Antigua and Barbuda,Windy
+2024-12-05,Solomon Islands,Cloudy
+2025-01-10,Switzerland,Windy
+2025-01-01,French Polynesia,Snowy
+2025-01-20,Kyrgyz Republic,Rainy
+2024-12-29,Vietnam,Cloudy
+2025-02-01,Congo,Snowy
+2025-02-21,Ghana,Cloudy
+2025-02-25,Norway,Rainy
+2024-12-25,Cyprus,Cloudy
+2024-12-08,Moldova,Rainy
+2024-12-20,Eritrea,Windy
+2024-12-16,Martinique,Cloudy
+2025-01-02,Cyprus,Cloudy
+2025-02-07,Sudan,Rainy
+2024-12-28,Tuvalu,Stormy
+2025-02-05,Switzerland,Cloudy
+2024-12-12,Andorra,Sunny
+2024-12-24,Lao People's Democratic Republic,Stormy
+2025-01-15,Malta,Snowy
+2025-02-05,Falkland Islands (Malvinas),Rainy
+2024-12-27,Guadeloupe,Snowy
+2025-02-19,Bermuda,Stormy
+2025-02-23,Saint Kitts and Nevis,Stormy
+2025-01-18,Pakistan,Snowy
+2025-02-20,Saudi Arabia,Cloudy
+2025-02-19,Bolivia,Cloudy
+2025-02-10,Venezuela,Cloudy
+2025-02-19,Andorra,Windy
+2025-01-13,Kiribati,Snowy
+2025-01-22,India,Rainy
+2025-02-14,Burundi,Sunny
+2025-02-28,Kazakhstan,Sunny
+2025-02-10,Azerbaijan,Sunny
+2025-01-30,Guam,Cloudy
+2024-12-03,Mozambique,Sunny
+2025-01-29,Iran,Rainy
+2025-02-03,French Polynesia,Sunny
+2025-01-06,Samoa,Snowy
+2024-12-22,Martinique,Cloudy
+2024-12-06,Argentina,Stormy
+2025-01-21,Jordan,Windy
+2025-01-22,Finland,Stormy
+2025-01-27,Russian Federation,Cloudy
+2024-12-21,Chad,Windy
+2025-02-05,Jordan,Snowy
+2025-02-24,United Arab Emirates,Windy
+2025-02-05,Swaziland,Cloudy
+2024-12-30,United States Minor Outlying Islands,Cloudy
+2025-02-04,Antigua and Barbuda,Sunny
+2024-12-22,Zambia,Cloudy
+2025-01-30,Hong Kong,Sunny
+2025-01-07,Fiji,Stormy
+2025-02-07,Myanmar,Snowy
+2024-12-20,Romania,Snowy
+2025-02-05,Namibia,Sunny
+2025-02-24,Indonesia,Snowy
+2025-01-25,Bolivia,Snowy
+2024-12-24,Liberia,Sunny
+2024-12-11,Oman,Sunny
+2025-02-18,Tanzania,Snowy
+2024-12-28,Greece,Rainy
+2025-02-23,Turkey,Windy
+2025-02-14,Azerbaijan,Snowy
+2025-02-26,Belize,Windy
+2025-02-05,Croatia,Stormy
+2025-01-20,Barbados,Sunny
+2025-01-18,Japan,Rainy
+2024-12-27,Anguilla,Sunny
+2025-01-07,Turkey,Snowy
+2024-12-26,Niger,Cloudy
+2025-01-02,Jamaica,Windy
+2024-12-19,British Virgin Islands,Snowy
+2025-01-02,Antarctica (the territory South of 60 deg S),Rainy
+2024-12-14,Kazakhstan,Rainy
+2025-02-20,Samoa,Snowy
+2025-01-06,Ghana,Sunny
+2025-01-25,Sweden,Windy
+2024-12-27,Barbados,Cloudy
+2025-01-06,Cape Verde,Rainy
+2025-01-28,Malta,Stormy
+2025-02-13,Djibouti,Windy
+2024-12-18,Jordan,Rainy
+2025-02-15,Equatorial Guinea,Rainy
+2025-02-05,Burkina Faso,Windy
+2025-01-26,Western Sahara,Snowy
+2024-12-16,Swaziland,Rainy
+2025-02-20,Lao People's Democratic Republic,Cloudy
+2025-01-30,Vietnam,Sunny
+2025-01-10,Denmark,Rainy
+2024-12-12,Cayman Islands,Windy
+2025-03-01,Tunisia,Snowy
+2025-01-23,Niue,Sunny
+2025-02-24,Andorra,Snowy
+2025-01-01,Gibraltar,Windy
+2024-12-20,Bhutan,Windy
+2024-12-28,Guinea,Stormy
+2025-01-07,Lithuania,Cloudy
+2025-02-06,Bulgaria,Cloudy
+2024-12-24,Montserrat,Sunny
+2025-01-25,Kenya,Cloudy
+2024-12-30,Montenegro,Stormy
+2025-02-20,Vietnam,Sunny
+2025-02-03,Congo,Cloudy
+2025-01-11,American Samoa,Stormy
+2025-01-13,Samoa,Rainy
+2024-12-12,Paraguay,Rainy
+2024-12-26,Cook Islands,Stormy
+2025-01-18,Bhutan,Sunny
+2025-02-16,Wallis and Futuna,Rainy
+2025-02-24,Ghana,Stormy
+2024-12-04,Ghana,Rainy
+2025-02-18,Monaco,Sunny
+2025-02-01,Palestinian Territory,Snowy
+2025-01-02,Tanzania,Sunny
+2025-01-21,Marshall Islands,Rainy
+2025-01-19,Mauritania,Cloudy
+2024-12-14,Sweden,Rainy
+2024-12-16,Czech Republic,Cloudy
+2025-01-29,United States Minor Outlying Islands,Cloudy
+2025-02-04,Uzbekistan,Rainy
+2024-12-07,Suriname,Snowy
+2025-01-18,Turkmenistan,Cloudy
+2025-02-22,United Kingdom,Cloudy
+2025-01-05,Vanuatu,Snowy
+2025-01-25,Colombia,Stormy
+2025-01-07,Tanzania,Snowy
+2025-01-10,Haiti,Sunny
+2024-12-22,Dominica,Snowy
+2025-01-24,French Guiana,Windy
+2025-01-14,Aruba,Rainy
+2024-12-31,Estonia,Rainy
+2025-01-26,Guadeloupe,Snowy
+2025-02-17,Jamaica,Cloudy
+2025-02-01,Saint Lucia,Stormy
+2024-12-21,Holy See (Vatican City State),Cloudy
+2024-12-25,Uganda,Rainy
+2025-01-13,Canada,Snowy
+2024-12-09,Denmark,Sunny
+2024-12-22,Hungary,Windy
+2025-01-30,Mongolia,Stormy
+2024-12-28,Jordan,Rainy
+2025-01-24,Belgium,Windy
+2025-02-12,El Salvador,Windy
+2025-02-09,Saint Barthelemy,Stormy
+2024-12-05,Mozambique,Cloudy
+2025-01-08,Poland,Windy
+2025-02-25,Tuvalu,Windy
+2025-02-13,Jordan,Cloudy
+2025-02-19,Somalia,Stormy
+2025-02-12,Guatemala,Sunny
+2025-02-10,Svalbard & Jan Mayen Islands,Rainy
+2024-12-08,Reunion,Snowy
+2025-01-12,Venezuela,Windy
+2025-01-23,Mozambique,Sunny
+2025-02-02,Fiji,Cloudy
+2025-01-23,Norway,Cloudy
+2025-01-05,Pitcairn Islands,Windy
+2025-01-12,United Kingdom,Rainy
+2025-01-13,Iran,Sunny
+2025-02-01,Montserrat,Sunny
+2025-01-19,Western Sahara,Stormy
+2025-02-07,Senegal,Snowy
+2025-02-04,Seychelles,Windy
+2024-12-04,United States Minor Outlying Islands,Windy
+2024-12-24,Costa Rica,Rainy
+2025-02-16,Indonesia,Cloudy
+2024-12-30,Kiribati,Cloudy
+2025-02-14,Cameroon,Stormy
+2024-12-03,Lebanon,Cloudy
+2025-01-17,Bahrain,Snowy
+2025-02-07,Seychelles,Snowy
+2025-01-03,Honduras,Sunny
+2025-01-01,Sweden,Windy
+2025-02-17,Czech Republic,Snowy
+2024-12-21,British Indian Ocean Territory (Chagos Archipelago),Windy
+2024-12-24,Macao,Snowy
+2024-12-31,Croatia,Stormy
+2025-01-18,Uganda,Rainy
+2025-01-03,Monaco,Cloudy
+2025-01-13,France,Rainy
+2024-12-30,Vietnam,Stormy
+2025-01-18,Denmark,Cloudy
+2025-02-13,Bangladesh,Windy
+2025-02-25,Germany,Sunny
+2025-02-11,Mali,Stormy
+2024-12-03,Swaziland,Snowy
+2024-12-25,Trinidad and Tobago,Sunny
+2025-01-02,Nepal,Rainy
+2025-01-31,Antarctica (the territory South of 60 deg S),Stormy
+2025-01-04,North Macedonia,Cloudy
+2024-12-18,Japan,Snowy
+2025-01-01,Lebanon,Snowy
+2025-01-09,Palau,Stormy
+2025-01-12,Gambia,Snowy
+2025-01-04,Uganda,Sunny
+2025-02-23,Turkmenistan,Stormy
+2025-01-06,Tokelau,Stormy
+2025-02-04,Tajikistan,Rainy
+2025-02-25,Ghana,Cloudy
+2024-12-20,Saint Lucia,Sunny
+2024-12-07,Guatemala,Stormy
+2025-01-04,Tanzania,Windy
+2025-02-25,Lao People's Democratic Republic,Stormy
+2024-12-29,Malta,Rainy
+2024-12-11,Dominican Republic,Stormy
+2025-01-05,Saint Kitts and Nevis,Windy
+2025-01-26,Fiji,Snowy
+2024-12-10,Mongolia,Stormy
+2024-12-16,Marshall Islands,Windy
+2025-01-04,Western Sahara,Rainy
+2024-12-04,Heard Island and McDonald Islands,Windy
+2024-12-25,Falkland Islands (Malvinas),Snowy
+2024-12-28,Chad,Stormy
+2025-02-22,Korea,Sunny
+2024-12-23,Cuba,Rainy
+2025-01-13,Saint Barthelemy,Stormy
+2025-02-21,Maldives,Windy
+2025-02-21,Samoa,Rainy
+2024-12-08,Cocos (Keeling) Islands,Snowy
+2024-12-23,Dominican Republic,Snowy
+2025-02-10,Thailand,Windy
+2025-02-06,Tanzania,Rainy
+2025-01-27,Cyprus,Stormy
+2025-02-04,British Virgin Islands,Rainy
+2024-12-16,Uganda,Sunny
+2025-02-06,United States of America,Cloudy
+2025-02-27,Morocco,Sunny
+2024-12-29,Switzerland,Rainy
+2024-12-02,Falkland Islands (Malvinas),Windy
+2024-12-09,Tonga,Rainy
+2025-01-03,France,Cloudy
+2024-12-24,Uzbekistan,Windy
+2025-01-23,Aruba,Cloudy
+2024-12-31,United States of America,Sunny
+2025-01-06,Marshall Islands,Sunny
+2025-01-09,Somalia,Rainy
+2024-12-31,Grenada,Snowy
+2025-02-03,Reunion,Windy
+2024-12-16,Aruba,Windy
+2025-02-13,Pakistan,Cloudy
+2025-02-13,Honduras,Sunny
+2024-12-07,Denmark,Cloudy
+2025-02-26,France,Stormy
+2024-12-18,Sri Lanka,Snowy
+2025-02-09,North Macedonia,Cloudy
+2024-12-21,Guatemala,Windy
+2025-01-14,Jordan,Windy
+2025-01-18,Saint Barthelemy,Cloudy
+2025-02-18,Mexico,Stormy
+2024-12-22,Sri Lanka,Windy
+2025-02-14,Macao,Stormy
+2025-01-02,United States Minor Outlying Islands,Windy
+2024-12-14,Korea,Snowy
+2024-12-04,Czech Republic,Rainy
+2025-02-07,Mongolia,Stormy
+2025-02-23,Uzbekistan,Snowy
+2024-12-22,Turkey,Windy
+2025-02-09,Malta,Sunny
+2024-12-13,Samoa,Sunny
+2024-12-07,Suriname,Sunny
+2024-12-19,Senegal,Windy
+2025-01-09,Hong Kong,Windy
+2025-02-17,Guinea-Bissau,Rainy
+2025-02-15,Saint Pierre and Miquelon,Snowy
+2024-12-30,Belize,Cloudy
+2025-01-07,Spain,Stormy
+2025-01-30,Guernsey,Windy
+2024-12-09,Timor-Leste,Rainy
+2025-01-28,Taiwan,Cloudy
+2024-12-05,Kyrgyz Republic,Snowy
+2024-12-05,Jordan,Snowy
+2025-02-16,Antigua and Barbuda,Sunny
+2024-12-15,Saudi Arabia,Stormy
+2025-01-04,Swaziland,Windy
+2025-01-06,Saint Pierre and Miquelon,Sunny
+2025-02-12,Kyrgyz Republic,Cloudy
+2024-12-25,United Arab Emirates,Snowy
+2025-01-14,Cuba,Sunny
+2025-01-11,Romania,Snowy
+2025-01-19,Egypt,Sunny
+2024-12-16,New Zealand,Rainy
+2025-02-20,Nicaragua,Stormy
+2025-02-22,Wallis and Futuna,Cloudy
+2024-12-11,Holy See (Vatican City State),Stormy
+2025-02-08,Central African Republic,Snowy
+2025-01-16,Saint Vincent and the Grenadines,Cloudy
+2025-02-28,Bouvet Island (Bouvetoya),Windy
+2025-01-19,Bulgaria,Windy
+2024-12-26,Somalia,Windy
+2025-02-10,Niue,Rainy
+2024-12-08,Germany,Sunny
+2025-01-29,Kyrgyz Republic,Rainy
+2025-02-12,Holy See (Vatican City State),Snowy
+2025-02-14,Croatia,Rainy
+2025-01-15,Nepal,Stormy
+2024-12-04,Kazakhstan,Stormy
+2025-01-07,Tuvalu,Rainy
+2025-01-24,Sierra Leone,Cloudy
+2025-01-20,Vanuatu,Sunny
+2025-02-16,Saint Helena,Cloudy
+2024-12-07,Benin,Sunny
+2025-01-20,Montserrat,Windy
+2025-01-01,Tonga,Stormy
+2024-12-07,Heard Island and McDonald Islands,Rainy
+2025-02-02,Colombia,Snowy
+2025-02-02,Saint Vincent and the Grenadines,Cloudy
+2025-01-23,Turks and Caicos Islands,Cloudy
+2025-01-10,Belarus,Rainy
+2025-01-18,Jamaica,Windy
+2024-12-25,Nigeria,Sunny
+2024-12-31,Belgium,Stormy
+2025-02-25,Barbados,Cloudy
+2024-12-05,Pitcairn Islands,Rainy
+2024-12-12,Nauru,Stormy
+2024-12-14,Iraq,Sunny
+2025-01-25,Holy See (Vatican City State),Snowy
+2025-02-01,Croatia,Cloudy
+2024-12-25,China,Stormy
+2024-12-13,Anguilla,Windy
+2025-01-02,Gabon,Sunny
+2024-12-13,Saudi Arabia,Cloudy
+2025-01-27,Lebanon,Sunny
+2024-12-02,Israel,Stormy
+2025-02-24,Thailand,Windy
+2025-01-21,Brazil,Stormy
+2025-01-23,American Samoa,Rainy
+2025-02-25,Egypt,Windy
+2024-12-23,Bhutan,Rainy
+2025-03-01,Montenegro,Snowy
+2025-02-19,Japan,Rainy
+2025-02-20,Bahrain,Sunny
+2025-02-25,United Kingdom,Stormy
+2025-02-28,Australia,Windy
+2025-01-05,Oman,Rainy
+2024-12-08,Pitcairn Islands,Snowy
+2024-12-13,Honduras,Sunny
+2024-12-26,Saudi Arabia,Windy
+2024-12-09,Turks and Caicos Islands,Sunny
+2025-02-02,Palestinian Territory,Sunny
+2024-12-17,Micronesia,Snowy
+2025-02-17,Belgium,Rainy
+2024-12-19,Wallis and Futuna,Stormy
+2025-01-28,Grenada,Rainy
+2024-12-17,Vanuatu,Sunny
+2024-12-07,Sierra Leone,Stormy
+2025-01-19,Norfolk Island,Cloudy
+2025-02-19,Tunisia,Windy
+2024-12-21,Bulgaria,Cloudy
+2025-02-07,Cameroon,Windy
+2025-02-13,Jamaica,Snowy
+2025-02-02,Cote d'Ivoire,Cloudy
+2025-01-17,Samoa,Windy
+2025-02-25,Niger,Stormy
+2024-12-06,Christmas Island,Rainy
+2024-12-11,Mongolia,Stormy
+2025-01-31,Luxembourg,Sunny
+2025-01-13,Timor-Leste,Cloudy
+2024-12-22,Germany,Snowy
+2025-01-29,Slovakia (Slovak Republic),Rainy
+2024-12-15,Holy See (Vatican City State),Stormy
+2025-02-28,Mozambique,Snowy
+2025-01-17,Vietnam,Cloudy
+2025-01-14,Barbados,Rainy
+2025-01-25,Trinidad and Tobago,Sunny
+2025-01-11,French Polynesia,Snowy
+2025-01-25,Canada,Windy
+2025-02-17,Poland,Stormy
+2025-01-19,Vanuatu,Snowy
+2025-01-27,Bangladesh,Stormy
+2025-01-04,United States Virgin Islands,Windy
+2025-01-26,Paraguay,Snowy
+2025-01-26,Djibouti,Sunny
+2024-12-30,Micronesia,Cloudy
+2024-12-20,Congo,Snowy
+2025-01-29,Nauru,Sunny
+2024-12-23,Dominica,Rainy
+2025-01-29,American Samoa,Snowy
+2025-01-24,Solomon Islands,Sunny
+2025-01-26,French Guiana,Windy
+2025-02-05,Brazil,Windy
+2025-01-29,Switzerland,Stormy
+2025-02-11,Central African Republic,Sunny
+2025-02-02,Uruguay,Snowy
+2025-01-22,Pitcairn Islands,Windy
+2024-12-25,Egypt,Rainy
+2025-01-17,Nauru,Windy
+2024-12-13,United States Minor Outlying Islands,Rainy
+2025-01-16,Niue,Sunny
+2025-01-27,Belize,Snowy
+2025-02-27,Marshall Islands,Cloudy
+2024-12-12,Saint Kitts and Nevis,Cloudy
+2025-02-09,Mauritania,Cloudy
+2025-02-16,Eritrea,Windy
+2025-01-18,Azerbaijan,Windy
+2025-02-25,Jamaica,Stormy
+2025-01-20,Lebanon,Rainy
+2025-01-02,Uruguay,Rainy
+2025-02-27,Kuwait,Snowy
+2025-02-01,Nigeria,Sunny
+2024-12-15,Bermuda,Snowy
+2025-01-04,Iceland,Rainy
+2025-02-28,Nicaragua,Sunny
+2025-01-31,Qatar,Snowy
+2025-02-08,Gambia,Cloudy
+2025-02-17,Palau,Stormy
+2024-12-07,Serbia,Windy
+2025-02-27,Congo,Sunny
+2025-01-28,South Georgia and the South Sandwich Islands,Stormy
+2025-01-24,Kenya,Rainy
+2025-02-12,Israel,Sunny
+2024-12-08,Puerto Rico,Snowy
+2025-01-11,Martinique,Cloudy
+2024-12-26,Syrian Arab Republic,Rainy
+2025-01-10,Martinique,Cloudy
+2024-12-11,Burkina Faso,Windy
+2025-01-17,Nauru,Windy
+2025-02-19,Vanuatu,Snowy
+2025-02-11,Turkmenistan,Rainy
+2025-01-27,Comoros,Stormy
+2025-02-14,Uganda,Windy
+2025-02-09,Vietnam,Cloudy
+2025-02-19,Sao Tome and Principe,Cloudy
+2024-12-05,Malaysia,Snowy
+2025-02-13,Christmas Island,Stormy
+2025-02-04,Poland,Sunny
+2025-01-27,Mauritania,Cloudy
+2024-12-25,Malawi,Windy
+2025-02-15,Turkey,Sunny
+2025-02-15,Taiwan,Cloudy
+2025-02-10,Pakistan,Stormy
+2025-01-18,Burundi,Sunny
+2025-02-12,Lao People's Democratic Republic,Windy
+2025-01-19,Moldova,Sunny
+2024-12-20,Ireland,Cloudy
+2024-12-23,Kazakhstan,Cloudy
+2025-01-13,Mongolia,Stormy
+2025-01-30,Finland,Stormy
+2025-02-19,Ghana,Rainy
+2025-02-23,Cote d'Ivoire,Windy
+2025-02-16,Hong Kong,Rainy
+2024-12-30,Kenya,Rainy
+2024-12-03,Tonga,Snowy
+2024-12-20,Bulgaria,Rainy
+2025-01-20,Saint Lucia,Stormy
+2024-12-16,Estonia,Sunny
+2025-02-25,Tunisia,Stormy
+2025-01-09,Grenada,Cloudy
+2025-01-10,Guinea-Bissau,Rainy
+2025-02-15,Andorra,Cloudy
+2024-12-28,Croatia,Cloudy
+2024-12-19,Pakistan,Windy
+2025-01-26,Argentina,Cloudy
+2025-02-01,Benin,Sunny
+2024-12-16,Malawi,Rainy
+2024-12-09,Bhutan,Sunny
+2025-02-03,Cameroon,Cloudy
+2024-12-20,Sweden,Snowy
+2024-12-27,Poland,Windy
+2025-02-10,Saint Barthelemy,Windy
+2025-01-21,Costa Rica,Cloudy
+2024-12-11,Lao People's Democratic Republic,Stormy
+2025-01-31,Fiji,Rainy
+2025-01-01,Benin,Rainy
+2025-01-14,French Guiana,Sunny
+2024-12-17,Finland,Snowy
+2025-02-14,Papua New Guinea,Windy
+2024-12-13,Dominica,Cloudy
+2025-02-08,Costa Rica,Windy
+2025-02-24,Georgia,Windy
+2024-12-03,Libyan Arab Jamahiriya,Sunny
+2025-01-20,Taiwan,Cloudy
+2024-12-25,Aruba,Rainy
+2025-02-08,Lesotho,Cloudy
+2025-01-03,Cocos (Keeling) Islands,Sunny
+2025-02-03,Vanuatu,Sunny
+2025-01-05,United Arab Emirates,Stormy
+2024-12-10,Burkina Faso,Cloudy
+2025-01-01,Senegal,Snowy
+2025-01-22,Qatar,Windy
+2025-02-27,Albania,Windy
+2025-02-19,Congo,Stormy
+2025-02-13,Svalbard & Jan Mayen Islands,Rainy
+2025-01-13,Romania,Sunny
+2024-12-28,United Arab Emirates,Rainy
+2024-12-12,Namibia,Snowy
+2024-12-30,Reunion,Sunny
+2025-02-17,Tokelau,Rainy
+2024-12-13,Morocco,Sunny
+2024-12-15,Uganda,Stormy
+2025-01-29,Niger,Sunny
+2025-01-29,Czech Republic,Rainy
+2024-12-05,Kiribati,Stormy
+2025-02-25,Uganda,Snowy
+2025-01-12,Benin,Stormy
+2024-12-14,Liberia,Windy
+2025-01-04,Palau,Snowy
+2025-01-03,Austria,Snowy
+2025-01-05,Paraguay,Sunny
+2025-02-12,South Africa,Snowy
+2025-01-27,Montenegro,Rainy
+2025-01-01,Dominican Republic,Windy
+2025-01-11,Marshall Islands,Stormy
+2025-02-08,India,Stormy
+2024-12-13,Equatorial Guinea,Sunny
+2024-12-14,Marshall Islands,Sunny
+2025-02-08,Kyrgyz Republic,Snowy
+2025-02-18,Egypt,Rainy
+2024-12-23,Lesotho,Stormy
+2025-01-01,Cuba,Snowy
+2025-01-14,Netherlands,Sunny
+2025-02-08,Latvia,Sunny
+2025-02-14,Aruba,Stormy
+2025-01-31,Japan,Sunny
+2025-02-10,Turks and Caicos Islands,Sunny
+2024-12-09,Isle of Man,Stormy
+2025-01-10,Guam,Snowy
+2025-02-02,Niue,Stormy
+2025-01-26,Bolivia,Rainy
+2024-12-14,Chad,Snowy
+2025-02-16,Somalia,Cloudy
+2024-12-16,Congo,Windy
+2025-01-31,Albania,Rainy
+2024-12-12,Sweden,Stormy
+2025-01-20,Marshall Islands,Windy
+2024-12-29,Bhutan,Cloudy
+2025-01-27,Taiwan,Cloudy
+2024-12-19,Australia,Cloudy
+2025-02-25,Benin,Rainy
+2025-02-06,Wallis and Futuna,Stormy
+2024-12-27,Netherlands,Windy
+2025-01-23,Grenada,Windy
+2025-01-30,Pakistan,Snowy
+2025-02-03,Hungary,Cloudy
+2025-02-20,Heard Island and McDonald Islands,Windy
+2024-12-22,Haiti,Stormy
+2025-01-20,Venezuela,Cloudy
+2024-12-14,North Macedonia,Sunny
+2024-12-11,Puerto Rico,Snowy
+2025-01-12,Lebanon,Cloudy
+2025-02-06,British Virgin Islands,Cloudy
+2025-01-10,Qatar,Sunny
+2025-02-15,Western Sahara,Snowy
+2024-12-31,North Macedonia,Cloudy
+2024-12-29,British Indian Ocean Territory (Chagos Archipelago),Rainy
+2025-02-17,Spain,Rainy
+2025-02-24,Marshall Islands,Snowy
+2025-02-03,Pitcairn Islands,Sunny
+2024-12-03,Sudan,Sunny
+2025-02-12,Saint Martin,Cloudy
+2025-01-04,Maldives,Windy
+2025-01-30,Guinea,Snowy
+2025-02-06,Vietnam,Sunny
+2025-02-05,American Samoa,Snowy
+2024-12-10,Canada,Windy
+2025-02-20,Heard Island and McDonald Islands,Rainy
+2025-01-16,Libyan Arab Jamahiriya,Stormy
+2025-01-18,India,Windy
+2024-12-17,Saint Kitts and Nevis,Rainy
+2024-12-07,Taiwan,Cloudy
+2025-01-20,Angola,Rainy
+2025-01-19,Djibouti,Sunny
+2025-02-02,Romania,Snowy
+2025-01-09,Mali,Windy
+2024-12-21,Trinidad and Tobago,Windy
+2025-01-21,Morocco,Windy
+2024-12-25,Malta,Stormy
+2024-12-26,Seychelles,Rainy
+2025-01-02,New Zealand,Rainy
+2024-12-26,Congo,Cloudy
+2024-12-19,Bulgaria,Rainy
+2025-01-08,Comoros,Cloudy
+2025-02-05,Comoros,Stormy
+2025-02-16,British Indian Ocean Territory (Chagos Archipelago),Sunny
+2025-01-03,Cyprus,Windy
+2025-01-21,Singapore,Rainy
+2025-02-19,Oman,Rainy
+2025-02-25,Georgia,Rainy
+2025-02-19,Lesotho,Sunny
+2025-01-28,Ecuador,Sunny
+2025-02-27,Nigeria,Windy
+2024-12-26,Korea,Stormy
+2025-01-02,China,Stormy
+2025-01-23,Pakistan,Windy
+2025-01-04,Morocco,Rainy
+2024-12-28,Saint Helena,Windy
+2025-01-05,Peru,Stormy
+2025-02-16,Italy,Snowy
+2025-03-01,Grenada,Rainy
+2025-01-21,United Kingdom,Rainy
+2024-12-02,Norfolk Island,Rainy
+2024-12-06,Greenland,Stormy
+2025-01-24,Madagascar,Cloudy
+2024-12-15,Gabon,Sunny
+2025-01-16,Eritrea,Sunny
+2025-02-15,Angola,Snowy
+2024-12-31,Somalia,Cloudy
+2025-01-11,Guam,Rainy
+2024-12-11,Heard Island and McDonald Islands,Sunny
+2025-01-10,Central African Republic,Rainy
+2025-01-28,Turks and Caicos Islands,Stormy
+2025-01-27,Gibraltar,Stormy
+2025-02-21,Tonga,Cloudy
+2025-01-04,El Salvador,Windy
+2025-02-09,Belize,Windy
+2025-02-18,Latvia,Snowy
+2025-02-08,Costa Rica,Stormy
+2024-12-17,Brazil,Windy
+2025-02-09,Indonesia,Cloudy
+2025-01-24,Madagascar,Windy
+2025-02-20,Swaziland,Windy
+2025-01-11,Peru,Rainy
+2025-01-01,Jamaica,Snowy
+2024-12-10,Spain,Rainy
+2025-01-14,Antigua and Barbuda,Sunny
+2025-01-01,Libyan Arab Jamahiriya,Snowy
+2025-01-31,Isle of Man,Sunny
+2024-12-19,Cook Islands,Snowy
+2025-02-20,Philippines,Sunny
+2025-01-07,Papua New Guinea,Cloudy
+2025-01-30,Syrian Arab Republic,Stormy
+2025-01-11,Svalbard & Jan Mayen Islands,Sunny
+2025-01-09,Lithuania,Sunny
+2025-02-23,Madagascar,Sunny
+2024-12-25,Faroe Islands,Snowy
+2025-01-31,Trinidad and Tobago,Rainy
+2024-12-16,Cayman Islands,Stormy
+2024-12-21,Reunion,Sunny
+2025-02-05,Reunion,Windy
+2024-12-12,Zimbabwe,Snowy
+2024-12-05,Kiribati,Windy
+2025-02-11,Myanmar,Snowy
+2025-01-22,Dominican Republic,Rainy
+2025-02-02,Tunisia,Snowy
+2025-02-22,Christmas Island,Windy
+2025-02-15,Guadeloupe,Cloudy
+2025-01-06,Bouvet Island (Bouvetoya),Rainy
+2025-01-07,Lebanon,Sunny
+2025-02-05,Montenegro,Cloudy
+2024-12-14,Reunion,Stormy
+2025-02-25,United States Virgin Islands,Stormy
+2024-12-28,Nigeria,Sunny
+2025-01-26,Cuba,Sunny
+2024-12-20,Morocco,Stormy
+2024-12-27,Pitcairn Islands,Windy
+2025-01-11,Montenegro,Rainy
+2025-02-09,Dominican Republic,Snowy
+2024-12-17,Kiribati,Stormy
+2025-02-09,Canada,Windy
+2024-12-24,Guam,Windy
+2025-01-04,Cook Islands,Snowy
+2025-01-26,Myanmar,Stormy
+2025-01-30,Iceland,Snowy
+2025-01-09,Tonga,Snowy
+2024-12-21,Peru,Snowy
+2025-02-20,Greenland,Snowy
+2025-02-07,Malta,Cloudy
+2024-12-14,Micronesia,Snowy
+2025-01-10,Grenada,Stormy
+2024-12-24,Philippines,Stormy
+2025-01-27,Grenada,Rainy
+2024-12-28,Guernsey,Cloudy
+2024-12-23,Burkina Faso,Sunny
+2025-02-27,Suriname,Windy
+2025-01-06,Puerto Rico,Windy
+2024-12-22,Switzerland,Stormy
+2024-12-02,Jamaica,Cloudy
+2025-01-24,United States Virgin Islands,Rainy
+2025-02-09,Korea,Stormy
+2025-02-01,Guyana,Snowy
+2024-12-15,Trinidad and Tobago,Windy
+2025-01-28,United Kingdom,Cloudy
+2025-01-31,China,Rainy
+2025-01-10,Northern Mariana Islands,Stormy
+2024-12-02,Cape Verde,Windy
+2024-12-24,Liechtenstein,Stormy
+2025-01-10,Iraq,Rainy
+2025-02-08,Gibraltar,Rainy
+2024-12-12,Colombia,Sunny
+2025-01-09,Bolivia,Snowy
+2024-12-22,Liberia,Sunny
+2025-01-20,Ireland,Windy
+2024-12-18,Hong Kong,Sunny
+2025-02-25,Slovenia,Cloudy
+2024-12-14,Guadeloupe,Rainy
+2024-12-28,Liberia,Snowy
+2025-02-27,Namibia,Sunny
+2025-01-23,Netherlands,Windy
+2025-01-13,Swaziland,Cloudy
+2024-12-18,Honduras,Rainy
+2024-12-18,Cuba,Snowy
+2025-01-17,Ghana,Rainy
+2025-02-27,Somalia,Sunny
+2025-02-16,Pakistan,Sunny
+2024-12-11,Costa Rica,Sunny
+2025-01-21,El Salvador,Windy
+2024-12-30,Mauritius,Snowy
+2025-01-08,Costa Rica,Sunny
+2025-01-17,Malawi,Stormy
+2025-01-16,Albania,Snowy
+2025-02-17,Macao,Stormy
+2025-02-11,Burundi,Windy
+2025-02-27,Guernsey,Windy
+2024-12-08,Fiji,Stormy
+2025-01-23,Vanuatu,Stormy
+2025-01-15,Trinidad and Tobago,Snowy
+2025-01-16,Nigeria,Rainy
+2025-02-21,Slovenia,Snowy
+2024-12-03,San Marino,Snowy
+2024-12-22,Mauritius,Cloudy
+2025-02-01,Argentina,Windy
+2025-02-14,Singapore,Rainy
+2025-01-25,Rwanda,Sunny
+2024-12-18,Malaysia,Cloudy
+2025-01-29,Sao Tome and Principe,Sunny
+2024-12-11,Guatemala,Sunny
+2025-01-26,Uganda,Windy
+2025-02-13,New Caledonia,Snowy
+2025-01-16,Bouvet Island (Bouvetoya),Stormy
+2025-01-01,Congo,Sunny
+2024-12-29,Morocco,Sunny
+2025-01-06,United Arab Emirates,Snowy
+2025-02-23,Uzbekistan,Cloudy
+2025-02-07,Togo,Snowy
+2025-01-12,Mali,Stormy
+2024-12-30,Zimbabwe,Cloudy
+2025-02-22,Turkmenistan,Windy
+2025-01-01,Mongolia,Cloudy
+2025-02-08,Niue,Rainy
+2025-01-27,Saint Martin,Windy
+2025-02-03,Gibraltar,Windy
+2024-12-02,Armenia,Stormy
+2025-01-13,Burundi,Windy
+2024-12-09,France,Sunny
+2025-02-19,Belarus,Windy
+2025-02-18,Cook Islands,Snowy
+2024-12-31,Korea,Cloudy
+2025-01-14,Monaco,Sunny
+2025-01-28,Mauritania,Sunny
+2024-12-09,Azerbaijan,Windy
+2024-12-11,Yemen,Stormy
+2025-01-31,Sao Tome and Principe,Windy
+2024-12-23,Namibia,Stormy
+2025-02-11,Venezuela,Sunny
+2025-02-01,Burundi,Windy
+2025-02-24,Vanuatu,Cloudy
+2025-01-29,Saint Pierre and Miquelon,Stormy
+2025-02-17,Burkina Faso,Stormy
+2025-01-31,Sao Tome and Principe,Cloudy
+2025-01-30,Andorra,Snowy
+2025-01-15,Azerbaijan,Windy
+2025-02-21,Senegal,Stormy
+2025-02-09,Colombia,Cloudy
+2025-02-09,Korea,Stormy
+2024-12-02,Seychelles,Stormy
+2024-12-30,Ireland,Windy
+2025-01-29,Papua New Guinea,Sunny
+2025-02-05,Cyprus,Sunny
+2025-01-08,Bulgaria,Sunny
+2025-02-19,Mozambique,Snowy
+2025-01-31,Senegal,Cloudy
+2025-02-09,Cook Islands,Snowy
+2024-12-26,French Southern Territories,Cloudy
+2025-01-20,Bosnia and Herzegovina,Sunny
+2024-12-18,Norway,Sunny
+2024-12-15,Kuwait,Snowy
+2025-02-12,Belize,Sunny
+2024-12-07,Papua New Guinea,Stormy
+2025-01-04,Switzerland,Snowy
+2025-02-14,Iraq,Rainy
+2025-02-26,South Georgia and the South Sandwich Islands,Rainy
+2024-12-14,Madagascar,Cloudy
+2025-01-02,Equatorial Guinea,Sunny
+2025-02-24,Mauritius,Cloudy
+2025-01-27,San Marino,Sunny
+2025-02-21,Brunei Darussalam,Rainy
+2025-01-02,Holy See (Vatican City State),Snowy
+2025-01-09,Dominican Republic,Rainy
+2024-12-29,New Zealand,Snowy
+2024-12-19,Spain,Stormy
+2025-01-29,Nauru,Rainy
+2025-01-06,Faroe Islands,Stormy
+2024-12-10,Niger,Cloudy
+2024-12-09,Belize,Cloudy
+2024-12-02,Samoa,Sunny
+2025-01-15,Israel,Snowy
+2025-01-04,French Guiana,Rainy
+2025-01-11,Bouvet Island (Bouvetoya),Sunny
+2024-12-26,Egypt,Cloudy
+2025-02-02,Albania,Stormy
+2024-12-11,Slovenia,Windy
+2025-01-20,Cyprus,Windy
+2025-01-02,Portugal,Snowy
+2024-12-18,Romania,Rainy
+2025-01-02,Puerto Rico,Rainy
+2025-02-02,Romania,Snowy
+2024-12-02,Poland,Cloudy
+2024-12-06,Indonesia,Windy
+2024-12-12,Antigua and Barbuda,Snowy
+2025-01-10,Turkey,Snowy
+2024-12-11,Andorra,Cloudy
+2024-12-25,Palau,Sunny
+2025-01-14,Saint Helena,Snowy
+2024-12-04,Equatorial Guinea,Sunny
+2024-12-08,Mauritania,Snowy
+2025-02-01,Nigeria,Stormy
+2025-01-03,Jersey,Cloudy
+2024-12-07,Bulgaria,Windy
+2025-02-12,Jersey,Stormy
+2024-12-28,Tuvalu,Snowy
+2025-01-03,Guinea,Snowy
+2025-02-01,Croatia,Sunny
+2025-01-24,Cocos (Keeling) Islands,Sunny
+2025-01-30,Morocco,Rainy
+2024-12-24,Bouvet Island (Bouvetoya),Stormy
+2025-02-23,Timor-Leste,Stormy
+2024-12-07,Cameroon,Windy
+2025-02-25,Senegal,Sunny
+2025-01-18,Singapore,Cloudy
+2024-12-10,Dominican Republic,Cloudy
+2025-01-30,Latvia,Snowy
+2025-02-23,Dominican Republic,Rainy
+2025-02-06,New Caledonia,Sunny
+2025-02-06,Indonesia,Sunny
+2025-02-12,Netherlands,Sunny
+2025-02-01,Singapore,Rainy
+2024-12-12,Kenya,Rainy
+2025-01-09,South Georgia and the South Sandwich Islands,Rainy
+2025-02-09,Equatorial Guinea,Sunny
+2024-12-29,Slovenia,Rainy
+2024-12-04,Nigeria,Snowy
+2024-12-26,Lithuania,Rainy
+2024-12-08,Czech Republic,Stormy
+2024-12-20,Niger,Stormy
+2025-02-24,Slovakia (Slovak Republic),Windy
+2024-12-22,North Macedonia,Rainy
+2024-12-02,British Indian Ocean Territory (Chagos Archipelago),Sunny
+2025-02-01,American Samoa,Windy
+2024-12-09,Nigeria,Stormy
+2025-01-05,Holy See (Vatican City State),Rainy
+2024-12-06,Western Sahara,Sunny
+2024-12-27,Congo,Cloudy
+2025-02-21,Turkey,Cloudy
+2024-12-15,Madagascar,Snowy
+2024-12-04,Congo,Cloudy
+2024-12-11,Suriname,Stormy
+2025-01-16,France,Sunny
+2025-02-08,Equatorial Guinea,Stormy
+2025-02-09,Kuwait,Rainy
+2025-02-08,Burundi,Sunny
+2025-01-12,Niue,Cloudy
+2025-02-20,Fiji,Rainy
+2025-01-30,Pakistan,Sunny
+2024-12-19,Western Sahara,Rainy
+2025-01-12,Singapore,Rainy
+2025-02-03,South Georgia and the South Sandwich Islands,Cloudy
+2025-02-14,Oman,Rainy
+2024-12-09,Cambodia,Sunny
+2024-12-18,Albania,Rainy
+2025-01-19,Guadeloupe,Sunny
+2024-12-31,Ukraine,Rainy
+2024-12-14,Bangladesh,Windy
+2024-12-13,Central African Republic,Cloudy
+2025-02-24,Albania,Sunny
+2025-02-27,Denmark,Snowy
+2025-02-18,Malawi,Rainy
+2025-02-20,Azerbaijan,Snowy
+2025-02-15,Saint Barthelemy,Cloudy
+2024-12-04,Haiti,Snowy
+2025-01-25,Norfolk Island,Sunny
+2024-12-10,Palau,Snowy
+2025-01-19,Congo,Snowy
+2024-12-12,Bouvet Island (Bouvetoya),Windy
+2025-02-03,Germany,Stormy
+2025-02-08,Iran,Stormy
+2024-12-26,Turkey,Windy
+2025-02-22,French Southern Territories,Windy
+2025-01-01,Sweden,Snowy
+2024-12-17,Algeria,Sunny
+2024-12-25,Saint Vincent and the Grenadines,Rainy
+2025-02-24,Gambia,Sunny
+2025-01-20,Saint Kitts and Nevis,Sunny
+2025-01-15,Christmas Island,Windy
+2025-01-18,Bahamas,Windy
+2025-01-28,Lao People's Democratic Republic,Windy
+2025-01-01,Panama,Snowy
+2025-02-14,Madagascar,Sunny
+2025-01-08,Puerto Rico,Cloudy
+2024-12-28,Christmas Island,Snowy
+2024-12-05,Pakistan,Rainy
+2024-12-31,Tuvalu,Cloudy
+2025-02-02,Mozambique,Stormy
+2025-01-18,Greece,Sunny
+2024-12-23,Malaysia,Rainy
+2025-02-07,Central African Republic,Cloudy
+2025-01-06,Gambia,Snowy
+2025-03-01,Cocos (Keeling) Islands,Sunny
+2025-02-08,Georgia,Cloudy
+2025-01-07,Papua New Guinea,Sunny
+2025-01-21,Myanmar,Rainy
+2025-02-09,Japan,Sunny
+2025-01-24,Swaziland,Rainy
+2025-02-18,Saint Kitts and Nevis,Rainy
+2025-02-05,Portugal,Snowy
+2024-12-06,North Macedonia,Stormy
+2024-12-09,Zimbabwe,Cloudy
+2024-12-05,Saudi Arabia,Stormy
+2025-01-18,Iceland,Cloudy
+2024-12-23,Greenland,Sunny
+2024-12-12,Lao People's Democratic Republic,Cloudy
+2025-02-12,Malawi,Rainy
+2025-01-03,Palau,Stormy
+2025-01-23,Gambia,Rainy
+2025-01-19,Estonia,Stormy
+2024-12-28,Cuba,Cloudy
+2024-12-20,Thailand,Cloudy
+2024-12-03,Namibia,Windy
+2024-12-31,Antarctica (the territory South of 60 deg S),Rainy
+2025-02-25,Samoa,Snowy
+2025-02-02,North Macedonia,Sunny
+2025-01-28,Slovakia (Slovak Republic),Sunny
+2025-03-01,Saint Helena,Windy
+2025-02-23,Anguilla,Rainy
+2024-12-18,Antarctica (the territory South of 60 deg S),Rainy
+2025-03-01,Honduras,Stormy
+2025-01-19,Brazil,Cloudy
+2025-02-01,Malawi,Cloudy
+2025-01-27,Nigeria,Windy
+2024-12-11,Papua New Guinea,Rainy
+2024-12-06,Austria,Stormy
+2025-02-26,Holy See (Vatican City State),Cloudy
+2025-01-17,Uruguay,Rainy
+2024-12-17,Marshall Islands,Rainy
+2025-01-02,Syrian Arab Republic,Windy
+2025-01-20,Panama,Stormy
+2025-02-17,Montenegro,Cloudy
+2025-01-20,El Salvador,Windy
+2025-01-06,Bahamas,Windy
+2025-02-03,Saint Kitts and Nevis,Snowy
+2025-02-26,Bosnia and Herzegovina,Stormy
+2025-02-23,Qatar,Rainy
+2025-01-19,Sweden,Sunny
+2024-12-07,Korea,Stormy
+2025-02-14,Liechtenstein,Windy
+2024-12-25,Ecuador,Rainy
+2025-01-26,Svalbard & Jan Mayen Islands,Sunny
+2025-02-17,Myanmar,Stormy
+2025-02-28,Kazakhstan,Rainy
+2025-02-20,Malawi,Stormy
+2025-02-09,Svalbard & Jan Mayen Islands,Rainy
+2024-12-24,Namibia,Windy
+2025-02-24,French Guiana,Windy
+2024-12-17,Antigua and Barbuda,Windy
+2024-12-31,British Indian Ocean Territory (Chagos Archipelago),Snowy
+2025-01-18,Hong Kong,Sunny
+2025-02-19,Algeria,Stormy
+2025-01-28,Isle of Man,Stormy
+2025-02-02,Jamaica,Windy
+2025-02-12,Cameroon,Sunny
+2025-02-22,Sri Lanka,Stormy
+2025-02-25,Western Sahara,Sunny
+2024-12-21,United Arab Emirates,Snowy
+2025-01-27,Malta,Snowy
+2024-12-15,Romania,Sunny
+2024-12-28,Somalia,Stormy
+2025-02-01,Saudi Arabia,Sunny
+2024-12-18,Russian Federation,Stormy
+2025-02-07,Lao People's Democratic Republic,Windy
+2025-02-26,Cote d'Ivoire,Snowy
+2025-01-03,Turkey,Cloudy
+2024-12-21,Saint Kitts and Nevis,Rainy
+2024-12-13,Uganda,Sunny
+2025-02-20,Afghanistan,Rainy
+2025-01-09,Seychelles,Rainy
+2025-01-17,Costa Rica,Cloudy
+2024-12-17,Grenada,Rainy
+2025-01-14,Russian Federation,Snowy
+2025-02-18,Thailand,Windy
+2025-02-04,Italy,Cloudy
+2025-01-05,Kuwait,Stormy
+2024-12-23,Isle of Man,Rainy
+2024-12-31,Suriname,Snowy
+2025-02-05,Equatorial Guinea,Snowy
+2025-01-03,Cote d'Ivoire,Cloudy
+2024-12-18,Palau,Sunny
+2025-01-02,Nauru,Rainy
+2024-12-06,Maldives,Windy
+2025-01-05,Estonia,Snowy
+2025-01-20,United States Minor Outlying Islands,Rainy
+2024-12-20,Bahrain,Snowy
+2024-12-16,Cameroon,Stormy
+2024-12-28,Albania,Stormy
+2025-01-17,Nicaragua,Rainy
+2025-01-13,Bermuda,Stormy
+2024-12-14,Sierra Leone,Sunny
+2025-02-08,Bulgaria,Windy
+2025-02-01,Uruguay,Stormy
+2025-02-19,Timor-Leste,Stormy
+2025-01-11,Isle of Man,Sunny
+2024-12-12,Uganda,Sunny
+2024-12-27,Ireland,Snowy
+2025-01-22,Senegal,Stormy
+2025-01-12,Liechtenstein,Windy
+2024-12-19,Peru,Snowy
+2025-01-24,Slovakia (Slovak Republic),Sunny
+2025-02-19,Iran,Cloudy
+2024-12-15,Gambia,Stormy
+2024-12-17,Kenya,Snowy
+2024-12-09,Thailand,Windy
+2025-02-23,Congo,Stormy
+2024-12-17,Trinidad and Tobago,Stormy
+2025-02-03,Micronesia,Sunny
+2025-01-25,San Marino,Cloudy
+2025-02-16,Mongolia,Stormy
+2025-01-29,Syrian Arab Republic,Rainy
