@@ -6,19 +6,11 @@ https://app.powerbi.com/links/v58j-CZ187?ctid=33f00146-6fcc-49e9-b568-7896b3069d
 Query
 
 select 
-	Date
+    Date
     , count(*) as "User Count"
 from 
-	data 
+    data 
 group by 
-	Date
+    Date
 order by 
-	Dateselect 
-	Date
-    , count(*) as "User Count"
-from 
-	data 
-group by 
-	Date
-order by 
-	Date
+    Date
